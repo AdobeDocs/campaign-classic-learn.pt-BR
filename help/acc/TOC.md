@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentação
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 603a2f9eab05af9821c4074f306af57499498c66
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '289'
 ht-degree: 13%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 13%
 + Introdução {#getting-started}
    + [Introdução ao Adobe Campaign Classic](/help/acc/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Explorar a interface do usuário do Adobe Campaign Classic](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
+   + [Gerenciamento de Campanhas de marketing](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [Criação de uma campanha e um email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
    + [Criação de uma lista de recipient](/help/acc/getting-started/creating-a-list-of-recipients.md)
    + [Criação de um fluxo de trabalho](/help/acc/automating-with-workflows/creating-a-workflow.md)
