@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentação
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 75c696abfd57318672bf6f8011c4a501fc6a7bc5
+source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 13%
+source-wordcount: '300'
+ht-degree: 12%
 
 ---
 
@@ -30,8 +30,10 @@ ht-degree: 13%
    + [Criação de uma lista de recipient](/help/acc/getting-started/creating-a-list-of-recipients.md)
    + [Criação de um fluxo de trabalho](/help/acc/automating-with-workflows/creating-a-workflow.md)
    + [Criação de um workflow para construção do target](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [Como importar perfis](/help/acc/data-management/importing-profiles.md)
    + [Gerenciar semente e provas em um email](/help/acc/sending-messages/managing-seed-and-proofs.md)
++ Profile Management {#profile-management}
+   + [Criar e gerenciar perfis](/help/acc/profile-management/create-and-manage-profiles.md)
+   + [Importação de perfis](/help/acc/data-management/importing-profiles.md)
 + Envio de mensagens{#sending-messages}
    + Email Channel{#email-channel}
       + [Criação de uma campanha e um email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
