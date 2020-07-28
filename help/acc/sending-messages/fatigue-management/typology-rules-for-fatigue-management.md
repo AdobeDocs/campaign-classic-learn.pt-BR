@@ -1,6 +1,6 @@
 ---
 title: Como configurar o gerenciamento de fadiga usando o regra de tipologia no Adobe Campaign Classic
-description: O gerenciamento de fadiga controla a frequência e a quantidade de mensagens para evitar a solicitação excessiva de recipient e é frequentemente aplicado usando uma regra de tipologia. Este vídeo explica como implementar o gerenciamento de fadiga no Adobe Campaign Classic, aproveitando as regras de tipologia.
+description: O gerenciamento de fadiga controla a frequência e a quantidade de mensagens para evitar a solicitação excessiva de recipient e é frequentemente aplicado usando uma regra de tipologia. Este vídeo explica como implementar o gerenciamento de fadiga no Adobe Campaign Classic, aproveitando regras de tipologia.
 feature: Fatigue Management
 topics: null
 kt: 1564
@@ -26,7 +26,7 @@ Geralmente, um conjunto de *regras de tipologia* é agrupado em uma *tipologia* 
 
 Isso elimina etapas extras ao criar campanhas e workflows diferentes, garantindo ao mesmo tempo que você esteja sempre direcionando a população certa no momento certo.
 
-Este vídeo explica como implementar o gerenciamento de fadiga no Adobe Campaign Classic, aproveitando as regras de tipologia.
+Este vídeo explica como implementar o gerenciamento de fadiga no Adobe Campaign Classic, aproveitando regras de tipologia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
