@@ -28,18 +28,18 @@ O usuário precisa localizar a ID organizacional IMS (xxx). O administrador prec
 ### Sintoma: Os links na página inicial do Experience Cloud para acesso [!UICONTROL Control Panel] não aparecem para um usuário
 
 **Causa:**
-Os usuários não verão os links até que sejam adicionados como usuários ao Perfil do produto _Campanha-xxx-Administradores/Admin_.
+Os usuários não verão os links até que sejam adicionados como usuários ao Perfil de produto &quot;Campanha-xxx-Administradores/Admin&quot;
 
 **O que fazer:**
-O administrador precisa adicionar o usuário ao Perfil do produto _Campanha-xxx-Admins_ para cada instância que ele deseja gerenciar. Se o usuário for um administrador de todas as instâncias, talvez ainda seja necessário adicioná-lo como &quot;usuários&quot;.
+O administrador precisa adicionar o usuário ao Perfil de produto &quot;Campanha-xxx-Admins&quot; para cada instância que ele deseja gerenciar. Se o usuário for um administrador de todas as instâncias, talvez ainda seja necessário adicioná-lo como &quot;usuários&quot;.
 
 ### Sintoma: Uma Instância não está listada no [!UICONTROL Control Panel]
 
 **Causa:**
-O usuário mais provável precisa ser adicionado como um &quot;usuário&quot; Perfil de produto _Campanha-xxx-Administradores/Admin_ para a instância que está ausente
+O usuário mais provável precisa ser adicionado como um Perfil de produto &quot;usuário&quot; &quot;Campanha-xxx-Administradores/Administrador&quot; para a instância que está ausente
 
 **O que fazer:**
-O administrador precisa adicionar o usuário ao Perfil do produto _Campanha-xxx-Admins_ para cada instância que ele deseja gerenciar. Se o usuário for um administrador de todas as instâncias, talvez ainda seja necessário adicioná-lo como &quot;usuários&quot;.
+O administrador precisa adicionar o usuário ao Perfil de produto &quot;Campanha-xxx-Admins&quot; para cada instância que ele deseja gerenciar. Se o usuário for um administrador de todas as instâncias, talvez ainda seja necessário adicioná-lo como &quot;usuários&quot;.
 
 ### Vídeos úteis
 
