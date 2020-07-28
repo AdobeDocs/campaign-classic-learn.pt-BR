@@ -14,7 +14,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Antes de habilitar as etapas de aprovação, a equipe de marketing deve definir 
 
 ## Configurar aprovações para campanha  {#configuring-approvals-for-campaigns}
 
-Se você tiver o mesmo conjunto de revisores para todos os delivery no fluxo de trabalho da campanha, você aproveitará as funcionalidades de [!DNL Campaign] aprovação. Ao configurar aprovações e revisores no nível de campanha, as tarefas de aprovação e os revisores serão encaminhados para cada atividade de delivery do fluxo de trabalho depois que o fluxo de trabalho for executado.
+Se você tiver o mesmo conjunto de revisores para todos os delivery no fluxo de trabalho da campanha, você aproveitará as funcionalidades de aprovação da Campanha. Ao configurar aprovações e revisores no nível de campanha, as tarefas de aprovação e os revisores serão encaminhados para cada atividade de delivery do fluxo de trabalho depois que o fluxo de trabalho for executado.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
