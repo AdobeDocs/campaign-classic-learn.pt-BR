@@ -10,8 +10,8 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '121'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 5%
 
 Para acessar o [!UICONTROL subdomain management] em [!UICONTROL Control Panel], acesse:
 
-* [Página inicial](https://experience.adobe.com/#/home) do Experience Cloud > Seletor de soluções: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** cartão > **[!UICONTROL Subdomains & Certificates]** cartão
+* [Página inicial](https://experience.adobe.com/#/home) do Experience Cloud > Seletor de soluções: Campanha > Cartão de **Painel de controle do Campaign** > Cartão de **subdomínios e certificados**
 
    ou
 * Diretamente do URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
