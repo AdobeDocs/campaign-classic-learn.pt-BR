@@ -1,6 +1,6 @@
 ---
-title: Configuração de propriedades de template do delivery no Adobe Campaign Classic
-description: O vídeo a seguir mostra como definir as propriedades do template do delivery Classic e explica cada propriedade em detalhes.
+title: Configuração de propriedades de templates do delivery no Adobe Campaign Classic
+description: O vídeo a seguir mostra como definir as propriedades do template do delivery no Adobe Campaign Classic e explica cada propriedade em detalhes.
 feature: Delivery Templates
 topics: Templates
 kt: 1981
