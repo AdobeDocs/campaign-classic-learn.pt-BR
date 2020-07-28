@@ -1,12 +1,12 @@
 ---
-title: Tutoriais do Adobe Campaign Classic - Visão geral
+title: Tutorials Adobe Campaign Classic - Visão geral
 description: O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e capacidades do Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '243'
 ht-degree: 25%
 
 ---
@@ -20,7 +20,7 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 
 * **[Gerenciamento de chaves GPG](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Saiba como gerar e instalar um par de chaves públicas/privadas em uma[!UICONTROL Campaign]instância específica para a criptografia de dados de saída, bem como importar e instalar uma chave pública em uma instância de Campanha para a descriptografia de dados de entrada.*
+   *Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância de Campanha especificada para a criptografia de dados de saída, bem como importar e instalar uma chave pública em uma instância de Campanha para a descriptografia de dados de entrada.*
 
 * **[Delegando subdomínios (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -61,11 +61,11 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
     <p>
   </td>
   <td>
-    <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
       <img alt="Personalizar emails usando blocos de conteúdo dinâmico (vídeo)" src="./assets/ACC-Personalization.png" />
     </a>
     <div>
-      <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
     <strong>Personalizar emails usando blocos de conteúdo dinâmico</strong>
     </a>
     </div>
