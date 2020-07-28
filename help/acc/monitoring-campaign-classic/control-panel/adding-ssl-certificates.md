@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '221'
 ht-degree: 5%
 
 ---
@@ -18,13 +18,13 @@ ht-degree: 5%
 
 # Adicionar certificados SSL
 
-O Adobe Campaign [!UICONTROL Control Panel] permite que você adicione certificados SSL para proteger seus subdomínios.
+O Painel de controle do Campaign Adobe Campaign permite que você adicione certificados SSL para proteger seus subdomínios.
 
 ## Acesso ao Gerenciamento de Subdomínio de Painéis de controle do Campaign
 
 Para acessar o Gerenciamento de subdomínio no Painel de controle do Campaign, acesse:
 
-* [Página inicial](https://experience.adobe.com/#/home) do Experience Cloud > Seletor de soluções: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** cartão > **[!UICONTROL Subdomains & Certificates]** cartão
+* [Página inicial](https://experience.adobe.com/#/home) do Experience Cloud > Seletor de soluções: Campanha > Cartão de **Painel de controle do Campaign** > Cartão de **subdomínios e certificados**
 
    ou
 * Diretamente do URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -50,7 +50,7 @@ Depois de obter o CSR, você precisará comprar o certificado SSL de uma autorid
 
 Depois de obter o certificado SSL, ele precisará ser instalado para os subdomínios que você pretende proteger.
 
-O vídeo abaixo explica como instalar certificados SSL em [!UICONTROL Control Panel].
+O vídeo abaixo explica como instalar certificados SSL no Painel de controle do Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 *Instalar certificados SSL (01:25 min)*
