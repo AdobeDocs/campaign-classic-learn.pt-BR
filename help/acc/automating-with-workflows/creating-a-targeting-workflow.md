@@ -1,6 +1,6 @@
 ---
 title: Criação de um workflow para construção do target
-description: O Adobe Campaign Classic usa workflows para realizar campanhas de definição de metas, criar campanhas ou executar processos técnicos do Adobe Campaign. Neste vídeo, nos concentraremos nos workflows de definição de metas. Os workflows para construção do target permitem que você crie vários targets de delivery.
+description: A Adobe Campaign Classic usa workflows para realizar campanhas de definição de metas, criar campanhas ou executar processos técnicos Adobe Campaign. Neste vídeo, nos concentraremos nos workflows de definição de metas. Os workflows para construção do target permitem que você crie vários targets de delivery.
 feature: Workflows
 topics: Targeting Activities
 kt: 2174
