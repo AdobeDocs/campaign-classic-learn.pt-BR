@@ -1,26 +1,22 @@
 ---
-title: Criação de um fluxo de trabalho
-seo-title: 'Criação de um workflow '
+title: Criação de um workflow
 description: Este vídeo explica como criar um fluxo de trabalho no Adobe Campaign Classic.
-seo-description: Este vídeo explica como criar um fluxo de trabalho no Adobe Campaign Classic.
-uuid: 2b6be688-0569-45e7-93fe-fbfac4819198
-discoiquuid: 09f3dd78-8ef4-46d8-a9dc-5bd54cc1b60d
 feature: Workflow
-topics: Building a workflow
-kt: KT-2175
+topics: null
+kt: 2175
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 56%
+source-wordcount: '189'
+ht-degree: 62%
 
 ---
 
 
-# Criação de um fluxo de trabalho
+# Criação de um workflow
 
 O Adobe Campaign inclui um módulo de workflow que possibilita orquestrar a gama completa de processos e tarefas através dos módulos diferentes do servidor do aplicativo. Esse ambiente gráfico abrangente permite criar processos, inclusive segmentação, execução de campanha, processamento de arquivos, participação humana, etc. O mecanismo de workflow executa e rastreia esses processos.
 
