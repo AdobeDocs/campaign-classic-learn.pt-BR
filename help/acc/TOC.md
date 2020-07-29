@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentação
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 10%
+source-wordcount: '323'
+ht-degree: 9%
 
 ---
 
@@ -26,13 +26,13 @@ ht-degree: 10%
    + [Explorar a interface do usuário do Adobe Campaign Classic](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Gerenciamento de Campanhas de marketing](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [Criação de planos de marketing, programas e campanhas](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Criação de uma campanha e um email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
-   + [Criação de uma lista de recipient](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [Criação de um fluxo de trabalho](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [Criação de uma campanha e um email](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
    + [Direcionamento de perfis em um fluxo de trabalho](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profile Management {#profile-management}
    + [Criar e gerenciar perfis](/help/acc/profile-management/create-and-manage-profiles.md)
    + [Importação de perfis](/help/acc/data-management/importing-profiles.md)
+   + [Criação de uma lista de recipient](/help/acc/profile-management/creating-a-list-of-recipients.md)
+   + [Criação de uma lista de recipient com um fluxo de trabalho](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Envio de mensagens{#sending-messages}
    + Email Channel{#email-channel}
       + [Criação de uma campanha e um email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
@@ -85,5 +85,5 @@ ht-degree: 10%
          + [Descriptografia de dados](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Solução de problemas do Painel de controle do Campaign](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Acesso a um banco de dados externo (FDA) {#fda}
-      + [Grande gestão de dados no Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [Grande gestão de dados em [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
