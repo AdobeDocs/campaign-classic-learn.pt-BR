@@ -8,7 +8,7 @@ doc-type: feature video
 activity: set-up
 team: TM
 translation-type: tm+mt
-source-git-commit: 2666fa2d95ca6df4720ad6a3e3d5789ac283b3a7
+source-git-commit: e9f7405518532d9ba6a203ae846ec12eb1c2f9bd
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 46%
