@@ -4,9 +4,9 @@ description: O Adobe Campaign fornece uma plataforma para projetar experiências
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 25%
 
 ---
@@ -20,7 +20,7 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 
 * **[Gerenciamento de chaves GPG](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância de Campanha especificada para a criptografia de dados de saída, bem como importar e instalar uma chave pública em uma instância de Campanha para a descriptografia de dados de entrada.*
+   *Saiba como gerar e instalar um par de chaves públicas/privadas em uma[!UICONTROL Campaign]instância específica para a criptografia de dados de saída, bem como importar e instalar uma chave pública em uma instância de Campanha para a descriptografia de dados de entrada.*
 
 * **[Delegando subdomínios (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
