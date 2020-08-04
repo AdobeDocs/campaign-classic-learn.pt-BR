@@ -4,10 +4,10 @@ description: O Adobe Campaign fornece uma plataforma para projetar experiências
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 25%
+source-wordcount: '246'
+ht-degree: 24%
 
 ---
 
@@ -49,28 +49,28 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
   </td>
    <td>
     <a href="./monitoring-campaign-classic/audit-trail.md">
-      <img alt="Trilha de auditoria (vídeo)" src="./assets/acc-audit-trail.png" />
+      <img alt="Trilha de auditoria (vídeo)" src="./assets/acc-audit-trail-thumb.png" />
     </a>
     <div>
       <a href="./monitoring-campaign-classic/audit-trail.md">
     <strong>Trilha de auditoria</strong>
     </a>
-    </div>
+    </div> 
     <p>
     <em>Capture uma lista abrangente de ações e eventos que ocorrem dentro do Adobe Campaign.</em>
     <p>
   </td>
   <td>
-    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-      <img alt="Personalizar emails usando blocos de conteúdo dinâmico (vídeo)" src="./assets/ACC-Personalization.png" />
+    <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+      <img alt="Definição de conteúdo de email interativo com AMP (vídeo)" src="./assets/29940.png" />
     </a>
     <div>
-      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-    <strong>Personalizar emails usando blocos de conteúdo dinâmico</strong>
+      <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+    <strong>Definição de conteúdo de email interativo com AMP</strong>
     </a>
     </div>
     <p>
-    <em>Personalize mensagens usando critérios de perfis de recipient. </em>
+    <em>Saiba como ativar e usar a AMP no Adobe Campaign Classic </em>
     <p>
   </td>
 </tr>
