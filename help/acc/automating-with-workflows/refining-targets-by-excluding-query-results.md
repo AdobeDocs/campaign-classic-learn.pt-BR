@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '137'
 ht-degree: 8%
 
 ---
@@ -36,4 +36,4 @@ Tutoriais:
 * [Direcionamento de perfis em um fluxo de trabalho](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 * [Criação de um workflow para construção do target](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
 * [Refinar públicos alvos combinando resultados de query](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [Criação de listas com um fluxo de trabalho](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+* [Usar a atividade de lista de atualização para criar uma lista com um fluxo de trabalho](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
