@@ -3,17 +3,17 @@ product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Tutorials Adobe Campaign Classic
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
-solution-title: Liga de experiência
+solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutoriais
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentação
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
+source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 9%
+source-wordcount: '350'
+ht-degree: 25%
 
 ---
 
@@ -74,17 +74,16 @@ ht-degree: 9%
 + Administração {#administrating}
    + Painel de controle do Campaign {#control-panel-acc}
       + [Visão geral do Painel de controle do Campaign](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [Monitorando a capacidade do servidor, permitindo a listagem de endereços IP e a adição de chaves SSH](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [Gerando uma Chave SSH](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
+      + [Monitorar a capacidade do servidor, permitindo a listagem de endereços IP e a adição de chaves SSH](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+      + [Geração de uma chave SSH](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
       + [Conexão com um servidor SFTP](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
       + [Delegar subdomínios](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-      + [Adicionando certificados SSL](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [Gerenciamento de certificados SSL](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
+      + [Adicionar certificados SSL](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [Adicionando permissões de URL](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
       + [IP permite listagem para Acesso à Instância](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Gerenciamento de registros TXT do Google](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + Gerenciamento de chaves GPG {#gpg-key-management}
-         + [Gerenciamento de chaves GPG - visão geral](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
+         + [Gerenciamento de chaves GPG – visão geral](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
          + [Geração e instalação de chaves GPG para criptografia de dados](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
          + [Uso de uma chave GPG para criptografar dados](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
          + [Descriptografia de dados](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
