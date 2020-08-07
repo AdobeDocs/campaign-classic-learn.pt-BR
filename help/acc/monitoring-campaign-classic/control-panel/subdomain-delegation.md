@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: ce29e5dc91fad713ac0d19752dd8f84f9889df38
+source-git-commit: 2766ffbc937d7848962342ec5bc58c1dde6803a4
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 42%
@@ -20,7 +20,7 @@ ht-degree: 42%
 
 >[!NOTE]
 >
-> Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
+>Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
