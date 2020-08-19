@@ -1,5 +1,5 @@
 ---
-title: Explore a interface do usuário do Adobe Campaign Classic
+title: Explorar a interface do usuário do Adobe Campaign Classic
 description: Esta lição explica a principal interface do usuário do Adobe Campaign Classic e mostra como navegar pela funcionalidade principal.
 feature: User Interface
 topics: Getting started
@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: 00675007e4ec0f3276e5018360b6d491af0f6e57
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 22%
+ht-degree: 100%
 
 ---
 
 
-# Explore a interface do usuário do Adobe Campaign Classic
+# Explorar a interface do usuário do Adobe Campaign Classic
 
 Esta lição explica a principal interface do usuário do Adobe Campaign Classic e mostra como navegar pela funcionalidade principal.
 
