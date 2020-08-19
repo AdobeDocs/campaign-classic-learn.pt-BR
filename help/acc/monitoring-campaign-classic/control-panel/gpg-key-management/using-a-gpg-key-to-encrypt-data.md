@@ -1,5 +1,5 @@
 ---
-title: 'Uso de uma chave GPG para criptografar dados '
+title: 'Usar uma chave GPG para criptografar dados '
 description: Saiba como exportar dados usando uma chave GPG instalada no Painel de controle do Campaign.
 feature: Control Panel
 topics: GPG Key Management
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 2666fa2d95ca6df4720ad6a3e3d5789ac283b3a7
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Uso de uma chave GPG para criptografar dados
+# Usar uma chave GPG para criptografar dados
 
 Saiba como exportar dados usando uma chave GPG instalada no Painel de controle do Campaign.
 
@@ -26,4 +26,4 @@ Saiba como exportar dados usando uma chave GPG instalada no Painel de controle d
 ## Recursos adicionais
 
 * [Gerenciamento de chaves GPG (vídeos)](./gpg-key-management-overview.md)
-* [Gerenciamento de chaves GPG (documentação)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [Gerenciamento de chaves GPG (documentação)](https://docs.adobe.com/content/help/pt-BR/control-panel/using/instances-settings/gpg-keys-management.html)
