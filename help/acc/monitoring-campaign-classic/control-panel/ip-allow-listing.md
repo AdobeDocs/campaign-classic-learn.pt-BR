@@ -1,6 +1,6 @@
 ---
-title: IP permite listagem para Acesso à Instância
-seo-title: IP permite listagem para Acesso à Instância
+title: Lista de permissões de IP para acessar a instância
+seo-title: Lista de permissões de IP para acessar a instância
 description: O vídeo abaixo explica como configurar novas conexões para suas instâncias, permitindo a listagem de intervalos de endereços IP.
 seo-description: O vídeo abaixo explica como configurar novas conexões para suas instâncias, permitindo a listagem de intervalos de endereços IP.
 feature: IP allow listing
@@ -13,30 +13,31 @@ translation-type: tm+mt
 source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# IP permite listagem para Acesso à Instância
+# Lista de permissões de IP para acessar a instância
 
-O Painel de controle do Campaign permite que você configure novas conexões para suas instâncias, permitindo a listagem de intervalos de endereços IP. Por padrão, uma instância do Adobe Campaign Classic não pode ser acessada de vários endereços IP. Portanto, um endereço IP precisa ser permitido listado:
+O Painel de controle do Campaign permite configurar novas conexões para suas instâncias ao adicionar intervalos de endereços IP à lista de permissões. Por padrão, a instância do Adobe Campaign Classic não pode ser acessada por vários endereços IP. Portanto, um endereço IP precisa constar na lista de permissões:
 
-* Para permitir acesso à [!DNL Campaign] instância a partir deste endereço IP
-* Para conectar uma API ao seu Centro de mensagens ou instância de marketing
+* Para permitir acesso à instância do [!DNL Campaign] por este endereço IP
+* Para conectar uma API ao seu centro de mensagens ou instância de marketing
 
-## Acessar configurações de instância de Painel de controle do Campaign
+## Acessar configurações da instância do Painel de controle do Campaign
 
-Para acessar o Gerenciamento de subdomínio no Painel de controle do Campaign, acesse:
+Para acessar o gerenciamento de subdomínio no Painel de controle do Campaign, acesse:
 
-* [Página inicial](https://experience.adobe.com/#/home) do Experience Cloud > Seletor de soluções: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** cartão > **Cheiro de configurações** de instâncias
-* Diretamente do URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **Instances Settings** card
+ou
+* Diretamente pelo URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
-## Como lista de permissões endereços IP
+## Como inserir endereços IP à lista de permissões
 
-O vídeo abaixo descreve como lista de permissões endereços IP usando o painel de controle.
+O vídeo abaixo descreve como inserir endereços IP à lista de permissões usando o painel de controle.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 *Lista de permissões de IP (03:24 min)*
 
-Para obter mais informações sobre IP, consulte a documentação [](https://helpx.adobe.com/br/campaign/kb/control-panel-instance-settings.html)detalhada do produto.
+Para obter mais informações sobre IP, consulte a [documentação detalhada do produto](https://helpx.adobe.com/br/campaign/kb/control-panel-instance-settings.html).
