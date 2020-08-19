@@ -1,8 +1,8 @@
 ---
 title: Painel de controle do Campaign
 seo-title: Painel de controle do Campaign
-description: O Painel de controle do Campaign permite monitorar e gerenciar o armazenamento SFTP por instância e endereços IP na lista de permissões.
-seo-description: O Painel de controle do Campaign permite monitorar e gerenciar o armazenamento SFTP por instância e endereços IP na lista de permissões.
+description: O Painel de controle do Campaign permite monitorar e gerenciar o armazenamento SFTP por instância e endereços IP de lista de permissões.
+seo-description: O Painel de controle do Campaign permite monitorar e gerenciar o armazenamento SFTP por instância e endereços IP de lista de permissões.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: ca3b7933927914b9965f6f059293041dd1db1da2
 workflow-type: tm+mt
 source-wordcount: '419'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -22,10 +22,10 @@ ht-degree: 76%
 
 >[!NOTE]
 >
->Os termos &quot;[!UICONTROL whitelist]&quot; e &quot;[!UICONTROL blacklist]&quot; foram substituídos por &quot;[!UICONTROL allow list]&quot; e &quot;[!UICONTROL block list]&quot;na documentação do Adobe Campaign.
+>Os termos &quot;[!UICONTROL whitelist]&quot; e &quot;[!UICONTROL blacklist]&quot; foram substituídos pelos termos &quot;[!UICONTROL allow list]&quot; e &quot;[!UICONTROL block list]&quot;na documentação do Adobe Campaign.
 >Algumas ocorrências desses termos ainda podem existir na interface do usuário do produto, nomes de opções e código interno, bem como nos vídeos de tutoriais. Eles serão substituídos em versões futuras do Painel de controle do Campaign.
 
-O [!UICONTROL Control Panel] permite que os administradores do Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância ou [!UICONTROL allow list] endereços IP.
+O [!UICONTROL Control Panel] permite que os administradores do Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância ou endereços IP do [!UICONTROL allow list].
 
 ## Acesso ao [!UICONTROL Control Panel]
 
@@ -34,7 +34,7 @@ Para acessar o Painel de controle do Campaign, vá até a página inicial da Exp
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
    ou
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel]cartão **
+* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel]card**
 
    ou
 
@@ -54,53 +54,53 @@ Você precisa conhecer o seu [!DNL IMS org ID]. O vídeo a seguir descreve onde 
 ### Direitos do administrador
 
 Os direitos de administrador são necessários para acessar o [!UICONTROL Control Panel].
-O vídeo a seguir explica como adicionar um administrador a uma instância do Campaign.
+O vídeo a seguir explica como adicionar um administrador a uma instância do Campaign
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Como adicionar um administrador ao perfil &quot;[!UICONTROL Administrators]&quot; do produto para poder usar[!UICONTROL Control Panel](01:03 min)*
+*Como adicionar um administrador ao perfil &quot;[!UICONTROL Administrators]&quot; do produto para usar[!UICONTROL Control Panel](01:03 min)*
 
 ## [!UICONTROL Control Panel] tutoriais
 
-* **Gerenciamento de servidores SFTP**
+* **Gerenciar servidores SFTP**
 
-   *Saiba como monitorar a capacidade do servidor, os endereços IP e[!UICONTROL allow list]adicionar chaves SSH*
+   *Saiba como monitorar a capacidade do servidor, endereços IP[!UICONTROL allow list]e adicionar chaves SSH*
 
    * [Monitorar a capacidade do servidor, permitindo a listagem de endereços IP e a adição de chaves SSH](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-   * [Geração de uma chave SSH](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
-   * [Conexão com um servidor SFTP](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
+   * [Gerar uma chave SSH](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
+   * [Conectar um servidor SFTP](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
 
 * **[Delegar subdomínios](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
-   *Saiba como delegar completamente um subdomínio ao[!UICONTROL Adobe Campaign]*
+   *Saiba como delegar totalmente um subdomínio para[!UICONTROL Adobe Campaign]*
 
 * **[Adicionar certificados SSL](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
 
-   *Saiba como você pode adicionar certificados SSL para proteger seus subdomínios usando o Painel de controle do Campaign.*
+   *Saiba como adicionar certificados SSL para proteger seus subdomínios usando o Painel de controle do Campaign.*
 
 * **[Adicionar permissões de URL](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
 
-   *como adicionar alguns URLs externos à lista de URLs autorizados, para que sua instância possa se conectar a eles.*
+   *como adicionar URLs externos à lista de URLs autorizados para que sua instância possa se conectar a eles.*
 
-* **[Lista de permissões de IP para acesso de instância](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[Lista de permissões de IP para acessar a instância](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
-   *Saiba como configurar novas conexões com suas instâncias por intervalos de endereços[!UICONTROL allow listing]IP.*
+   *Saiba como configurar novas conexões com suas instâncias por intervalos de endereços de IP do[!UICONTROL allow listing].*
 
 * **[Gerenciamento de registros TXT do Google](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)**
 
-   *Saiba como adicionar um registro de verificação de[!DNL Google TXT]site a todos os seus subdomínios usados para enviar emails para[!DNL GMAIL]endereços pelo[!UICONTROL Campaign Control Panel].*
+   *Saiba como adicionar um registro de verificação de site[!DNL Google TXT]a todos os subdomínios usados para enviar emails para endereços[!DNL GMAIL]pelo[!UICONTROL Campaign Control Panel].*
 
 * **Gerenciamento de chaves GPG**
 
-   *Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância do Campaign especificada para a criptografia de dados de saída, bem como importar e instalar uma chave pública em uma instância do Campaign para a descriptografia de dados de entrada:*
+   *Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância do Campaign especificada para criptografar dados de saída, bem como importar e instalar uma chave pública em uma instância do Campaign para descriptografar dados de entrada:*
 
-   * [Geração e instalação de chaves GPG para criptografia de dados](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-   * [Uso de uma chave GPG para criptografar dados](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-   * [Descriptografia de dados](./gpg-key-management/decrypting-data.md)
+   * [Gerar e instalar chaves GPG para criptografia de dados](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [Usar uma chave GPG para criptografar dados](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [Descriptografar dados](./gpg-key-management/decrypting-data.md)
 
-* **[Resolução de problemas do painel de controle](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)**
+* **[Solução de problemas do Painel de controle do Campaign](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)**
 
-   *Entenda como solucionar problemas do[!UICONTROL Control Panel]*
+   *Saiba como solucionar problemas do[!UICONTROL Control Panel]*
 
 ## Recursos adicionais
 
-* [Centro de ajuda do Painel de controle do Campaign](https://docs.adobe.com/content/help/pt-BR/control-panel/using/control-panel-home.html)
+* [Centro de ajuda do Painel de controle do Campaign](https://docs.adobe.com/content/help/pt-BR/control-panel/using/control-panel-home.translate.html)
