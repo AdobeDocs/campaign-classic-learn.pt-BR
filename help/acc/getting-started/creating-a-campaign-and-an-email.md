@@ -1,24 +1,25 @@
 ---
-title: 'Criar uma campanha e um email '
-description: Este vídeo explica como criar uma campanha e um email no Adobe Campaign Classic.
+title: Criação de um email a partir de uma campanha
+description: Saiba como criar um delivery de email diretamente de uma campanha.
 feature: Email
-topics: Getting started
+topics: null
 kt: 2172
+thumbnail: 25604.jpg
 doc-type: feature video
-activity: setup
+activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
+source-git-commit: 8d28a093766e0b247d00e4b3c4f8735da5bc342e
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '66'
+ht-degree: 48%
 
 ---
 
 
-# Criar uma campanha e um email
+# Criação de um email a partir de uma campanha
 
-Este vídeo explica como criar uma campanha e um email no Adobe Campaign Classic.
+Saiba como criar um delivery de email diretamente de uma campanha.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
 
