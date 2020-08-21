@@ -3,23 +3,23 @@ title: Personalizar emails - Crie um boletim multilíngue usando conteúdo condi
 description: Saiba como adicionar conteúdo condicional a um delivery no exemplo de um boletim multilíngue.
 feature: Dynamic Content Blocks
 topics: Email Channel
-kt: 1559
+kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 8bd36a13c027138f9555ea800f6f435b135f1e8c
+source-git-commit: 8d28a093766e0b247d00e4b3c4f8735da5bc342e
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 3%
+ht-degree: 35%
 
 ---
 
 
 # Personalizar emails - Crie um boletim multilíngue usando conteúdo condicional
 
-Ao configurar campos de conteúdo condicional, você pode criar personalização avançada. Blocos de texto completos e/ou imagens são substituídos quando uma condição específica é atendida.
+Ao configurar campos de conteúdo condicional, você pode criar personalização avançada. Quando uma determinada condição é atendida, blocos de texto e/ou imagens completas são substituídos.
 
 Saiba como adicionar conteúdo condicional a um delivery no exemplo de um boletim multilíngue.
 
@@ -29,7 +29,7 @@ Saiba como adicionar conteúdo condicional a um delivery no exemplo de um boleti
 
 Documentação:
 
-* [Sobre personalização](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [Sobre personalização](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
 * [Conteúdo condicional](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
 
 Tutorials de vídeo:
