@@ -1,24 +1,25 @@
 ---
 title: Como gerenciar semente e provas em um email
-description: Neste vídeo, você aprenderá a adicionar sementes e provas a um email existente e como enviá-lo.
-feature: Seed address management
-topics: Email Channel
+description: Saiba como adicionar sementes e provas a um email existente e como enviá-lo.
+feature: Email
+topics: null
 kt: 2178
+thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
+source-git-commit: 8d28a093766e0b247d00e4b3c4f8735da5bc342e
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 8%
+source-wordcount: '77'
+ht-degree: 9%
 
 ---
 
 
 # Como gerenciar semente e provas em um email
 
-Neste vídeo, você aprenderá a adicionar sementes e provas a um email existente e como enviá-lo.
+Saiba como adicionar sementes e provas a um email existente e como enviá-lo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
 
