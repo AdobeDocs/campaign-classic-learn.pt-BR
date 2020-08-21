@@ -10,7 +10,7 @@ tutorials-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic-learn/
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: a5efb8f8230373b9aa3c5dd2f85305f4685e9190
+source-git-commit: faec1533178c9bd70474a682557c6a1a8ed2b535
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 76%
@@ -49,7 +49,7 @@ ht-degree: 76%
       + [Configurar as propriedades do template do delivery](/help/acc/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Implantar um template do delivery de email ad-hoc](/help/acc/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
    + Correspondência direta {#direct-mail}
-      + [Criando delivery de mala direta](help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
+      + [Criando delivery de mala direta](/help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Gerenciamento de fadiga{#fatigue-management}
       + [Usar regras de tipologia](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Usar filtros predefinidos](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
