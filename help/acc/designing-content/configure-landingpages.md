@@ -1,6 +1,6 @@
 ---
 title: Como configurar o landing page no Adobe Campaign Classic
-description: A Adobe Campaign Classic permite que você crie e hospede várias páginas da Web em seu servidor, incluindo pesquisas online, centros de preferências, páginas de cancelamento de assinatura. Este vídeo demonstra como navegar no editor de aplicativos da Web da Adobe Campaign criando um centro de preferências.
+description: A Adobe Campaign Classic permite que você crie e hospede várias landings page em seu servidor, incluindo pesquisas on-line, centros de preferências, páginas de cancelamento de assinatura. Este vídeo demonstra como navegar no editor de aplicativos da Web da Adobe Campaign criando um centro de preferências.
 feature: Landing Pages
 topics: Configure
 kt: 1562
@@ -9,9 +9,9 @@ doc-type: feature video
 activity: setup
 team: DOC
 translation-type: tm+mt
-source-git-commit: 4a0f1fd9de07e5d81f3fcc1db93b4b27ac2e75b1
+source-git-commit: 25c52ebde4c815fd7073dffb90973afc86b7bffb
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Como configurar o landing page
 
-A Adobe Campaign Classic permite que você crie e hospede várias páginas da Web em seu servidor, incluindo pesquisas online, centros de preferências, páginas de cancelamento de assinatura.
+A Adobe Campaign Classic permite que você crie e hospede várias landings page em seu servidor, incluindo pesquisas on-line, centros de preferências, páginas de cancelamento de assinatura.
 
 Este vídeo demonstra como navegar no editor de aplicativos da Web da Adobe Campaign criando um centro de preferências.
 
