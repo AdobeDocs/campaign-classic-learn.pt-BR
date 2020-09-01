@@ -9,8 +9,9 @@ tutorials-title: Tutoriais
 tutorials-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
+type: Tutorial
 translation-type: tm+mt
-source-git-commit: faec1533178c9bd70474a682557c6a1a8ed2b535
+source-git-commit: 1f0de3205220dab1814a28070a4014d01f0b7a34
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 76%
@@ -27,7 +28,7 @@ ht-degree: 76%
    + [Gerenciar Campanhas de marketing](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [Criar planos de marketing, programas e campanhas](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Criar uma campanha e um email](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
-   + [Direcionamento de perfis em um fluxo de trabalho](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Direcionando perfis em um fluxo de trabalho](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profile Management {#profile-management}
    + [Criar e gerenciar perfis](/help/acc/profile-management/create-and-manage-profiles.md)
    + [Importação de perfis](/help/acc/data-management/importing-profiles.md)
