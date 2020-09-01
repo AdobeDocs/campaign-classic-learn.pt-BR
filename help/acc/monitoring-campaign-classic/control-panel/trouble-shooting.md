@@ -47,7 +47,7 @@ O administrador precisa adicionar o usuário ao perfil do produto _Campaign-xxx-
 *Verificar IMS Org ID (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Como adicionar um administrador aos administradores do perfil do produto para utilizar o[!UICONTROL Control panel](01:03 min)*
+*Como adicionar um administrador aos administradores do perfil do produto para utilizar o[!UICONTROL Control panel] (01:03 min)*
 
 ### Documentação útil
 
