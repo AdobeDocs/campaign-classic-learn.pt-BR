@@ -1,26 +1,26 @@
 ---
 title: Adicionar permissões de URL
-seo-title: Adicionar permissões de URL
-description: 'O Painel de controle do Campaign permite adicionar URLs externos à lista de URLs autorizados para que sua instância possa se conectar a eles.  '
-seo-description: 'O Painel de controle do Campaign permite adicionar URLs externos à lista de URLs autorizados para que sua instância possa se conectar a eles. '
-feature: URl Permissions
-topics: Control Panel
+description: Saiba como estabelecer uma conexão da sua instância do Adobe Campaign Classic com um URL externo.
+feature: Control Panel
+topics: Instance Settings
 kt: 3259
+thumbnail: 28149.jpg
 doc-type: feature video
 activity: use
-team: PM
+team: TM
 translation-type: tm+mt
-source-git-commit: 7518219e6e6e60a558cfb9026c1f401018927028
+source-git-commit: fd0f2b11328c0f780558410277fcf6a4aa8e85d3
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '51'
+ht-degree: 29%
 
 ---
 
 
 # Adicionar permissões de URL
 
-O Painel de controle do Campaign permite adicionar URLs externos à lista de URLs autorizados para que sua instância possa se conectar a eles.  Para obter mais informações, consulte Sobre permissões de URL. Para obter mais informações, consulte [Sobre permissões de URL](https://helpx.adobe.com/br/campaign/kb/control-panel-instance-settings.html).
+Saiba como estabelecer uma conexão da sua [!UICONTROL Adobe Campaign Classic] instância com um URL externo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
-*Adicionar permissões de URL (01:52 min)*
+
+For more information please see [URL permissions](https://docs.adobe.com/content/help/pt-BR/control-panel/using/instances-settings/url-permissions.html).
