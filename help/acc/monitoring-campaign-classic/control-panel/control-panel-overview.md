@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: ca3b7933927914b9965f6f059293041dd1db1da2
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '419'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -49,7 +49,7 @@ Antes de começar, conclua os seguintes pré-requisitos:
 Você precisa conhecer o seu [!DNL IMS org ID]. O vídeo a seguir descreve onde você pode pesquisar o [!DNL IMS org ID] da sua instância.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Verificação[!DNL IMS Org ID] (00:26 min)*
+*Verificação[!DNL IMS Org ID](00:26 min)*
 
 ### Direitos do administrador
 
@@ -57,7 +57,7 @@ Os direitos de administrador são necessários para acessar o [!UICONTROL Contro
 O vídeo a seguir explica como adicionar um administrador a uma instância do Campaign
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Como adicionar um administrador ao perfil &quot;[!UICONTROL Administrators]&quot; do produto para usar[!UICONTROL Control Panel] (01:03 min)*
+*Como adicionar um administrador ao perfil &quot;[!UICONTROL Administrators]&quot; do produto para usar[!UICONTROL Control Panel](01:03 min)*
 
 ## [!UICONTROL Control Panel] tutoriais
 
@@ -81,7 +81,7 @@ O vídeo a seguir explica como adicionar um administrador a uma instância do Ca
 
    *como adicionar URLs externos à lista de URLs autorizados para que sua instância possa se conectar a eles.*
 
-* **[Lista de permissões de IP para acessar a instância](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[Adicionar endereços IP ao lista de permissões](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
    *Saiba como configurar novas conexões com suas instâncias por intervalos de endereços de IP do[!UICONTROL allow listing].*
 
