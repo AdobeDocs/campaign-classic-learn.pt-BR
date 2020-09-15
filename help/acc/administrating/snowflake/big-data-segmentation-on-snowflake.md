@@ -3,14 +3,14 @@ title: Grande gestão de dados no Snowflake
 description: Este tutorial explica como aproveitar o conector de Snowflake no Adobe Campaign Classic
 feature: Snowflake
 topics: FDA
-kt: 4450
+kt: 4405
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 0c330ade07ba8bcdb825a632c7ac319fa8c845e9
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '107'
 ht-degree: 6%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # Grande gestão de dados no Snowflake
 
-Este tutorial explica como aproveitar o conector de Snowflake no Adobe Campaign Classic.
+Este tutorial explica como aproveitar o [!DNL Snowflake] conector no Adobe Campaign Classic.
 Você aprenderá como
 
 * Conectar-se ao Snowflake
