@@ -8,10 +8,10 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '339'
+ht-degree: 100%
 
 ---
 
@@ -44,9 +44,11 @@ O administrador precisa adicionar o usuário ao perfil do produto _Campaign-xxx-
 ### Vídeos úteis
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *Verificar IMS Org ID (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *Como adicionar um administrador aos administradores do perfil do produto para utilizar o[!UICONTROL Control panel](01:03 min)*
 
 ### Documentação útil
