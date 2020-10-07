@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 100%
 
 ---
 
@@ -34,4 +34,5 @@ Para acessar o gerenciamento SFTP no Painel de controle do Campaign, acesse:
 O vídeo abaixo explica como gerar uma chave SSH usando um terminal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
+
 *Como criar uma chave SSH (2:16 min)*
