@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '212'
+ht-degree: 100%
 
 ---
 
@@ -41,6 +41,7 @@ A solicitação de assinatura de certificado (CSR) é necessária para a aquisi�
 O vídeo abaixo descreve como gerar uma solicitação de assinatura de certificado no Painel de controle do Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+
 *Gerar solicitações de assinatura de certificado (02:36 min)*
 
 ### 2. Adquirir o certificado SSL
@@ -54,6 +55,7 @@ Após obter o certificado SSL, será necessário instalá-lo para os subdomínio
 O vídeo abaixo explica como instalar certificados SSL em [!UICONTROL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+
 *Instalar certificados SSL (01:25 min)*
 
 ## Recursos adicionais
