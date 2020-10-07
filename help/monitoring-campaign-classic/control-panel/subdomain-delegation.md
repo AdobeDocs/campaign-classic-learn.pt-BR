@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 85%
 
 ---
 
@@ -37,6 +37,7 @@ ou
 O vídeo abaixo demonstra como delegar subdomínios.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
+
 *Delegar subdomínios (05:07 min)*
 
 ## Recursos adicionais
