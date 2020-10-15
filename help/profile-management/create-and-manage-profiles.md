@@ -1,6 +1,6 @@
 ---
 title: Criar e gerenciar perfis
-description: Entenda o conceito de perfis no Adobe Campaign Classic. Saiba como acessar os dados do perfil, classificar e filtrar perfis, além de criar e gerenciar perfis manualmente. Este vídeo também explica a conformidade da Adobe Campaign Classic com o Regulamento Geral de Proteção de Dados (RGPD) e a Lei de Privacidade do Consumidor da Califórnia (CCPA).
+description: Entenda o conceito de perfis no Adobe Campaign Classic. Saiba como acessar os dados do perfil, classificar e filtrar perfis, além de criar e gerenciar perfis manualmente. Este vídeo também explica a conformidade do Adobe Campaign Classic com o Regulamento Geral sobre a Proteção de Dados (GDPR) e a Lei de Privacidade do Consumidor da Califórnia (CCPA).
 feature: Profiles
 topics: null
 kt: 5081
@@ -12,8 +12,8 @@ role: user
 translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '142'
+ht-degree: 85%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Entenda o conceito de perfis no Adobe Campaign Classic. Saiba como acessar os dados do perfil, classificar e filtrar perfis, além de criar e gerenciar perfis manualmente.
 
-Este vídeo também explica a conformidade da Adobe Campaign Classic com o Regulamento Geral de Proteção de Dados (RGPD) e a Lei de Privacidade do Consumidor da Califórnia (CCPA).
+Este vídeo também explica a conformidade do Adobe Campaign Classic com o Regulamento Geral sobre a Proteção de Dados (GDPR) e a Lei de Privacidade do Consumidor da Califórnia (CCPA).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12)
 
