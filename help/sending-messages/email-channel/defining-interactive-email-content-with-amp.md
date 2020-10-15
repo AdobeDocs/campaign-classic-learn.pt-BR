@@ -8,11 +8,11 @@ thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '142'
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Atualmente, ele é aceito por dois provedores de email: Gmail e Outlook.
 
 O vídeo abaixo explica como ativar o AMP no Adobe Campaign Classic e mostra sua utilização.
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on&captions=por_br)
 
 ## Recursos adicionais
 
