@@ -8,22 +8,22 @@ thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '124'
+ht-degree: 100%
 
 ---
 
 
 # Personalização de emails usando campos de personalização
 
-Os campos de personalização são usados para personalização de primeiro nível do conteúdo das mensagens de delivery. Os campos inseridos em um conteúdo principal mostram a posição onde inserir os dados de uma fonte de dados selecionada.
+Os campos de personalização são usados para personalização de primeiro nível do conteúdo das mensagens de delivery. Os campos inseridos em um conteúdo principal mostram onde inserir os dados da fonte de dados selecionada.
 
 Saiba como adicionar um campo de personalização à linha de assunto e ao conteúdo de um delivery de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&captions=por_br)
 
 ## Recursos adicionais
 
@@ -34,5 +34,5 @@ Documentação:
 
 Tutoriais:
 
-* [Personalização de emails usando blocos de conteúdo dinâmico](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [Personalizar emails - Crie um boletim multilíngue usando conteúdo condicional](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [Personalizar emails usando blocos de conteúdo dinâmico](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+* [Personalizar emails – Crie um boletim multilíngue usando conteúdo condicional](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
