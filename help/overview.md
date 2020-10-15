@@ -3,11 +3,11 @@ title: Tutoriais do Adobe Campaign Classic – Visão geral
 description: O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '250'
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 
 * **[Gerenciamento de chaves GPG](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância específica do[!UICONTROL Campaign]para criptografar dados de saída, bem como importar e instalar uma chave pública em uma instância do Campaign para descriptografar dados de entrada.*
+   *Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância específica do [!UICONTROL Campaign] para criptografar dados de saída, bem como importar e instalar uma chave pública em uma instância do Campaign para descriptografar dados de entrada.*
 
 * **[Delegar subdomínios (BETA)](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -62,7 +62,7 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
   </td>
   <td>
     <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-      <img alt="Definição de conteúdo de email interativo com AMP (vídeo)" src="./assets/29940.png" />
+      <img alt="Definir conteúdo de email interativo com o AMP (vídeo)" src="./assets/29940.png" />
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
@@ -70,7 +70,7 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
     </a>
     </div>
     <p>
-    <em>Saiba como ativar e usar a AMP no Adobe Campaign Classic </em>
+    <em>Saiba como ativar e usar o AMP no Adobe Campaign Classic </em>
     <p>
   </td>
 </tr>
