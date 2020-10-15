@@ -1,5 +1,5 @@
 ---
-title: Geração de um relatório de análise descritiva
+title: Gerar um relatório de análise descritiva
 description: Saiba como gerar um relatório de análise descritivo a partir de um fluxo de trabalho no Adobe Campaign Classic.
 feature: Reports
 topics: null
@@ -12,13 +12,13 @@ role: user
 translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '63'
+ht-degree: 71%
 
 ---
 
 
-# Geração de um relatório de análise descritiva
+# Gerar um relatório de análise descritiva
 
 Saiba como gerar um fluxo [!UICONTROL descriptive analysis report] de trabalho.
 
