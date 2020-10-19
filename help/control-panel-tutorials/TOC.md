@@ -13,10 +13,10 @@ getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: ecb96c182bc319cc77514dd8025c0b67a55b9285
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 75%
+source-wordcount: '163'
+ht-degree: 71%
 
 ---
 
@@ -31,7 +31,8 @@ ht-degree: 75%
    + [Gerar uma chave SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Conectar um servidor SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Subdomínios e certificados {#subdomains-and-certificates}
-   + [Delegar subdomínios](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Delegação completa do subdomínio (beta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Delegar subdomínios usando CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [Adicionar certificados SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Gerenciamento de registros TXT do Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Configurações de instância {#instance-settings}
