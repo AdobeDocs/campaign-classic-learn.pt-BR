@@ -3,11 +3,11 @@ title: Tutoriais do Adobe Campaign Classic – Visão geral
 description: O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
-source-wordcount: '250'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
+workflow-type: tm+mt
+source-wordcount: '194'
+ht-degree: 89%
 
 ---
 
@@ -18,17 +18,9 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 
 ## Novidades
 
-* **[Gerenciamento de chaves GPG](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[Delegar subdomínios usando CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância específica do [!UICONTROL Campaign] para criptografar dados de saída, bem como importar e instalar uma chave pública em uma instância do Campaign para descriptografar dados de entrada.*
-
-* **[Delegar subdomínios (BETA)](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
-
-   *Saiba como delegar completamente um subdomínio ao Adobe Campaign.*
-
-* **[Definir conteúdo de email interativo com o AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
-
-   *Saiba como configurar o conteúdo de email do Adobe Campaign Classic (ACC) no formato AMP.*
+   *Saiba como configurar e enviar um subdomínio usando CNAMEs no Painel de controle do Campaign.*
 
 ## Escolha de pessoal
 
