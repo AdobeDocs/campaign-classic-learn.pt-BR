@@ -2,7 +2,7 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Tutoriais do Adobe Campaign Classic
-user-guide-description: O Adobe Campaign Classic permite que os profissionais de marketing criem experiências de clientes entre canais e fornece um ambiente para a orquestração visual de campanhas, o gerenciamento de interação em tempo real e a execução entre canais.
+user-guide-description: O Adobe Campaign Classic permite que os profissionais de marketing criem experiências de clientes em vários canais e fornece um ambiente para a orquestração visual de campanhas, o gerenciamento de interação em tempo real e a execução em vários canais.
 breadcrumb-title: Tutoriais do Campaign Classic
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
@@ -11,12 +11,11 @@ tutorials-title: Tutoriais
 tutorials-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-type: Tutorial
 translation-type: tm+mt
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
+source-git-commit: 5ff5fd9b021e787feefb2aae3b46421c1234b6cf
 workflow-type: tm+mt
 source-wordcount: '324'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -77,6 +76,6 @@ ht-degree: 97%
 + Integração do {#integrating}
    + [Como integrar o Dynamics 365 com o Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Administração do {#administrating}
-   + [Painel de controle](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [Painel de controle do Campaign](https://docs.adobe.com/content/help/pt-BR/campaign-classic-learn/control-panel/control-panel-overview.html)
    + Acessar um banco de dados externo (FDA) {#fda}
       + [Gestão de big data no [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
