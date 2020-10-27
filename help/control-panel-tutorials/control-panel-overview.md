@@ -1,23 +1,23 @@
 ---
-title: Painel de controle do Campaign - Visão geral
-description: O Painel de controle do Campaign Adobe Campaign permite que os administradores do Adobe Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
+title: Painel de controle do Campaign  - Visão geral
+description: O Painel de controle do Adobe Campaign permite que os administradores do Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '197'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
-# Painel de controle do Campaign - Visão geral
+# Visão geral do Painel de controle do Campaign
 
-O Painel de controle do Campaign Adobe Campaign permite que os administradores do Adobe Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
+O Painel de controle do Adobe Campaign permite que os administradores do Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
 
 ## Novidades
 
@@ -31,11 +31,11 @@ O Painel de controle do Campaign Adobe Campaign permite que os administradores d
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="Delegar subdomínios ao Adobe Campaign (vídeo)" src="./assets/31390.jpg"/>
+      <img alt="Delegar subdomínios para o Adobe Campaign (vídeo)" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Delegar subdomínios ao Adobe Campaign (vídeo)</strong>
+    <strong>Delegar subdomínios para o Adobe Campaign (vídeo)</strong>
     </a>
     </div>
     <p>
@@ -52,7 +52,7 @@ O Painel de controle do Campaign Adobe Campaign permite que os administradores d
     </a>
     </div>
     <p>
-    <em> Saiba como você pode adicionar registros de verificação de site do Google TXT a todos os seus subdomínios usados para enviar emails para endereços GMAIL com Painel de controle do Campaign de Campanha.</em>
+    <em> Saiba como adicionar registro de verificação do site Google TXT a todos os seus subdomínios usados para enviar emails para endereços GMAIL por meio do Painel de controle do Campaign.</em>
     <p>
   </td>
   <td>
@@ -61,7 +61,7 @@ O Painel de controle do Campaign Adobe Campaign permite que os administradores d
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Conectar um servidor SFTP</strong>
+    <strong>Conectar-se a um servidor SFTP</strong>
     </a>
     </div>
     <p>
