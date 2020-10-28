@@ -3,11 +3,11 @@ title: Tutoriais do Adobe Campaign Classic – Visão geral
 description: O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: ht
-source-wordcount: '194'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: f0273b5936cbca6e56ab4f4d235c85bbd31aa00e
+workflow-type: tm+mt
+source-wordcount: '206'
+ht-degree: 94%
 
 ---
 
@@ -21,6 +21,10 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 * **[Delegar subdomínios usando CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Saiba como configurar e enviar um subdomínio usando CNAMEs no Painel de controle do Campaign.*
+
+* **[Monitoramento de bancos de dados](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+
+   *Saiba como monitorar o uso do banco de dados de suas instâncias.*
 
 ## Escolha de pessoal
 
