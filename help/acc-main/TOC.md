@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic-learn/
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: fe2f788ef711612382a2fc80c43f34249f1f877e
+source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 97%
+source-wordcount: '334'
+ht-degree: 96%
 
 ---
 
@@ -46,6 +46,7 @@ ht-degree: 97%
       + [Configurar campanhas de email recorrentes e contínuas](/help/sending-messages/recurring-deliveries.md)
       + [Definir conteúdo de email interativo com o AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Canal por push {#push-channel}
+      + [Instalação do Canal do aplicativo móvel](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configurar o canal por push usando o Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
    + Usar templates de delivery{#using-delivery-templates}
       + [Configurar um template de delivery](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
