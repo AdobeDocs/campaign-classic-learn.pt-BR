@@ -1,5 +1,5 @@
 ---
-product: adobe campaign standard
+product: Adobe Cmpaign Classic
 user-guide-title: Tutoriais do painel de controle do Adobe Campaign
 user-guide-description: O Painel de controle do Campaign permite que os administradores do Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância ou endereços IP na lista de permissões.
 breadcrumb-title: Tutoriais do Painel de controle do Campaign
@@ -12,10 +12,10 @@ getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 translation-type: tm+mt
-source-git-commit: 8459863bbd76085dd4b1bd0e77f38d928d43eb2c
+source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
