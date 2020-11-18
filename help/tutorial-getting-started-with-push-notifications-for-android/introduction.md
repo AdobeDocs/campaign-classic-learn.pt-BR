@@ -8,7 +8,7 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 6%
@@ -36,7 +36,7 @@ Antes de começar, você precisará atender aos seguintes pré-requisitos
 
    Será necessário ter o pacote de canal do aplicativo móvel instalado em sua instância. O vídeo a seguir explica como verificar se o canal do aplicativo móvel está instalado em sua instância e, se não estiver, como instalá-lo.
 
-   [!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
 ## Tutorial
 
