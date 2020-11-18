@@ -9,7 +9,7 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 2%
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 Saiba como configurar e enviar uma notificação por push para usuários de aplicativos Android.
 
-[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
 
 ## Recursos adicionais
 
