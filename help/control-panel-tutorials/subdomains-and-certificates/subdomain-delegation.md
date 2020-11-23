@@ -4,11 +4,12 @@ description: Saiba como delegar completamente um subdomínio ao Adobe Campaign.
 feature: Subdomain Delegation
 topics: Control Panel
 kt: 4115
+thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
+source-git-commit: afd21759c453aebf23216fcb25d9eeee92ebc515
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 85%
