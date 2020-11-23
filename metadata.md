@@ -6,9 +6,9 @@ solution: Campaign, Campaign Classic
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-classic-learn.pt-BR
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 5ff5fd9b021e787feefb2aae3b46421c1234b6cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
