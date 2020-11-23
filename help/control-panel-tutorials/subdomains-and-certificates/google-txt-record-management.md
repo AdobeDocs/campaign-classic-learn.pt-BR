@@ -4,14 +4,15 @@ description: Você pode adicionar o registro de verificação do site Google TXT
 feature: Google TXT record management
 topics: Control Panel
 kt: 4744
+thumbnail: 32369.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: afd21759c453aebf23216fcb25d9eeee92ebc515
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 100%
 
 ---
 
