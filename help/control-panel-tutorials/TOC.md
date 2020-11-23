@@ -5,7 +5,7 @@ user-guide-description: O Painel de controle do Campaign permite que os administ
 breadcrumb-title: Tutoriais do Painel de controle do Campaign
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=pt-BR&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutoriais
 tutorials-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentação
