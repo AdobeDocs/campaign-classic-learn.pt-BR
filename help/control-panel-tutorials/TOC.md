@@ -11,9 +11,9 @@ tutorials-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic-learn/
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
 ht-degree: 100%
 
