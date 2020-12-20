@@ -8,9 +8,9 @@ thumbnail: 35614.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Entenda o uso de workflows da campanha e saiba como criar um workflow e perfis de público alvo em um fluxo de trabalho usando as condições de filtragem.
 
->[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
 
 ## Próximos tutoriais para assistir
 
