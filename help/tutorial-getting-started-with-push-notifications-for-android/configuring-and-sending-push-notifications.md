@@ -19,7 +19,7 @@ ht-degree: 1%
 
 # Configurar e enviar notificações por push
 
-Saiba como configurar e enviar uma [!DNL push] notificação aos usuários de um [!DNL Android] aplicativo.
+Saiba como configurar e enviar uma notificação [!DNL push] para usuários de aplicativos [!DNL Android].
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
 
