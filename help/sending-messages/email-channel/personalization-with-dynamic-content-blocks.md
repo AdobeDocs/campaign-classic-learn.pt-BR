@@ -8,9 +8,9 @@ thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Um bloco de personalização é dinâmico, personalizado e contém um código de
 
 Saiba como criar blocos de conteúdo dinâmico e como usá-los para personalizar o conteúdo do seu delivery de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
 ## Recursos adicionais
 
