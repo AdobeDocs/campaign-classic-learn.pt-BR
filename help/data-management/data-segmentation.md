@@ -28,11 +28,11 @@ O perfil integrado de clientes da Adobe Campaign permite que os profissionais de
 
 >[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12)
 
-## Criação e atualização do Perfil do cliente {#customer-profile-creation-and-update}
+## Criação e atualização de Perfis do cliente {#customer-profile-creation-and-update}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
 
-## Segmentação do cliente  {#customer-segmentation}
+## Segmentação do cliente {#customer-segmentation}
 
 Depois de compreender os perfis, você estará pronto para fazer a segmentação avançada por meio de query profundos dos atributos comuns do consumidor e de outras fontes de dados. Permitindo que você crie listas reutilizáveis, atualizando dinamicamente listas com base em alterações em tempo real nos dados e até mesmo realizando atividades mais complexas, como testes de várias variações em qualquer um desses pontos de dados.
 
@@ -43,4 +43,4 @@ Observe que: Este vídeo foi gravado no Adobe Campaign Classic V6, a funcionalid
 ## Recursos adicionais {#additional-resources}
 
 * [Dados de definição de metas](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/targeting-data.html)
-* [Práticas recomendadas do fluxo de trabalho](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
+* [Práticas recomendadas do fluxo de trabalho](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
