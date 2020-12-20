@@ -10,8 +10,8 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '272'
+ht-degree: 66%
 
 ---
 
