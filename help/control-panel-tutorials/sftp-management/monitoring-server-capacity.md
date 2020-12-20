@@ -1,5 +1,5 @@
 ---
-title: Monitoramento da capacidade do servidor
+title: Monitorar a capacidade do servidor
 description: O Painel de controle do Campaign permite monitorar e gerenciar o armazenamento SFTP por instância e adicionar endereços IP a listas de permissões.
 feature: SFTP Management
 topics: Control Panel
@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: 8d354d89015e1985be5a8c3c13fee53961b1d686
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 66%
+ht-degree: 73%
 
 ---
 
 
-# Monitoramento da capacidade do servidor
+# Monitorar a capacidade do servidor
 
 O Painel de controle do Campaign permite que você monitore e gerencie seu armazenamento SFTP por instância.
 
