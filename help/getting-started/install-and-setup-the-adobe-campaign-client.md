@@ -8,9 +8,9 @@ thumbnail: 35124.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 O vídeo a seguir explica como baixar e instalar o console do Adobe Campaign Client, criar e gerenciar suas conexões com vários ambientes e verificar o acesso ao console do Adobe Campaign Client.
 
->[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12)
 
 ## Recursos adicionais
 
