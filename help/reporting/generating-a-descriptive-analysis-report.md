@@ -20,7 +20,7 @@ ht-degree: 71%
 
 # Gerar um relatório de análise descritiva
 
-Saiba como gerar um fluxo [!UICONTROL descriptive analysis report] de trabalho.
+Saiba como gerar um [!UICONTROL descriptive analysis report] a partir de um fluxo de trabalho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 
