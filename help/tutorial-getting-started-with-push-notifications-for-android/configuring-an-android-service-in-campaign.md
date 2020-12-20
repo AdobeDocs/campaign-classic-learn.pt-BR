@@ -17,15 +17,15 @@ ht-degree: 1%
 ---
 
 
-# Configuração de um [!DNL Android] serviço e criação de um aplicativo [!DNL Android] móvel na Campanha
+# Configurar um serviço [!DNL Android] e criar um aplicativo [!DNL Android] móvel na Campanha
 
-Saiba como configurar um [!DNL Android] serviço e criar um aplicativo [!DNL Android] móvel no Campaign. Essa etapa é necessária para que você possa definir o aplicativo móvel do público alvo para a notificação por push.
+Saiba como configurar um serviço [!DNL Android] e criar um aplicativo [!DNL Android] móvel no Campaign. Essa etapa é necessária para que você possa definir o aplicativo móvel do público alvo para a notificação por push.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
 **Etapa anterior**
 
-Etapa 1: [Estendendo o schema de subscrição do aplicativo para personalizar notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+Etapa 1: [Estender o schema de subscrição do aplicativo para personalizar notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 
 **Próxima etapa**
 
