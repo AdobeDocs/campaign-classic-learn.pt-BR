@@ -17,9 +17,9 @@ ht-degree: 2%
 ---
 
 
-# Estendendo o [!UICONTROL app subscription] schema para personalizar notificações por push
+# Estendendo o schema [!UICONTROL app subscription] para personalizar notificações por push
 
-Saiba como estender o [!UICONTROL app subscription] schema para poder armazenar valores de personalização [!DNL Campaign] recebidos de um aplicativo móvel.
+Saiba como estender o schema [!UICONTROL app subscription] para poder armazenar valores de personalização [!DNL Campaign] recebidos de um aplicativo móvel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
