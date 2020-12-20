@@ -8,9 +8,9 @@ thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Os campos de personalização são usados para personalização de primeiro nív
 
 Saiba como adicionar um campo de personalização à linha de assunto e ao conteúdo de um delivery de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
 ## Recursos adicionais
 
