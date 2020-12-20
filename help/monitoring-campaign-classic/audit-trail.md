@@ -7,9 +7,9 @@ kt: 2835
 doc-type: feature video
 activity: understand
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
 
@@ -41,6 +41,6 @@ A [!UICONTROL Audit Trail] registrará e listará as ações do operador, como c
 
 O vídeo abaixo descreve onde acessar os registros de trilha de auditoria e quais configurações podem ser definidas.
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
 Para obter mais informações, consulte a [Documentação da trilha de auditoria](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).
