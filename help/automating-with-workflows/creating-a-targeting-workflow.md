@@ -10,8 +10,8 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 41%
 
 ---
 
@@ -22,4 +22,5 @@ A Adobe Campaign usa workflows para realizar campanhas de definição de metas, 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
-Consulte a documentação [sobre Workflows](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)e [sobre como direcionar atividades](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) para obter mais informações.
+Consulte a documentação [sobre Workflows](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+e [sobre o direcionamento do atividade](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) para obter mais informações.
