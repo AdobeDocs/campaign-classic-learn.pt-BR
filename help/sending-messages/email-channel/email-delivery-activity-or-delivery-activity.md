@@ -7,9 +7,9 @@ kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ Um [!UICONTROL Delivery-type activity] permite criar uma ação de delivery. Ele
 
 Este vídeo explica como implantar um template do delivery de email. Ele explica a diferença entre um delivery de email e um workflow de delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
 
 ## Recursos adicionais {#additional-resources}
 
