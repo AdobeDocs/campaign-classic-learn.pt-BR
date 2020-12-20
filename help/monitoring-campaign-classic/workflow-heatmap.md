@@ -7,9 +7,9 @@ kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ O heatmap de workflow ajuda os administradores da plataforma a:
 
 Observação: este recurso só está disponível a partir do Adobe Campaign Classic V7 (build 18.11.1)
 
->[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12)
 
 ## Recursos adicionais
 
