@@ -11,8 +11,8 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '221'
+ht-degree: 52%
 
 ---
 
@@ -43,7 +43,7 @@ Vídeos explicativos
 
 Documentação:
 
-* [Sobre Modelos](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
-* [Criação de um Template do delivery](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
-* [Seleção de target mapping](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
-* [Criação de um delivery a partir de um template](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
+* [Sobre templates](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
+* [Criar um template de delivery](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)
+* [Seleção de target mapping](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html)
+* [Criação de um delivery a partir de um template](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html)
