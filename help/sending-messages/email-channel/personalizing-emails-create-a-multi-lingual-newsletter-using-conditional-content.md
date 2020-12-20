@@ -8,9 +8,9 @@ thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Ao configurar campos de conteúdo condicional, você pode criar personalização
 
 Saiba como adicionar conteúdo condicional a um delivery no exemplo de um informativo multilingue.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
 ## Recursos adicionais
 
