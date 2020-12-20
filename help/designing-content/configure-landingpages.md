@@ -11,7 +11,7 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ Este vídeo demonstra como navegar no editor de aplicativos da Web da Adobe Camp
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-Para obter mais informações, consulte a documentação detalhada sobre como [criar uma landing page](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
+Para obter mais informações, consulte a documentação detalhada sobre [Criação de uma landing page](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
