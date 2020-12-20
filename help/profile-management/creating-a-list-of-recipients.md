@@ -1,6 +1,6 @@
 ---
 title: Criar uma lista de recipients
-description: Saiba como criar uma audiência configurando uma lista de recipient do Explorer.
+description: Aprenda a criar um público-alvo configurando uma lista de recipients do Explorer.
 feature: Audiences
 topics: Getting started
 kt: 2171
@@ -11,8 +11,8 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Uma lista é um conjunto estático de recipients que pode ser focada em ações de delivery ou atualizada durante as operações de importação ou durante a execução de fluxos de trabalho. Uma lista de recipients também é chamada de público-alvo.
 
-Saiba como criar uma audiência configurando uma lista de recipient do Explorer.
+Aprenda a criar um público-alvo configurando uma lista de recipients do Explorer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25602/quality=12)
 
@@ -34,5 +34,5 @@ Documentação:
 Tutoriais:
 
 * [Criar e gerenciar perfis](/help/profile-management/create-and-manage-profiles.md)
-* [Importação de perfis](/help/data-management/importing-profiles.md)
-* [Criação de uma lista de recipient com um fluxo de trabalho](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
+* [Importar perfis](/help/data-management/importing-profiles.md)
+* [Criar uma lista de recipients com um workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
