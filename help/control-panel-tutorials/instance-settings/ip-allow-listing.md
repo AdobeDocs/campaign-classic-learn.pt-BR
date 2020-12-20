@@ -1,6 +1,6 @@
 ---
-title: Adicionar endereços IP ao lista de permissões
-seo-title: Adicionar endereços IP ao lista de permissões
+title: Adicionar endereços IP à lista de permissões
+seo-title: Adicionar endereços IP à lista de permissões
 description: Saiba como adicionar um intervalo IP às listas de permissões das instâncias de Campaign Classic e como removê-las da lista de permissões usando o painel de controle.
 seo-description: O vídeo abaixo explica como configurar novas conexões para suas instâncias, permitindo a listagem de intervalos de endereços IP.
 feature: instance settings
@@ -13,13 +13,13 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 72%
 
 ---
 
 
-# Adicionar endereços IP ao lista de permissões
+# Adicionar endereços IP à lista de permissões
 
 O Painel de controle do Campaign permite configurar novas conexões para suas instâncias ao adicionar intervalos de endereços IP à lista de permissões. Por padrão, a instância do Adobe Campaign Classic não pode ser acessada por vários endereços IP. Portanto, um endereço IP precisa constar na lista de permissões:
 
