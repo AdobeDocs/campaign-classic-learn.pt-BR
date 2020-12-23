@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
+source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 96%
+source-wordcount: '363'
+ht-degree: 95%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 96%
 + Enviar mensagens{#sending-messages}
    + Canal de email{#email-channel}
       + [Criar uma campanha e um email](/help/getting-started/creating-a-campaign-and-an-email.md)
-      + [Gerenciar seed e provas em um email](/help/sending-messages/managing-seed-and-proofs.md)
+      + [Gerenciar seed e provas em um email](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Configuração de conteúdo dinâmico](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalizar emails usando blocos de conteúdo dinâmico](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personalizar emails usando campo de personalização](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -60,6 +60,7 @@ ht-degree: 96%
    + Gerenciamento de fadiga{#fatigue-management}
       + [Usar regras de tipologia](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Usar filtros predefinidos](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+   + [Configuração e gerenciamento do subscrição no serviço](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Organização de campanhas {#orchestration}
    + [Execução de uma campanha](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [Criar campanhas com vários canais](/help/orchestrating-campaigns/multi-channel-campaigns.md)
