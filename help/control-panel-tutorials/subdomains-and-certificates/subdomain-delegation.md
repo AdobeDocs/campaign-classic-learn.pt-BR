@@ -8,11 +8,12 @@ thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 translation-type: tm+mt
-source-git-commit: afd21759c453aebf23216fcb25d9eeee92ebc515
+source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 85%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
