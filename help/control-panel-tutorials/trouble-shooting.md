@@ -7,11 +7,12 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 translation-type: tm+mt
-source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
+source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
