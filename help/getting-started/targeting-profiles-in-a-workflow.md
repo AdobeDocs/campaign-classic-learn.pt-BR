@@ -1,5 +1,5 @@
 ---
-title: Direcionar perfis em um workflow
+title: Como público alvo perfis em um fluxo de trabalho
 description: Entenda o uso de workflows da campanha e saiba como criar um workflow e perfis de público alvo em um fluxo de trabalho usando as condições de filtragem.
 feature: Workflows
 topics: Targeting Activities
@@ -9,15 +9,15 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 100%
+source-wordcount: '131'
+ht-degree: 90%
 
 ---
 
 
-# Direcionar perfis em um workflow
+# Direcionar perfis em um fluxo de trabalho
 
 Entenda o uso de workflows da campanha e saiba como criar um workflow e perfis de público alvo em um fluxo de trabalho usando as condições de filtragem.
 
