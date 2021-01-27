@@ -1,7 +1,7 @@
 ---
 title: Definir conteúdo de email interativo com o AMP
 description: Este vídeo explica como configurar o conteúdo de email do Adobe Campaign Classic(ACC) no formato do AMP.
-feature: Email Channel
+feature: Email, Email Design
 topics: Create and Send Email Deliveries
 kt: 3475
 thumbnail: 29940.jpg
@@ -9,7 +9,7 @@ doc-type: feature video
 activity: set-up
 team: TM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%
