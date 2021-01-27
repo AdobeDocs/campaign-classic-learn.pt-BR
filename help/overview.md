@@ -4,10 +4,10 @@ description: O Adobe Campaign fornece uma plataforma para projetar experiências
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 90%
+source-wordcount: '254'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 90%
 O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Classic.
 
 ## Novidades
+
+* **+ e-mails de  [design para entrega](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+
+   *Saiba como aplicar as práticas recomendadas de entrega.*
 
 * **[Criar e projetar delivery de e-mail](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
