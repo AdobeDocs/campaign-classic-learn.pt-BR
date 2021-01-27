@@ -12,9 +12,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '358'
 ht-degree: 88%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 88%
    + [Explorar a interface do usuário do Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Gerenciar Campanhas de marketing](/help/getting-started/managing-marketing-campaigns.md)
    + [Criar um plano de marketing, programas e campanhas](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Criar uma campanha e um email](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=pt-BR)
+   + [Criar uma campanha e um email](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [Perfis de público alvo em um fluxo de trabalho](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [Criar campanhas acionadas por eventos](/help/getting-started/create-event-triggered-campaigns.md)
 + Gerenciamento de perfis {#profile-management}
@@ -39,7 +39,7 @@ ht-degree: 88%
    + [Criar uma lista de recipients com um workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Enviar mensagens{#sending-messages}
    + Canal de email{#email-channel}
-      + [Criar uma campanha e um email](/help/getting-started/creating-a-campaign-and-an-email.md)
+      + [Criar e projetar delivery de e-mail](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Gerenciar seed e provas em um email](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Configuração de conteúdo dinâmico](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalizar emails usando blocos de conteúdo dinâmico](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -52,12 +52,12 @@ ht-degree: 88%
       + [Instalação do canal do aplicativo móvel](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configurar o canal por push usando o SDK móvel da Experience Platform](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Introdução a notificações por push para Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=pt-BR)
+   + Correspondência direta {#direct-mail}
+      + [Criar deliveries de correspondência direta](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Usar templates de delivery{#using-delivery-templates}
       + [Configurar um template de delivery](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Configurar as propriedades do template do delivery](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Implantar um template do delivery de email ad-hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + Correspondência direta {#direct-mail}
-      + [Criar deliveries de correspondência direta](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Gerenciamento de fadiga{#fatigue-management}
       + [Usar regras de tipologia](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Usar filtros predefinidos](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
