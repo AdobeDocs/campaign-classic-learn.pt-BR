@@ -4,7 +4,7 @@ description: O Adobe Campaign fornece uma plataforma para projetar experiências
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 588f8607ac9ad11316e77333b8bd6fcf7cc78590
+source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 81%
@@ -18,7 +18,7 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 
 ## Novidades
 
-* **[Enviar e validar provas](/help/sending-messages/email-channel/send-and-validate-proofs)**
+* **[Enviar e validar provas](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
 *Saiba como enviar e validar uma prova.*
 
