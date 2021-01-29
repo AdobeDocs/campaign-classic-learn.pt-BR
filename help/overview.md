@@ -4,10 +4,10 @@ description: O Adobe Campaign fornece uma plataforma para projetar experiências
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
+source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 81%
+source-wordcount: '239'
+ht-degree: 72%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 81%
 O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Classic.
 
 ## Novidades
+
+* **[Usar grupos de controle](/help/sending-messages/email-channel/use-control-groups.md)**
+
+   *Entenda o conceito de grupos de controle e aprenda a usar um grupo de controle para o seu delivery.*
 
 * **[Enviar e validar provas](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
@@ -30,9 +34,6 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 
    *Entenda o processo de criação de um delivery de email e saiba como projetar e personalizar o conteúdo de email.*
 
-* **[Introdução a notificações por push para Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
-
-   *Este tutorial guiará você pelas etapas relativas ao envio de notificações por push do Adobe Campaign para um aplicativo Android.*
 
 ## Escolha de pessoal
 
