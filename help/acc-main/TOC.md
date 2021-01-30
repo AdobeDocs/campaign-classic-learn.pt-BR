@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: 537c202807c5a1c1b1918588d6f3396da9d48a51
 workflow-type: tm+mt
-source-wordcount: '378'
-ht-degree: 84%
+source-wordcount: '384'
+ht-degree: 82%
 
 ---
 
@@ -69,6 +69,7 @@ ht-degree: 84%
    + [Configuração e gerenciamento do subscrição no serviço](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Organização de campanhas {#orchestration}
    + [Execução de uma campanha](/help/orchestrating-campaigns/executing-a-campaign.md)
+   + [Introdução a campanhas de vários canais e canais](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Criar campanhas com vários canais](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [Criar campanhas entre canais](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + Relatórios {#reporting}
