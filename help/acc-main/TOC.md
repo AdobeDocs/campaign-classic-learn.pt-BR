@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 72815762856f9537e409b52c4c9752c5193a0efc
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
 workflow-type: tm+mt
-source-wordcount: '375'
-ht-degree: 85%
+source-wordcount: '378'
+ht-degree: 84%
 
 ---
 
@@ -70,6 +70,7 @@ ht-degree: 85%
 + Organização de campanhas {#orchestration}
    + [Execução de uma campanha](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [Criar campanhas com vários canais](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+   + [Criar campanhas entre canais](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + Relatórios {#reporting}
    + [Acesso aos relatórios internos](/help/reporting/accessing-built-in-reports.md)
    + [Gerar um relatório de análise descritiva](/help/reporting/generating-a-descriptive-analysis-report.md)
