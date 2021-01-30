@@ -1,5 +1,5 @@
 ---
-title: Criação de campanhas com vários canais no Adobe Campaign Classic (ACC)
+title: Criar campanhas com vários canais
 description: Saiba como criar uma campanha com vários canais utilizando email, SMS e delivery de correspondência direta.
 feature: Workflows
 topics: null
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 38%
+source-wordcount: '86'
+ht-degree: 37%
 
 ---
 
