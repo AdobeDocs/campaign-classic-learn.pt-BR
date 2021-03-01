@@ -1,7 +1,7 @@
 ---
 title: Criar campanhas com vários canais
 description: Saiba como criar uma campanha com vários canais utilizando email, SMS e delivery de correspondência direta.
-feature: Workflows
+feature: Fluxos de trabalho
 topics: null
 kt: 1563
 thumbnail: 24981.jpg
@@ -11,8 +11,8 @@ team: TM
 translation-type: tm+mt
 source-git-commit: b394c336a99427962618a9242109e51b7d30aeaa
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 41%
+source-wordcount: '78'
+ht-degree: 42%
 
 ---
 
