@@ -1,7 +1,7 @@
 ---
 title: Gerar um relatório de análise descritiva
 description: Saiba como gerar um relatório de análise descritivo a partir de um fluxo de trabalho no Adobe Campaign Classic.
-feature: Reporting
+feature: Relatórios
 topics: null
 kt: 5079
 thumbnail: 35616.jpg
@@ -12,8 +12,8 @@ role: user
 translation-type: tm+mt
 source-git-commit: 5866cade054ddc7d3d41db1104887c224dcf0c17
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 71%
+source-wordcount: '65'
+ht-degree: 70%
 
 ---
 
