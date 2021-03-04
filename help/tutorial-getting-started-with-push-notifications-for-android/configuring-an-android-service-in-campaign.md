@@ -1,35 +1,37 @@
 ---
-title: Configurar um serviço Android e criar um aplicativo Android para dispositivos móveis no Campaign
-description: Saiba como configurar um serviço Android e criar um aplicativo Android para dispositivos móveis no Campaign. Isso é necessário para que definamos o aplicativo Neotrip como o público alvo para a notificação por push.
-feature: push
+title: Configuração de um serviço Android e criação de um aplicativo Android para dispositivos móveis no Campaign
+description: Saiba como configurar um Android Services e criar um aplicativo Android para dispositivos móveis no Campaign. Isso é necessário para definirmos o aplicativo Neotrip como o destino da notificação por push.
+feature: Empurrar
 topics: mobile channels
 kt: 6554
 thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: Administrador, Desenvolvedor
+level: Experienciado
 translation-type: tm+mt
-source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
 
 
-# Configurar um serviço [!DNL Android] e criar um aplicativo [!DNL Android] móvel na Campanha
+# Configurar um serviço [!DNL Android] e criar um aplicativo móvel [!DNL Android] no Campaign
 
-Saiba como configurar um serviço [!DNL Android] e criar um aplicativo [!DNL Android] móvel no Campaign. Essa etapa é necessária para que você possa definir o aplicativo móvel do público alvo para a notificação por push.
+Saiba como configurar um serviço [!DNL Android] e criar um aplicativo móvel [!DNL Android] no Campaign. Essa etapa é necessária para definir o aplicativo móvel de destino para a notificação por push.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
 **Etapa anterior**
 
-Etapa 1: [Estender o schema de subscrição do aplicativo para personalizar notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+Etapa 1: [Estender o esquema de assinatura do aplicativo para personalizar notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 
 **Próxima etapa**
 
-Etapa 3: [Configurar e enviar notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
+Etapa 3: [Configuração e envio de notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
 
 ## Recursos adicionais
 
