@@ -1,18 +1,20 @@
 ---
 title: Personalizar emails usando blocos de conteúdo dinâmico
 description: Saiba como criar blocos de conteúdo dinâmico e como usá-los para personalizar o conteúdo do seu delivery de email.
-feature: Dynamic Content Blocks
+feature: Blocos de conteúdo dinâmico
 topics: Email Channel
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
+role: Administrador, Desenvolvedor
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 100%
+source-wordcount: '153'
+ht-degree: 96%
 
 ---
 
