@@ -1,17 +1,19 @@
 ---
 title: HeatMap de workflow
-description: O Adobe Campaign Workflow HeatMap consiste em uma representação gráfica colorida de todos os workflows que estão sendo executados no momento.  Ao fornecer um rápido panorama do número de workflows simultâneos, o heatmap de workflow permite que os administradores da plataforma do Adobe Campaign monitorem a carga da instância e planejem os workflows de modo apropriado.
-feature: Workflow Heatmap
+description: Saiba como monitorar a carga na instância e planejar os workflows de acordo.
+feature: HeatMap
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
+role: Administrador
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 100%
+source-wordcount: '171'
+ht-degree: 90%
 
 ---
 
