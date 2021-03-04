@@ -8,19 +8,20 @@ thumbnail: 35616.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: user
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 5866cade054ddc7d3d41db1104887c224dcf0c17
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 70%
+source-wordcount: '67'
+ht-degree: 68%
 
 ---
 
 
 # Gerar um relatório de análise descritiva
 
-Saiba como gerar um [!UICONTROL descriptive analysis report] a partir de um fluxo de trabalho.
+Saiba como gerar um [!UICONTROL descriptive analysis report] de um workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 
