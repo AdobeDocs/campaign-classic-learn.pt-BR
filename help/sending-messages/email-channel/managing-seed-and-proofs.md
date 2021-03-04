@@ -1,6 +1,6 @@
 ---
 title: Gerenciar seed e provas em um email
-description: Saiba como adicionar sementes e provas a um email existente e como enviá-lo.
+description: Saiba como adicionar seeds e provas a um e-mail existente e como enviá-lo.
 feature: Email
 topics: null
 kt: 2178
@@ -8,10 +8,12 @@ thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '81'
 ht-degree: 32%
 
 ---
@@ -19,7 +21,7 @@ ht-degree: 32%
 
 # Gerenciar seed e provas em um email
 
-Saiba como adicionar sementes e provas a um email existente e como enviá-lo.
+Saiba como adicionar seeds e provas a um e-mail existente e como enviá-lo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
 
