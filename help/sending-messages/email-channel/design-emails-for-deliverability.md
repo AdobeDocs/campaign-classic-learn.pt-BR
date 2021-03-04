@@ -1,6 +1,6 @@
 ---
-title: Como faço para garantir a capacidade de entrega ao projetar emails?
-description: Saiba como aplicar as práticas recomendadas de entrega.
+title: Como garantir a capacidade de entrega ao criar e-mails?
+description: Saiba como aplicar as práticas recomendadas da capacidade de entrega.
 feature: Email, entregabilidade
 topics: null
 kt: 5095
@@ -8,18 +8,20 @@ thumbnail: 330943.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '46'
 ht-degree: 4%
 
 ---
 
 
-# Projetar emails para entrega
+# Criar emails para entrega
 
-Saiba como aplicar as práticas recomendadas de entrega à sua Campanha.
+Saiba como aplicar as práticas recomendadas de capacidade de entrega ao seu Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12)
 
