@@ -1,25 +1,27 @@
 ---
-title: Configuração e gerenciamento do subscrição no serviço
-description: Saiba como configurar e gerenciar assinantes do subscrição e do público alvo.
-feature: Subscriptions
+title: Configuração e gerenciamento de serviços de assinatura
+description: Saiba como configurar e gerenciar assinaturas e assinantes do target.
+feature: 'Subscrições     '
 topics: null
 kt: 5088
 thumbnail: 329941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Profissional de negócios, Administrador, Desenvolvedor
+level: Avançado
 translation-type: tm+mt
-source-git-commit: c8ff73f69db65c2a5d3582a7925c470684a014cd
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 4%
+source-wordcount: '52'
+ht-degree: 5%
 
 ---
 
 
-# Configuração e gerenciamento do subscrição no serviço
+# Configuração e gerenciamento de serviços de assinatura
 
-Saiba como configurar e gerenciar assinantes do subscrição e do público alvo.
+Saiba como configurar e gerenciar assinaturas e assinantes do target.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329941?quality=12)
 
