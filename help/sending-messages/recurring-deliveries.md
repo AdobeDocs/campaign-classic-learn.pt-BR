@@ -1,17 +1,19 @@
 ---
 title: Como configurar campanhas de email recorrentes e contínuas
-description: Este tutorial explica como configurar um delivery recorrente e contínuo e as diferenças entre as duas abordagens no Adobe Campaign Classic (ACC).
-feature: workflows
+description: Saiba como configurar um delivery recorrente e contínuo e compreender as diferenças entre as duas abordagens.
+feature: Fluxos de trabalho
 topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 66%
+source-wordcount: '270'
+ht-degree: 67%
 
 ---
 
@@ -20,9 +22,9 @@ ht-degree: 66%
 
 Este tutorial explica como configurar um delivery recorrente e contínuo e as diferenças entre as duas abordagens.
 
-## Rastreamento recorrente e contínuo de Delivery {#recurring-and-continuous-delivery-tracking}
+## Rastreamento de entrega recorrente e contínua {#recurring-and-continuous-delivery-tracking}
 
-Os delivery recorrentes e contínuos diferem na maneira como os dados de contato são gerenciados:
+Os deliveries recorrentes e contínuos diferem na maneira como os dados de contato são gerenciados:
 
 * O **delivery contínuo** permite adicionar novos recipients a um delivery existente, o que evita a criação de um novo delivery cada vez que um novo recipient for adicionado. Você pode atualizar o criativo diretamente no workflow da campanha e ele atualizará o modelo na pasta Recursos do template do delivery.
 
