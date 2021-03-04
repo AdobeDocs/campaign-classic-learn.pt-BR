@@ -1,25 +1,27 @@
 ---
 title: Refinar públicos alvo combinando resultados de query
-description: Saiba como refinar seu público alvo combinando os resultados do query em um fluxo de trabalho usando a interseção ou as atividades da união.
-feature: Workflows
+description: Saiba como refinar seu público-alvo combinando os resultados do query em um fluxo de trabalho usando a interseção ou as atividades de união.
+feature: Fluxos de trabalho, Atividade de direcionamento, Editor de consultas
 topics: Targeting Activities
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 45%
+source-wordcount: '119'
+ht-degree: 42%
 
 ---
 
 
 # Refinar públicos alvo combinando resultados de query
 
-Saiba como refinar seu público alvo combinando os resultados do query em um fluxo de trabalho usando as atividades **[!UICONTROL intersection]** ou **[!UICONTROL union]**.
+Saiba como refinar seu público-alvo combinando os resultados da consulta em um fluxo de trabalho usando as atividades **[!UICONTROL intersection]** ou **[!UICONTROL union]** .
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 
@@ -27,7 +29,7 @@ Saiba como refinar seu público alvo combinando os resultados do query em um flu
 
 Documentação:
 
-* [Sobre Workflows](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Sobre workflows](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
 * [Interseção](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
 * [União](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
