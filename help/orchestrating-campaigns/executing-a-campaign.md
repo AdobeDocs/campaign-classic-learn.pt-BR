@@ -1,27 +1,29 @@
 ---
-title: Execução de uma campanha
-description: Saiba como executar uma campanha, revisar um delivery de email e as propriedades do delivery.
-feature: Campaigns
+title: Executar uma campanha
+description: Saiba como executar uma campanha, revisar um delivery de email e as propriedades de delivery.
+feature: Campanhas, Email
 topics: null
 kt: 5092
 thumbnail: 329647.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '58'
 ht-degree: 3%
 
 ---
 
-# Execução de uma campanha
+# Executar uma campanha
 
-Saiba como executar uma campanha, revisar um delivery de email e as propriedades do delivery.
+Saiba como executar uma campanha, revisar um delivery de email e as propriedades de delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329647?quality=12)
 
 ## Recursos adicionais
 
-*[Configuração de campanhas de marketing (Documentação do Produto)](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en#orchestrating-campaigns)
+*[Configuração de campanhas de marketing (Documentação do produto)](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en#orchestrating-campaigns)
