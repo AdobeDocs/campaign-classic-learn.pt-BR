@@ -1,19 +1,21 @@
 ---
 title: Adicionar certificados SSL
-description: O Painel de controle do Adobe Campaign permite adicionar certificados SSL para proteger seus subdomínios.
-feature: SSL Certificates
+description: Saiba como adicionar certificados SSL para proteger seus subdomínios.
+feature: 'Painel de controle do Campaign   '
 topics: Control Panel
 kt: 4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: Administrador
+level: Experienciado
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-ssl-certificates.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '214'
+ht-degree: 90%
 
 ---
 
@@ -61,5 +63,5 @@ O vídeo abaixo explica como instalar certificados SSL em [!UICONTROL Control Pa
 
 ## Recursos adicionais
 
-* [Delegação completa do subdomínio (vídeo)](./subdomain-delegation.md)
+* [Delegação completa de subdomínio (vídeo)](./subdomain-delegation.md)
 * [Subdomínios e certificados (documentação)](https://docs.adobe.com/content/help/pt-BR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
