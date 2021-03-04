@@ -1,16 +1,18 @@
 ---
 title: Como enviar e validar uma prova
 description: Saiba como enviar e validar uma prova.
-feature: Email, Proofs
+feature: Email, provas
 kt: 5094
 thumbnail: 330945.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '27'
+source-wordcount: '32'
 ht-degree: 0%
 
 ---
