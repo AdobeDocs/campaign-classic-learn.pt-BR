@@ -1,30 +1,32 @@
 ---
-title: Como configurar o gerenciamento de fadiga usando o regra de tipologia no Adobe Campaign Classic
-description: O gerenciamento de fadiga controla a frequência e a quantidade de mensagens para evitar a solicitação excessiva de recipient e é frequentemente aplicado usando uma regra de tipologia. Este vídeo explica como implementar o gerenciamento de fadiga no Adobe Campaign Classic utilizando regras de tipologia.
-feature: Fatigue Management
+title: Como configurar o gerenciamento de fadiga usando regras de tipologia no Adobe Campaign Classic
+description: Saiba como implementar o gerenciamento de fadiga aproveitando regras de tipologia.
+feature: Gerenciamento de fadiga
 topics: null
 kt: 1564
 doc-type: feature video
 activity: use
 team: TM
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 26%
+source-wordcount: '210'
+ht-degree: 22%
 
 ---
 
 
 # Como configurar o gerenciamento de fadiga usando regras de tipologia
 
-O gerenciamento de fadiga controla a frequência e a quantidade de mensagens para evitar a solicitação excessiva de recipient e é frequentemente aplicado usando uma regra de tipologia.
+O gerenciamento de fadiga controla a frequência e a quantidade de mensagens para evitar a solicitação excessiva de recipients e é aplicado com frequência usando uma regra de tipologia.
 
-As regras de tipologia permitem que os profissionais de marketing padronizem as práticas comerciais em todos os delivery de modo mais eficiente para controlar as mensagens de campanha para os clientes. Eles fazem isso eliminando a necessidade de aplicar exclusões ou regras comumente usadas a cada campanha individual. Os recipient que correspondem aos critérios em uma *regra de tipologia* serão excluídos do delivery durante a fase de análise.
+As regras de tipologia permitem que os profissionais de marketing padronizem práticas comerciais em todos os deliveries de forma mais eficiente para controlar as mensagens de campanha para os clientes. Eles fazem isso eliminando a necessidade de aplicar exclusões ou regras comumente usadas a cada campanha individual. Os recipients que corresponderem aos critérios em uma *regra de tipologia* serão excluídos do delivery durante a fase de análise.
 
-Geralmente, um conjunto de *regra de tipologia* é agrupado em um *typology* para aplicar facilmente várias regras de filtragem a um delivery ao mesmo tempo.
+Geralmente, um conjunto de *typology rules* são agrupadas em um *typology* para aplicar facilmente várias regras de filtragem a um delivery de uma vez.
 
-Isso elimina etapas extras ao criar campanhas e workflows diferentes, garantindo ao mesmo tempo que você esteja sempre direcionando a população certa no momento certo.
+Isso elimina etapas extras ao criar campanhas e fluxos de trabalho diferentes, garantindo ao mesmo tempo que você esteja sempre direcionando a população certa na hora certa.
 
 Este vídeo explica como implementar o gerenciamento de fadiga no Adobe Campaign Classic utilizando regras de tipologia.
 
