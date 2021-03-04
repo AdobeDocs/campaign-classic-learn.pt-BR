@@ -1,25 +1,27 @@
 ---
-title: Configuração de conteúdo dinâmico
-description: Entenda os diferentes tipos de conteúdo dinâmico e saiba como criar e aplicar alocos de personalização e declarações condicionais a um delivery.
-feature: Dynamic Content, Personalization, Email
+title: Configuração do conteúdo dinâmico
+description: Entenda os diferentes tipos de conteúdo dinâmico e saiba como criar e aplicar blocos de personalização e declarações condicionais a um delivery.
+feature: Conteúdo dinâmico, personalização, email
 topics: null
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 35%
+source-wordcount: '84'
+ht-degree: 32%
 
 ---
 
 
-# Configuração de conteúdo dinâmico
+# Configuração do conteúdo dinâmico
 
-Entenda os diferentes tipos de conteúdo dinâmico e saiba como criar e aplicar alocos de personalização e declarações condicionais a um delivery.
+Entenda os diferentes tipos de conteúdo dinâmico e saiba como criar e aplicar blocos de personalização e declarações condicionais a um delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12)
 
