@@ -3,11 +3,15 @@ title: Tutoriais do Adobe Campaign Classic – Visão geral
 description: O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
+feature: Visão geral
+topic: null
+role: Profissional de negócios, Administrador, Desenvolvedor
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 69%
+source-wordcount: '257'
+ht-degree: 68%
 
 ---
 
@@ -24,19 +28,19 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 
 * **[Usar grupos de controle](/help/sending-messages/email-channel/use-control-groups.md)**
 
-   *Entenda o conceito de grupos de controle e aprenda a usar um grupo de controle para o seu delivery.*
+   *Entenda o conceito de grupos de controle e saiba como usar um grupo de controle para o seu delivery.*
 
 * **[Enviar e validar provas](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
    *Saiba como enviar e validar uma prova.*
 
-* **[Projetar emails para entrega](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[Criar emails para entrega](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
-   *Saiba como aplicar as práticas recomendadas de entrega.*
+   *Saiba como aplicar as práticas recomendadas da capacidade de entrega.*
 
-* **[Criar e projetar delivery de e-mail](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+* **[Criar e projetar deliveries de email](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
-   *Entenda o processo de criação de um delivery de email e saiba como projetar e personalizar o conteúdo de email.*
+   *Entenda o processo de criação de delivery de email e saiba como projetar e personalizar conteúdo de email.*
 
 
 ## Escolha de pessoal
