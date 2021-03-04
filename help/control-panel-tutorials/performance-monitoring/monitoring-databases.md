@@ -1,7 +1,7 @@
 ---
 title: Monitoramento de bancos de dados
 description: Saiba como monitorar o uso do banco de dados de suas instâncias.
-feature: Database Monitoring
+feature: 'Painel de controle do Campaign   '
 topics: Control Panel
 kt: 6434
 thumbnail: 327175.jpg
@@ -9,20 +9,22 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
+role: Administrador
+level: Experienciado
 translation-type: tm+mt
-source-git-commit: 4f24a2b09209e4641186d3b4f2d9bbdc9e450a1b
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 18%
+source-wordcount: '90'
+ht-degree: 20%
 
 ---
 
 
 # Monitoramento de bancos de dados
 
-Todos os ativos, workflows e dados da instância de Campanha são armazenados no banco de dados. O banco de dados atingindo sua capacidade máxima pode causar problemas com sua instância (incapacidade de fazer logon, enviar emails etc.). Portanto, é essencial monitorar regularmente os bancos de dados de suas instâncias para garantir um desempenho ótimo.
+Todos os ativos, fluxos de trabalho e dados da instância do Campaign são armazenados no banco de dados. O banco de dados que atinge sua capacidade máxima pode levar a problemas com sua instância (incapacidade de fazer logon, enviar emails etc.). Portanto, é essencial monitorar regularmente os bancos de dados das instâncias para garantir o melhor desempenho.
 
-Saiba como monitorar o uso do banco de dados de suas instâncias com o [!DNL Control Panel].
+Saiba como monitorar o uso do banco de dados das instâncias com o [!DNL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
