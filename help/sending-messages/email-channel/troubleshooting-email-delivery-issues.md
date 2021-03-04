@@ -1,24 +1,26 @@
 ---
-title: Solução de problemas de delivery de e-mail
-description: Saiba como solucionar problemas de delivery de email na Campanha.
-feature: email
+title: Solução de problemas de delivery de email
+description: Saiba como solucionar problemas de delivery de email no Campaign.
+feature: Email, entregabilidade
 topics: deliverability
 kt: 5091
 thumbnail: 329920.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: e2425ddf8c06c20691276674d41f63239f6905f2
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---
 
 
-# Solução de problemas de delivery de e-mail
+# Solução de problemas de delivery de email
 
-Saiba como solucionar problemas de delivery de email na Campanha.
+Saiba como solucionar problemas de delivery de email no Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329920?quality=12)
