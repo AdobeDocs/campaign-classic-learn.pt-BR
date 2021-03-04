@@ -1,25 +1,27 @@
 ---
 title: Refinar públicos alvo excluindo resultados de query
-description: Saiba como refinar seu público alvo aplicando uma exclusão padrão a um fluxo de trabalho. Você também aprenderá a criar filtros predefinidos e como solucionar problemas em seu fluxo de trabalho.
-feature: Workflows
+description: Saiba como refinar seu público-alvo aplicando uma exclusão padrão a um fluxo de trabalho. Você também aprenderá a criar filtros predefinidos e como solucionar problemas em seu fluxo de trabalho.
+feature: Fluxos de trabalho, Atividade de direcionamento, Editor de consultas
 topics: Targeting Activities
 kt: 5548
 thumbnail: 36826.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 41%
+source-wordcount: '145'
+ht-degree: 39%
 
 ---
 
 
 # Refinar públicos alvo excluindo resultados de query
 
-Saiba como refinar seu público alvo aplicando **[!UICONTROL standard exclusion]** a um fluxo de trabalho. Você também aprenderá a criar filtros predefinidos e como solucionar problemas em seu fluxo de trabalho.
+Saiba como refinar seu público-alvo ao aplicar um **[!UICONTROL standard exclusion]** a um fluxo de trabalho. Você também aprenderá a criar filtros predefinidos e como solucionar problemas em seu fluxo de trabalho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12)
 
@@ -27,7 +29,7 @@ Saiba como refinar seu público alvo aplicando **[!UICONTROL standard exclusion]
 
 Documentação:
 
-* [Sobre Workflows](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Sobre workflows](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
 * [Exclusão](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/exclusion.html)
 * [Monitoramento da execução do workflow](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html)
 
