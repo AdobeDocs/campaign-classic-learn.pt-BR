@@ -1,5 +1,5 @@
 ---
-title: Criar um email de uma campanha
+title: Criar um email a partir de uma campanha
 description: Saiba como criar um delivery de email diretamente de uma campanha.
 feature: Email
 topics: null
@@ -8,11 +8,13 @@ thumbnail: 25604.jpg
 doc-type: feature video
 activity: use
 team: DOC
+role: Profissional
+level: Iniciador
 translation-type: tm+mt
-source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 72%
+source-wordcount: '54'
+ht-degree: 68%
 
 ---
 
