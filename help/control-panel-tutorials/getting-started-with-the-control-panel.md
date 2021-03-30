@@ -10,7 +10,7 @@ team: TM
 role: Administrador
 level: Experienciado
 translation-type: tm+mt
-source-git-commit: f237d0029ee534a2b7872580bccb2c3d74f45510
+source-git-commit: d946afb1e9084bb30b7992239b27b579d361acdb
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 36%
@@ -23,7 +23,8 @@ ht-degree: 36%
 >[!NOTE]
 >
 > O Painel de controle do Campaign é acessível a todos os usuários administradores. As etapas para conceder acesso de Administrador a um usuário estão detalhadas na [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel).
-Observe que sua instância deve ser hospedada no AWS e atualizada com a build mais recente [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html). Saiba como verificar sua versão em [this section](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Para verificar se sua instância está hospedada no AWS, siga as etapas detalhadas em [this page](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
+>
+> Observe que sua instância deve ser hospedada no AWS e atualizada com a build mais recente [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html). Saiba como verificar sua versão em [this section](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Para verificar se sua instância está hospedada no AWS, siga as etapas detalhadas em [this page](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
 
 O [!UICONTROL Control Panel] permite que os administradores do Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento [!DNL SFTP] por instância, gerenciar [!DNL GPG] chaves ou [!UICONTROL subdomains] e [!UICONTROL certificates].
 
