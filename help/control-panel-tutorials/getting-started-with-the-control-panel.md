@@ -1,7 +1,7 @@
 ---
 title: Introdução ao Painel de controle do Campaign
 description: Saiba como acessar o Painel de controle do Campaign e quais pré-requisitos podem funcionar com o painel de controle do Campaign.
-feature: 'Painel de controle do Campaign   '
+feature: Painel de controle do Campaign
 topics: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
@@ -12,10 +12,10 @@ topic: null
 role: Administrador
 level: Experienciado
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: df1ae08c0664812c266512283c7298b3f293e91d
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 66%
+source-wordcount: '275'
+ht-degree: 36%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 66%
 
 >[!NOTE]
 >
->Os termos &quot;[!UICONTROL whitelist]&quot; e &quot;[!UICONTROL blacklist]&quot; foram substituídos pelos termos &quot;[!UICONTROL allowlist]&quot; e &quot;[!UICONTROL denylist]&quot;na documentação do Adobe Campaign. Algumas ocorrências desses termos ainda podem existir na interface do usuário do produto, nomes de opções e código interno, bem como nos vídeos de tutoriais. Eles serão substituídos em versões futuras do Painel de controle do Campaign.
+>O Painel de controle do Campaign é acessível a todos os usuários administradores. As etapas para conceder acesso de Administrador a um usuário estão detalhadas em (documentação do produto)[https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel].
+Observe que sua instância deve ser hospedada no AWS e atualizada com a build mais recente (Gold Standard)[https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html]. Saiba como verificar sua versão em (esta seção)[https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version]. Para verificar se sua instância está hospedada no AWS, siga as etapas detalhadas em (esta página)[https://experienceleague.adobe.com/docs/control-panel/using/faq.html].
 
 O [!UICONTROL Control Panel] permite que os administradores do Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento [!DNL SFTP] por instância, gerenciar [!DNL GPG] chaves ou [!UICONTROL subdomains] e [!UICONTROL certificates].
 
