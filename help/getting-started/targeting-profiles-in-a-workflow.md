@@ -1,7 +1,7 @@
 ---
 title: Como direcionar perfis em um fluxo de trabalho
-description: Entenda o uso de workflows da campanha e saiba como criar um workflow e perfis de público alvo em um fluxo de trabalho usando as condições de filtragem.
-feature: Fluxos de trabalho
+description: Entenda o uso de workflows da campanha e saiba como criar um fluxo de trabalho e direcionar perfis em um fluxo de trabalho usando as condições de filtragem.
+feature: Workflows
 topics: Targeting Activities
 kt: 5080
 thumbnail: 35614.jpg
@@ -10,11 +10,11 @@ activity: use
 team: WWFRE
 role: Profissional
 level: Iniciante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
