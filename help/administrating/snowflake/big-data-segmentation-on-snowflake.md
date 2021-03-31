@@ -1,5 +1,5 @@
 ---
-title: Gerenciamento de big data no Snowflake
+title: Gestão de big data no Snowflake
 description: Saiba como aproveitar o conector do Snowflake no Adobe Campaign Classic
 feature: Federated Data Access
 topics: FDA
@@ -9,25 +9,25 @@ activity: use
 team: PM
 role: Administrador, Desenvolvedor
 level: Avançado
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Gerenciamento de big data no Snowflake
+# Gestão de big data no Snowflake
 
-Este tutorial explica como aproveitar o conector [!DNL Snowflake] no Adobe Campaign Classic.
-Você aprenderá como
+Este tutorial explica como aproveitar o conector do [!DNL Snowflake] no Adobe Campaign Classic.
+Você aprenderá a
 
-* Conecte-se ao Snowflake
+* Conectar-se ao Snowflake
 * Criar um esquema vinculado ao Snowflake
-* Estender seu esquema e preparar seus dados
+* Estender o esquema e preparar os dados
 * Criar workflows e consultas
-* Entenda o que acontece no Snowflake
+* Entender o que acontece no Snowflake
 * Criar formulários e torná-los acessíveis aos profissionais de marketing
 * Pesquisar e relatar os dados
 * Como exportar dados em listas e criar filtros de direcionamento em tempo real
@@ -36,4 +36,4 @@ Você aprenderá como
 
 ## Recursos adicionais
 
-* [Configurações específicas por tipo de banco de dados](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/accessing-external-database/specific-configuration-database.html)
+* [Configurações específicas por tipo de banco de dados](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/accessing-external-database/specific-configuration-database.html)
