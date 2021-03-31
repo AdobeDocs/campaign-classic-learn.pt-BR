@@ -7,11 +7,11 @@ feature: Visão geral
 topic: null
 role: Profissional de negócios, Administrador, Desenvolvedor
 level: Iniciante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '257'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -34,9 +34,9 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 
    *Saiba como enviar e validar uma prova.*
 
-* **[Criar emails para entrega](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[Criar emails para capacidade de delivery](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
-   *Saiba como aplicar as práticas recomendadas da capacidade de entrega.*
+   *Saiba como aplicar as práticas recomendadas de capacidade de delivery.*
 
 * **[Criar e projetar deliveries de email](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
