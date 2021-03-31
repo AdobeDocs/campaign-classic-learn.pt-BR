@@ -1,7 +1,7 @@
 ---
-title: Como garantir a capacidade de entrega ao criar e-mails?
-description: Saiba como aplicar as práticas recomendadas da capacidade de entrega.
-feature: Email, entregabilidade
+title: Como garantir a capacidade de delivery ao criar emails?
+description: Saiba como aplicar as práticas recomendadas de capacidade de delivery.
+feature: Email, Capacidade de delivery
 topics: null
 kt: 5095
 thumbnail: 330943.jpg
@@ -10,21 +10,21 @@ activity: understand
 team: WWFRE
 role: Profissional
 level: Iniciante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Criar emails para entrega
+# Criar emails para capacidade de delivery
 
-Saiba como aplicar as práticas recomendadas de capacidade de entrega ao seu Campaign.
+Saiba como aplicar as práticas recomendadas de capacidade de delivery ao Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12)
 
 ## Recursos adicionais
 
-[Guia de práticas recomendadas de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
+[Manual de práticas recomendadas para capacidade de delivery](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
