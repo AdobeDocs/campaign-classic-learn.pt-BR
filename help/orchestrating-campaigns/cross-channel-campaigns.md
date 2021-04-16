@@ -1,26 +1,26 @@
 ---
 title: Criar campanhas com vários canais
-description: Saiba como criar uma campanha de canal.
+description: Saiba como criar uma campanha de canal a canal.
 feature: Workflows
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
-source-git-commit: b394c336a99427962618a9242109e51b7d30aeaa
-workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 24%
+exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
+translation-type: ht
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
+workflow-type: ht
+source-wordcount: '70'
+ht-degree: 100%
 
 ---
 
-
 # Criar campanhas com vários canais
 
-Em uma campanha entre canais, uma única comunicação de marketing utiliza vários canais para atingir uma audiência mais ampla com base no canal de recipient preferencial.
+Em uma campanha entre canais, uma única comunicação de marketing utiliza vários canais para alcançar uma audiência mais ampla com base no canal de recipient preferido.
 
-Os delivery com vários canais são projetados e executados em um único fluxo de trabalho.
+Os deliveries de vários canais são projetados e executados em um único fluxo de trabalho.
 
 Saiba como criar uma campanha com vários canais utilizando email, SMS e delivery de correspondência direta.
 
@@ -28,5 +28,4 @@ Saiba como criar uma campanha com vários canais utilizando email, SMS e deliver
 
 ## Recursos adicionais
 
-* [Introdução a campanhas de vários canais e canais](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
-
+* [Introdução a campanhas com vários canais e entre canais](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
