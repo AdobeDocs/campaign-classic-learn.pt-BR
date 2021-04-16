@@ -1,23 +1,16 @@
 ---
-product: Adobe Campaign Classic
 user-guide-title: Tutoriais do painel de controle do Adobe Campaign
 user-guide-description: Saiba como monitorar os principais ativos das instâncias do Adobe Campaign e executar tarefas administrativas no Painel de controle do Campaign.
 breadcrumb-title: Tutoriais do Painel de controle do Campaign
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=pt-BR&tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: Tutoriais
-tutorials-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic-learn/tutorials/overview.html
-getting-started-title: Documentação
-getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 feature: Painel de controle do Campaign
 role: Administrator
 level: Experienced
-translation-type: ht
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: ht
-source-wordcount: '159'
+translation-type: tm+mt
+source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
+workflow-type: tm+mt
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
