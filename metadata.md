@@ -8,10 +8,10 @@ feature-set: Campaign
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-classic-learn.pt-BR
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dfde42fa37a3ae3387d709d50acbe4aeb0f5b891
-workflow-type: tm+mt
-source-wordcount: '131'
+workflow-type: ht
+source-wordcount: '130'
 ht-degree: 100%
 
 ---
@@ -23,17 +23,17 @@ O arquivo metadata.md inclui metadados de nível de acordo de recompra que passa
 
 | metadados | o que ele faz |
 |--- |--- |
-| título da solução | Usado no cabeçalho do artigo como link |
-| url do hub da solução | Abre a página do hub helpx |
-| ícone da solução | Exibe o ícone da solução ao lado do título da solução. Ainda não implementado |
-| url de introdução | Link para a página de introdução ao helpx |
-| url de tutoriais | Link para tutoriais em vídeo – tutoriais do helpx ou tutoriais do KT |
-| níveis mini-toc | Determina o número de níveis de cabeçalho exibidos no painel direito. o padrão é 2 |
-| git-acordo de recompra | Especifica o local do acordo de recompra principal para uso interno |
+| solution-title | Usado no cabeçalho do artigo como link |
+| solution-hub-url | Abre a página do hub helpx |
+| solution-icon | Exibe o ícone da solução ao lado do título da solução. Ainda não implementado |
+| getting-started-url | Link para a página de introdução ao helpx |
+| tutorials-url | Link para tutoriais em vídeo – tutoriais do helpx ou tutoriais do KT |
+| mini-toc-levels | Determina o número de níveis de cabeçalho exibidos no painel direito. o padrão é 2 |
+| git-repo | Especifica o local do acordo de recompra principal para uso interno |
 
 No arquivo TOC.md
 
 | metadados | o que ele faz |
 |--- |--- |
-| título de guia do usuário | Usado no cabeçalho do artigo como link |
-| url de guia do usuário | Abre a página do hub helpx |
+| user-guide-title | Usado no cabeçalho do artigo como link |
+| user-guide-url | Abre a página do hub helpx |
