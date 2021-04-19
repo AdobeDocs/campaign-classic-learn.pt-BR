@@ -11,16 +11,16 @@ kt: KT-1561
 doc-type: feature video
 activity: use
 team: TM
-role: Profissional de negócios, desenvolvedor
-level: Avançado
+role: Business Practitioner, Developer
+level: Experienced
+exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '164'
 ht-degree: 2%
 
 ---
-
 
 # Como configurar atividades de enriquecimento
 
