@@ -1,30 +1,30 @@
 ---
-title: Como configurar workflows de validação no Adobe Campaign Classic
-seo-title: Como configurar workflows de validação no Adobe Campaign Classic
+title: Como configurar fluxos de trabalho de validação no Adobe Campaign Classic
+seo-title: Como configurar fluxos de trabalho de validação no Adobe Campaign Classic
 description: Saiba como configurar diferentes fluxos de trabalho de validação de aprovação.
 seo-description: Este vídeo explica como configurar e usar um template do delivery no ACCAadobe Campaign oferece várias opções para que os profissionais de marketing revisem e forneçam conteúdo do delivery, direcionamento da campanha, extração de dados e aprovações de orçamento. Este tutorial explica como configurar diferentes workflows de validação de aprovação.
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: Fluxos de trabalho, aprovações
+feature: Fluxos de trabalho, Aprovações
 topics: Validation
 kt: KT-1566
 doc-type: feature video
 activity: setup
 team: TM
-role: Profissional
-level: Avançado
+role: Business Practitioner
+level: Experienced
+exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
 
+# Como configurar fluxos de trabalho de validação no Adobe Campaign Classic
 
-# Como configurar workflows de validação no Adobe Campaign Classic
-
-O Adobe Campaign oferece várias opções para que os profissionais de marketing revisem e forneçam conteúdo de entrega, meta de campanha, extração de dados e aprovações de orçamento.
+O Adobe Campaign oferece várias opções para que os profissionais de marketing revisem e forneçam conteúdo de entrega, direcionamento da campanha, extração de dados e aprovações de orçamento.
 
 Este tutorial explica como configurar diferentes workflows de validação de aprovação.
 
@@ -32,7 +32,7 @@ Este tutorial explica como configurar diferentes workflows de validação de apr
 
 Antes de ativar as etapas de aprovação, a equipe de marketing deve definir revisores individuais:
 
-* A função de revisor do Adobe Campaign em uma atividade de aprovação pode ser um único revisor (Operador) ou um grupo de revisores (função Operador).
+* A função de revisor da Adobe Campaign em uma atividade de aprovação pode ser um único revisor (Operador) ou um grupo de revisores (função Operador).
 * Os revisores e os grupos de revisores devem ser configurados anteriormente no Adobe Campaign por uma função de Administrador. Isso permite que os desenvolvedores de campanha selecionem os revisores como aprovadores em uma campanha ou delivery.
 
 ## Configuração de aprovações para campanhas {#configuring-approvals-for-campaigns}
