@@ -1,23 +1,23 @@
 ---
 title: Personalizar emails - Crie um boletim multilíngue usando conteúdo condicional
 description: Saiba como adicionar conteúdo condicional a um delivery no exemplo de um informativo multilingue.
-feature: Blocos de conteúdo dinâmico
+feature: Conteúdo dinâmico
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Profissional
-level: Iniciante
-translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: ht
-source-wordcount: '122'
-ht-degree: 100%
+role: Business Practitioner
+level: Beginner
+exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
+translation-type: tm+mt
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+workflow-type: tm+mt
+source-wordcount: '118'
+ht-degree: 98%
 
 ---
-
 
 # Personalizar emails - Crie um boletim multilíngue usando conteúdo condicional
 
