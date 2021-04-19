@@ -1,23 +1,23 @@
 ---
-title: Como criar um delivery SMS
-description: Saiba como criar um delivery SMS.
-feature: sms
+title: Como criar um delivery de SMS
+description: Saiba como criar um delivery de SMS.
+feature: SMS
 kt: 5083
 thumbnail: 330982.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+exl-id: 53e7951e-d0a9-433c-b668-b384582cda58
 translation-type: tm+mt
-source-git-commit: 58640a8da5bad8c012578e2884299b4b8b566adc
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '24'
-ht-degree: 16%
+source-wordcount: '25'
+ht-degree: 20%
 
 ---
 
-
 # Criar um delivery de SMS
 
-Saiba como criar um delivery SMS.
+Saiba como criar um delivery de SMS.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330982)
