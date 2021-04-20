@@ -1,15 +1,15 @@
 ---
 title: Configuração de um serviço Android e criação de um aplicativo Android para dispositivos móveis no Campaign
 description: Saiba como configurar um Android Services e criar um aplicativo Android para dispositivos móveis no Campaign. Isso é necessário para definirmos o aplicativo Neotrip como o destino da notificação por push.
-feature: Empurrar
+feature: Push
 topics: mobile channels
 kt: 6554
 thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrador, Desenvolvedor
-level: Experienciado
+role: Administrator, Developer
+level: Experienced
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

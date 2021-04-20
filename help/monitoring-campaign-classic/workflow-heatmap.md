@@ -1,7 +1,7 @@
 ---
 title: HeatMap de workflow
 description: Saiba como monitorar a carga na instância e planejar os workflows de acordo.
-feature: Mapa de calor
+feature: Heatmap
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video

@@ -1,15 +1,15 @@
 ---
 title: Adicionar permissões de URL
 description: Saiba como estabelecer uma conexão da instância do Adobe Campaign Classic com um URL externo.
-feature: 'Painel de controle do Campaign   '
+feature: Control Panel
 topics: Instance Settings
 kt: 3259
 thumbnail: 28149.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrador
-level: Experienciado
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-url-permissions.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

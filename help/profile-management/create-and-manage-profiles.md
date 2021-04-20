@@ -2,7 +2,7 @@
 title: Criar e gerenciar perfis
 description: Saiba como acessar os dados do perfil, classificar e filtrar perfis, além de criar e gerenciar perfis manualmente. Entenda a conformidade com o Regulamento Geral sobre a Proteção de Dados (GDPR) e a Lei de Privacidade do Consumidor da Califórnia (CCPA).
 landing-page-description: Entenda o conceito de perfis. Saiba como acessar os dados do perfil, classificar e filtrar perfis, além de criar e gerenciar perfis manualmente. Saiba mais sobre GDPR e CCPA.
-feature: Perfis
+feature: Profiles
 topics: null
 kt: 5081
 thumbnail: 35611.jpg

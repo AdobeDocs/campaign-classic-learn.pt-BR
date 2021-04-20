@@ -1,7 +1,7 @@
 ---
 title: Personalização de emails usando campos de personalização
 description: Saiba como adicionar um campo de personalização à linha de assunto e ao conteúdo de um delivery de email.
-feature: Conteúdo dinâmico
+feature: Dynamic Content
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg

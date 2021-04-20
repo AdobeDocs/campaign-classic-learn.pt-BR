@@ -1,7 +1,7 @@
 ---
 title: Criar deliveries de correspondência direta
 description: Saiba como criar, formatar e executar um delivery de correspondência direta.
-feature: Correspondência direta
+feature: Direct Mail
 topics: null
 kt: 3859
 thumbnail: 21377.jpg

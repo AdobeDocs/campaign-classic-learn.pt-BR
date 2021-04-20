@@ -1,7 +1,7 @@
 ---
 title: Como enviar e validar uma prova
 description: Saiba como enviar e validar uma prova.
-feature: Email, Provas
+feature: Email, Proofs
 kt: 5094
 thumbnail: 330945.jpg
 doc-type: feature video

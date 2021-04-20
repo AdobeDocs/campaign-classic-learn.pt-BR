@@ -1,7 +1,7 @@
 ---
 title: Configuração e gerenciamento de serviços de assinatura
 description: Saiba como configurar e gerenciar assinaturas e direcionar assinantes.
-feature: 'Assinaturas     '
+feature: Subscriptions     
 topics: null
 kt: 5088
 thumbnail: 329941.jpg

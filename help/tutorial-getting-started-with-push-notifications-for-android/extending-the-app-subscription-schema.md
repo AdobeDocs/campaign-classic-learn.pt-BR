@@ -1,15 +1,15 @@
 ---
 title: Extensão do esquema de assinatura do aplicativo para personalizar notificações por push
 description: Saiba como estender o esquema de assinatura do aplicativo para armazenar valores de personalização que o Campaign recebe de um aplicativo móvel.
-feature: Extensão Push, Schema
+feature: Push, Schema Extension
 topics: mobile channels
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrador, Desenvolvedor
-level: Experienciado
+role: Administrator, Developer
+level: Experienced
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

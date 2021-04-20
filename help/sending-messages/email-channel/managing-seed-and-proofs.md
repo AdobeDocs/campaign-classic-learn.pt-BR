@@ -8,8 +8,8 @@ thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: ht

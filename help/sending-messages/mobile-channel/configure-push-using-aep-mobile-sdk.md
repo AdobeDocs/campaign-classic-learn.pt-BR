@@ -1,14 +1,14 @@
 ---
 title: 'Configurar o canal por push usando o SDK móvel da Experience Platform '
 description: 'Saiba como configurar o Canal de push usando o Experience Cloud Mobile SDK. '
-feature: Empurrar
+feature: Push
 topics: Mobile Channels
 kt: 2683
 doc-type: feature video
 activity: setup
 team: PM
-role: Administrador
-level: Iniciante
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

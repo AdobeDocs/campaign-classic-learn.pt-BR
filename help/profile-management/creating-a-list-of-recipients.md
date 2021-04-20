@@ -1,15 +1,15 @@
 ---
 title: Criar uma lista de recipients
 description: Aprenda a criar um público-alvo configurando uma lista de recipients do Explorer.
-feature: Públicos
+feature: Audiences
 topics: Getting started
 kt: 2171
 thumbnail: 25602.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

@@ -3,15 +3,15 @@ title: Adicionar endereços IP à lista de permissões
 seo-title: Adicionar endereços IP à lista de permissões
 description: Saiba como adicionar um intervalo IP às listas de permissões das instâncias do Campaign Classic e como removê-las da lista de permissões usando o painel de controle do Campaign.
 seo-description: O vídeo abaixo explica como configurar novas conexões para suas instâncias, permitindo a listagem de intervalos de endereços IP.
-feature: 'Painel de controle do Campaign   '
+feature: Control Panel
 topics: null
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrador
-level: Experienciado
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

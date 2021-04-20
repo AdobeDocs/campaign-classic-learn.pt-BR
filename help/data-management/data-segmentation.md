@@ -1,14 +1,14 @@
 ---
 title: Segmentação de dados no Adobe Campaign Classic
 description: 'Entenda o perfil integrado do cliente, como criar e atualizar perfis e como criar segmentos de clientes com base nesses perfis. '
-feature: Perfis, atividade de gerenciamento de dados
+feature: Profiles, Data Management Activity
 topics: Data Management
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

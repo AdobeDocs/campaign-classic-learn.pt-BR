@@ -1,15 +1,15 @@
 ---
 title: Executar uma campanha
 description: Saiba como executar uma campanha, revisar um delivery de email e as propriedades de delivery.
-feature: Campanhas, Email
+feature: Campaigns, Email
 topics: null
 kt: 5092
 thumbnail: 329647.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

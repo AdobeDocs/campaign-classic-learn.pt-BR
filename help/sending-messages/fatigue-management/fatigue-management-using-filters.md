@@ -1,7 +1,7 @@
 ---
 title: Gerenciamento da fadiga de marketing com regras de pressão
 description: Saiba como implementar o gerenciamento de fadiga no Adobe Campaign Classic usando filtros.
-feature: Gerenciamento de fadiga
+feature: Fatigue Management
 topics: null
 kt: 2148
 doc-type: feature video

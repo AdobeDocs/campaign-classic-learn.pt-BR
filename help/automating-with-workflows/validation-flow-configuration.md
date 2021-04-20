@@ -5,7 +5,7 @@ description: Saiba como configurar diferentes fluxos de trabalho de validação 
 seo-description: Este vídeo explica como configurar e usar um template do delivery no ACCAadobe Campaign oferece várias opções para que os profissionais de marketing revisem e forneçam conteúdo do delivery, direcionamento da campanha, extração de dados e aprovações de orçamento. Este tutorial explica como configurar diferentes workflows de validação de aprovação.
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: Fluxos de trabalho, Aprovações
+feature: Workflows, Approvals
 topics: Validation
 kt: KT-1566
 doc-type: feature video

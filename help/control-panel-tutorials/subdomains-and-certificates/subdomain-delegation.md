@@ -1,15 +1,15 @@
 ---
 title: Delegação de subdomínio completa
 description: Saiba como delegar completamente um subdomínio ao Adobe Campaign.
-feature: 'Painel de controle do Campaign   '
+feature: Control Panel
 topics: Control Panel
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrador
-level: Experienciado
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

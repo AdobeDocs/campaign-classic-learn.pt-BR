@@ -1,15 +1,15 @@
 ---
 title: Definição das propriedades do template do delivery no Adobe Campaign Classic
 description: Saiba como configurar as propriedades do template do delivery.
-feature: Modelos de entrega
+feature: Delivery Templates
 topics: Templates
 kt: 1981
 thumbnail: 24067.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrador
-level: Iniciante
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

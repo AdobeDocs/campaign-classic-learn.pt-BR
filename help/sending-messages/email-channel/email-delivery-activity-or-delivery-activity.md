@@ -1,7 +1,7 @@
 ---
 title: Atividade de delivery por email × atividade de delivery no Adobe Campaign Classic
 description: Este vídeo explica como configurar e usar um template do delivery.
-feature: Modelos de delivery
+feature: Delivery Templates
 topics: Templates
 kt: 3232
 doc-type: feature video

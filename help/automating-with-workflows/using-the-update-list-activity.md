@@ -1,15 +1,15 @@
 ---
 title: Usar a atividade de lista de atualização para criar uma lista com um workflow
 description: Saiba como refinar seu público-alvo aplicando uma exclusão padrão a um fluxo de trabalho. Você também aprenderá a criar filtros predefinidos e como solucionar problemas em seu fluxo de trabalho.
-feature: Fluxos de trabalho, Atividade de direcionamento, Editor de consultas
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

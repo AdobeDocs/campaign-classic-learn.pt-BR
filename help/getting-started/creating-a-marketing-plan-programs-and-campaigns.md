@@ -1,15 +1,15 @@
 ---
 title: Como criar planos de marketing, programas e campanhas
 description: Entenda os principais conceitos do Adobe Campaign que ajudam a planejar, executar e medir com eficiência as campanhas de marketing entre canais.
-feature: Campanhas
+feature: Campaigns
 topics: Getting started
 kt: 5347
 thumbnail: 35132.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: ht

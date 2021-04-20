@@ -1,15 +1,15 @@
 ---
 title: Instalação do canal de aplicativo móvel
 description: Saiba como verificar se o canal de Aplicativo Móvel está instalado em sua instância e como instalá-lo.
-feature: Empurrar
+feature: Push
 topics: mobile channels
 kt: 6438
 thumbnail: 326544.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrador
-level: Iniciante
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

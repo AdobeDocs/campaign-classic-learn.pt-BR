@@ -1,7 +1,7 @@
 ---
 title: Como usar a trilha de auditoria
 description: 'A trilha de auditoria captura em tempo real uma lista abrangente de ações e eventos que ocorrem no Adobe Campaign. '
-feature: Trilha de auditoria
+feature: Audit Trail
 topics: Monitoring and Guardrails
 kt: 2835
 doc-type: feature video

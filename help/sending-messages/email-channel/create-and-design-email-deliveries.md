@@ -1,7 +1,7 @@
 ---
 title: Como criar e projetar deliveries de email
 description: Entenda o processo de criação de delivery de email e saiba como projetar e personalizar conteúdo de email.
-feature: Email, Design de email, Personalização
+feature: Email, Email Design, Personalization
 topics: null
 kt: 6824
 thumbnail: 330941.jpg

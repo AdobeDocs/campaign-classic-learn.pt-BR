@@ -1,15 +1,15 @@
 ---
 title: 'Configuração e envio de notificações por push '
 description: Saiba como configurar e enviar uma notificação por push para usuários de aplicativos Android.
-feature: Empurrar
+feature: Push
 topics: mobile channels
 kt: 6579
 thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrador, Desenvolvedor, Profissional de negócios
-level: Iniciante, Intermediário, Experienciado
+role: Administrator, Developer, Business Practitioner
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

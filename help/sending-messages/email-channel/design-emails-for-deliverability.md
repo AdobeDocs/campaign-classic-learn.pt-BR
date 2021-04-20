@@ -1,7 +1,7 @@
 ---
 title: Como garantir a capacidade de delivery ao criar emails?
 description: Saiba como aplicar as práticas recomendadas de capacidade de delivery.
-feature: Email, Capacidade de delivery
+feature: Email, Deliverability
 topics: null
 kt: 5095
 thumbnail: 330943.jpg
