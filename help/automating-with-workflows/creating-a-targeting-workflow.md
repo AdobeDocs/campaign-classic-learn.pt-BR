@@ -1,24 +1,23 @@
 ---
-title: Criar um workflow para construção do target
+title: Criar um fluxo de trabalho de direcionamento
 description: Saiba como definir vários targets de delivery usando workflows para construção do target.
-feature: Workflows, Targeting Activity, Query Editor
-topics: Targeting Activities
+feature: Fluxos de trabalho, Atividade de direcionamento, Editor de consultas
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
 role: Business Practitioner
 level: Beginner
+exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 39%
+source-wordcount: '91'
+ht-degree: 40%
 
 ---
 
-
-# Criar um workflow para construção do target
+# Criar um fluxo de trabalho de direcionamento
 
 O Adobe Campaign usa workflows para realizar campanhas de direcionamento, criar campanhas ou executar processos técnicos do Adobe Campaign. Neste vídeo, o foco será nos workflows para construção do target. Os workflows para construção do target permitem que você crie vários targets de delivery.
 
