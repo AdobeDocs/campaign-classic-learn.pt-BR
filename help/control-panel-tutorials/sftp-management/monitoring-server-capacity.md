@@ -1,8 +1,7 @@
 ---
 title: Monitorar a capacidade do servidor
-description: Saiba como monitorar e gerenciar o armazenamento SFTP por instância e adicionar endereços IP a listas de permissões.
-feature: Control Panel
-topics: Control Panel
+description: Saiba como monitorar e gerenciar o armazenamento SFTP por instância e adicionar endereços IP ao lista de permissões.
+feature: Painel de controle do Campaign
 audience: administrator
 kt: 3266
 thumbnail: 27270.jpg
@@ -12,14 +11,14 @@ team: TM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-whitelisting-adding-ssh-key.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-allow-listing-adding-ssh-key.html
+exl-id: cad80fc2-cf82-44fd-b192-0ceda90d6745
 translation-type: tm+mt
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 52%
+source-wordcount: '92'
+ht-degree: 53%
 
 ---
-
 
 # Monitorar a capacidade do servidor
 
