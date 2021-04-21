@@ -1,8 +1,7 @@
 ---
 title: Como importar perfis
 description: Saiba como importar perfis no Adobe Campaign Classic
-feature: Profiles
-topics: Data Import and Export
+feature: Perfis
 kt: 2176
 doc-type: feature video
 activity: use
@@ -11,7 +10,7 @@ role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: 373c0247-fd72-4c36-b2d6-cb758dc72492
 translation-type: tm+mt
-source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 24%
