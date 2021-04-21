@@ -1,16 +1,15 @@
 ---
 title: Solução de problemas do Painel de controle do Campaign
 description: O Painel de controle do Campaign permite monitorar e gerenciar o armazenamento SFTP por instância e endereços IP de lista de permissões.
-feature: Control Panel
-topics: Control Panel
+feature: Painel de controle do Campaign
 kt: 2938
 doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '341'
 ht-degree: 100%
 
 ---
