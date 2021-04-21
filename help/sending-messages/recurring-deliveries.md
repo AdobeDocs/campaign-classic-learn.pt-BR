@@ -2,21 +2,20 @@
 title: Como configurar campanhas de email recorrentes e contínuas
 description: Saiba como configurar um delivery recorrente e contínuo e compreender as diferenças entre as duas abordagens.
 feature: Workflows
-topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
 role: Business Practitioner
 level: Beginner
+exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '267'
 ht-degree: 67%
 
 ---
-
 
 # Como configurar campanhas de email recorrentes e contínuas
 
