@@ -1,8 +1,7 @@
 ---
 title: Implantar um template do delivery de email ad-hoc no Adobe Campaign Classic
 description: 'Saiba como implantar um template do delivery de email ad-hoc e entender a diferença entre um delivery de email e um workflow de delivery. '
-feature: Delivery Templates
-topics: Templates
+feature: Modelos de delivery
 kt: 1565
 thumbnail: 24065.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: TM
 role: Administrator
 level: Beginner
+exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 76%
+source-wordcount: '144'
+ht-degree: 78%
 
 ---
-
 
 # Implantar um template do delivery de email ad-hoc {#deploying-a-delivery-template}
 
