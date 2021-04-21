@@ -1,8 +1,7 @@
 ---
 title: Gerenciamento de aprovações em uma campanha
 description: Saiba como configurar aprovações e uma campanha e como diferenciar entre aprovações de delivery e workflow.
-feature: Workflows, Approvals
-topics: null
+feature: 'Fluxos de trabalho, Aprovações '
 kt: 5093
 thumbnail: 329605.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 21d542e9-c021-4e05-b570-a55cac196c3a
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 20%
+source-wordcount: '80'
+ht-degree: 21%
 
 ---
-
 
 # Gerenciamento de aprovações em uma campanha
 
