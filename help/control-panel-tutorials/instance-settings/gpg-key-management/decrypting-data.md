@@ -1,8 +1,7 @@
 ---
 title: Descriptografar dados
 description: O vídeo abaixo explica como criar uma chave pública, importá-la e instalá-la em uma instância do Campaign para descriptografar dados.
-feature: Control Panel
-topics: null
+feature: Painel de controle do Campaign
 kt: 5543
 thumbnail: 36482.jpg
 doc-type: feature video
@@ -11,14 +10,14 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
+exl-id: d9f4be99-6e41-4c75-b3dc-bbdae1a63677
 translation-type: tm+mt
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 97%
+source-wordcount: '90'
+ht-degree: 100%
 
 ---
-
 
 # Descriptografar dados
 
