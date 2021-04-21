@@ -1,8 +1,7 @@
 ---
-title: Delegar subdomínios usando CNAME
+title: Delegação de subdomínios usando CNAME
 description: Saiba como delegar completamente um subdomínio ao Adobe Campaign.
-feature: Control Panel
-topics: Control Panel
+feature: Painel de controle do Campaign
 kt: 6015
 thumbnail: 326612.jpg
 doc-type: feature video
@@ -10,22 +9,22 @@ activity: use
 team: PM
 role: Administrator
 level: Experienced
+exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 47%
+source-wordcount: '97'
+ht-degree: 100%
 
 ---
 
-
-# Delegar subdomínios usando CNAME (beta)
+# Delegação de subdomínios usando CNAME (beta)
 
 >[!IMPORTANT]
 >
-> O uso de CNAMEs para delegação de subdomínio está em beta e está sujeito a atualizações e modificações frequentes sem aviso prévio.
+> O uso de CNAMEs para delegação de subdomínio está em fase beta e está sujeito a atualizações e modificações frequentes sem aviso prévio.
 
-Para começar a enviar emails ou publicar landing pages com o Adobe Campaign, é necessário configurar um novo subdomínio.
+Para começar a enviar emails ou publicar páginas de aterrissagem com o Adobe Campaign, é necessário configurar um novo subdomínio.
 
 Saiba como configurar e enviar um subdomínio usando CNAMEs no Painel de controle do Campaign.
 
@@ -33,5 +32,5 @@ Saiba como configurar e enviar um subdomínio usando CNAMEs no Painel de control
 
 ## Recursos adicionais
 
-* [Delegação completa de subdomínio (vídeo)](./subdomain-delegation.md)
-* [Configurar um novo subdomínio (documentação)](https://docs.adobe.com/content/help/pt-BR/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* [Delegação total de subdomínio (vídeo)](./subdomain-delegation.md)
+* [Configuração de um novo subdomínio (documentação)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=pt-BR#subdomains-and-certificates)
