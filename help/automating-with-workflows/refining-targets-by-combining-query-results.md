@@ -1,8 +1,7 @@
 ---
 title: Refinar públicos alvo combinando resultados de query
 description: Saiba como refinar seu público-alvo combinando os resultados do query em um fluxo de trabalho usando a interseção ou as atividades de união.
-feature: Workflows, Targeting Activity, Query Editor
-topics: Targeting Activities
+feature: Fluxos de trabalho, Atividade de direcionamento, Editor de consultas
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 42%
+source-wordcount: '116'
+ht-degree: 43%
 
 ---
-
 
 # Refinar públicos alvo combinando resultados de query
 
