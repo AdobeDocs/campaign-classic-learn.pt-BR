@@ -10,11 +10,10 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 43%
+source-wordcount: '110'
+ht-degree: 37%
 
 ---
 
@@ -28,9 +27,9 @@ Saiba como refinar seu público-alvo combinando os resultados da consulta em um 
 
 Documentação:
 
-* [Sobre workflows](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
-* [Interseção](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
-* [União](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
+* [Sobre workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Interseção](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
+* [União](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
 Tutoriais:
 
