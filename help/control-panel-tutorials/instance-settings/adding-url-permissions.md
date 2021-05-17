@@ -11,11 +11,10 @@ role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-url-permissions.html
 exl-id: 6fc468d8-7cde-4153-9bc8-56955db8b867
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 32%
+source-wordcount: '49'
+ht-degree: 16%
 
 ---
 
@@ -25,4 +24,4 @@ Saiba como estabelecer uma conexão da sua instância [!UICONTROL Adobe Campaign
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
 
-Para obter mais informações, consulte [Permissões de URL](https://docs.adobe.com/content/help/pt-BR/control-panel/using/instances-settings/url-permissions.html).
+Para mais informações, consulte (https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/url-permissions.html).
