@@ -10,10 +10,10 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: 018e36bc-1afc-42c0-a459-4d51775ff6f8
-source-git-commit: 824d5a7dbfb422408fb031b50bf4cc12fa065a7d
+source-git-commit: 7030ab5bb0571579459410688f4ee3174696d5a1
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 100%
+source-wordcount: '65'
+ht-degree: 80%
 
 ---
 
@@ -25,4 +25,4 @@ Entenda o processo de criação de delivery de email e saiba como projetar e per
 
 ## Recursos adicionais
 
-* [Caso de uso: criação de um delivery de email](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html?lang=pt-BR#designing-content)
+* [Definição do conteúdo do email (documentação)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)
