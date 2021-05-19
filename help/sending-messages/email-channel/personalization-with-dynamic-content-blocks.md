@@ -10,21 +10,18 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 748455765298c639357c8b463f5da8e23bdb7800
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 98%
+source-wordcount: '124'
+ht-degree: 70%
 
 ---
 
-# Personalizar emails usando blocos de conteúdo dinâmico
+# Personalização de emails usando campos de personalização
 
-No Adobe Campaign, você pode personalizar o conteúdo ou a aparência das mensagens e combiná-las com critérios de perfis de recipient.
+Os campos de personalização são usados para personalização de primeiro nível do conteúdo das mensagens de delivery. Os campos inseridos em um conteúdo principal mostram onde inserir os dados da fonte de dados selecionada.
 
-Um bloco de personalização é dinâmico, personalizado e contém um código de renderização específico que pode ser adicionado aos deliveries. Você pode, por exemplo, adicionar imagens, cabeçalhos de email, rodapés de email, links de mirror page, links de unsubscription e muito mais.
-
-Saiba como criar blocos de conteúdo dinâmico e como usá-los para personalizar o conteúdo do seu delivery de email.
+Saiba como adicionar um campo de personalização à linha de assunto e ao conteúdo de um delivery de email.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -32,10 +29,10 @@ Saiba como criar blocos de conteúdo dinâmico e como usá-los para personalizar
 
 Documentação:
 
-* [Sobre personalização](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* ([Blocos de personalização](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
+* [Sobre personalização](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* ([Blocos de personalização](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 Tutoriais em vídeo:
 
 * [Personalizar emails usando campo de personalização](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [Personalizar emails – Crie um boletim multilíngue usando conteúdo condicional](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [Personalizar emails - Crie um boletim multilíngue usando conteúdo condicional](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
