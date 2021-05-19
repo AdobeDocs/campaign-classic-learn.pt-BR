@@ -10,18 +10,22 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 748455765298c639357c8b463f5da8e23bdb7800
+source-git-commit: b668dc4f6568be3d239c93fef50132acb26cb40c
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 70%
+source-wordcount: '147'
+ht-degree: 50%
 
 ---
 
-# Personalização de emails usando campos de personalização
 
-Os campos de personalização são usados para personalização de primeiro nível do conteúdo das mensagens de delivery. Os campos inseridos em um conteúdo principal mostram onde inserir os dados da fonte de dados selecionada.
+# Personalizar emails usando blocos de conteúdo dinâmico
 
-Saiba como adicionar um campo de personalização à linha de assunto e ao conteúdo de um delivery de email.
+No Adobe Campaign, você pode personalizar o conteúdo ou a aparência das mensagens e combiná-las com critérios de perfis de recipient.
+
+Um bloco de personalização é dinâmico, personalizado e contém um código de renderização específico que pode ser adicionado aos deliveries. Você pode, por exemplo, adicionar imagens, cabeçalhos de email, rodapés de email, links de mirror page, links de unsubscription e muito mais.
+
+Saiba como criar blocos de conteúdo dinâmico e como usá-los para personalizar o conteúdo do seu delivery de email.
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
