@@ -4,12 +4,11 @@ user-guide-description: Saiba como monitorar os principais ativos das instância
 breadcrumb-title: Tutoriais do Painel de controle do Campaign
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
-feature: Control Panel
+feature: Painel de controle do Campaign
 role: Administrator
 level: Experienced
-translation-type: tm+mt
 source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 
