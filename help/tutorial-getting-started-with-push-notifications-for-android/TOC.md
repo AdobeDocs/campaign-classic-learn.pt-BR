@@ -4,9 +4,8 @@ user-guide-description: Este tutorial guiará você pelas etapas relativas ao en
 breadcrumb-title: Introdução a notificações por push para Android
 breadcrumb-url: /docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html
 index: true
-translation-type: tm+mt
 source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -16,6 +15,6 @@ ht-degree: 100%
 # Introdução a notificações por push para Android {#getting-started-with-push-notifications-for-android}
 
 + [Introdução a notificações por push para Android – Introdução](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)
-+ [Etapa 1: estender o esquema de subscrição do aplicativo para personalizar notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md) 
++ [Etapa 1: estender o esquema de subscrição do aplicativo para personalizar notificações por push ](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 + [Etapa 2: configurar um serviço Android e criar um aplicativo Android para dispositivos móveis no Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 + [Etapa 3: configurar e enviar notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
