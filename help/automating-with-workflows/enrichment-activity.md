@@ -13,7 +13,7 @@ team: TM
 role: Business Practitioner, Developer
 level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: 84d5dd568b0d8bae2ad97676f1eb1a312c0ff01e
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 1%
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 # Como configurar atividades de enriquecimento
 
-Uma atividade de enriquecimento é um objeto de workflow que permite ao usuário adicionar dados à tabela de trabalho. Com um enriquecimento, você pode adicionar colunas a essa tabela para conter dados adicionais OU definir novos links dessa tabela de trabalho para outros dados existentes.
+Uma atividade de enriquecimento é um objeto de workflow que permite ao usuário adicionar dados à tabela de trabalho. Com um enriquecimento, você pode adicionar colunas a essa tabela para conter dados adicionais ou definir novos links dessa tabela de trabalho para outros dados existentes.
 
 Este vídeo explica como configurar uma atividade de enriquecimento com base nas informações de log do delivery.
 
