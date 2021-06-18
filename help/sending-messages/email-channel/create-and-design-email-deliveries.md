@@ -11,9 +11,9 @@ role: Business Practitioner
 level: Beginner
 exl-id: 018e36bc-1afc-42c0-a459-4d51775ff6f8
 source-git-commit: 7030ab5bb0571579459410688f4ee3174696d5a1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Entenda o processo de criação de delivery de email e saiba como projetar e per
 
 ## Recursos adicionais
 
-* [Definição do conteúdo do email (documentação)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)
+* [Definição do conteúdo do email (documentação)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=pt-BR)
