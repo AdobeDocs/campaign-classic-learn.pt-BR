@@ -7,20 +7,19 @@ thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 2%
+ht-degree: 26%
 
 ---
 
 # Configurar um serviço [!DNL Android] e criar um aplicativo móvel [!DNL Android] no Campaign
 
-Saiba como configurar um serviço [!DNL Android] e criar um aplicativo móvel [!DNL Android] no Campaign. Essa etapa é necessária para definir o aplicativo móvel de destino para a notificação por push.
+Saiba como configurar um serviço [!DNL Android] e criar um aplicativo para dispositivos móveis [!DNL Android] no Campaign. Essa etapa é necessária a fim de definir o aplicativo para dispositivos móveis de destino para a notificação por push.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
