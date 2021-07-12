@@ -1,23 +1,23 @@
 ---
 title: Como garantir a capacidade de delivery ao criar emails?
 description: Saiba como aplicar as práticas recomendadas de capacidade de delivery.
-feature: Email, Capacidade de delivery
+feature: Email, Capacidade de entrega
 kt: 5095
 thumbnail: 330943.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 100%
 
 ---
 
-# Criar emails para capacidade de delivery
+# Criar emails para capacidade de entrega
 
 Saiba como aplicar as práticas recomendadas de capacidade de delivery ao Campaign.
 
