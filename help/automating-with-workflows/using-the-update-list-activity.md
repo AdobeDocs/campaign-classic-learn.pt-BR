@@ -1,19 +1,19 @@
 ---
 title: Usar a atividade de lista de atualização para criar uma lista com um workflow
-description: Saiba como refinar seu público-alvo aplicando uma exclusão padrão a um fluxo de trabalho. Você também aprenderá a criar filtros predefinidos e como solucionar problemas em seu fluxo de trabalho.
-feature: Fluxos de trabalho, Atividade de direcionamento, Editor de consultas
+description: Saiba como refinar o target aplicando uma exclusão padrão a um fluxo de trabalho. Você também aprenderá a criar filtros predefinidos e solucionar problemas em seu fluxo de trabalho.
+feature: Workflows, Atividade de direcionamento, Editor de consultas
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 36%
+ht-degree: 70%
 
 ---
 
@@ -27,7 +27,7 @@ Entenda o conceito de listas no Adobe Campaign Classic e saiba como criar uma li
 
 Documentação:
 
-* [Sobre workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Sobre workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=pt-BR)
 * [Atualizar lista](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
 
 Tutoriais:
