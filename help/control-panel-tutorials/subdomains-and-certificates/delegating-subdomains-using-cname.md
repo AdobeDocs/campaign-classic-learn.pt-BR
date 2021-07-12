@@ -7,13 +7,13 @@ thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -32,5 +32,5 @@ Saiba como configurar e enviar um subdomínio usando CNAMEs no Painel de control
 ## Recursos adicionais
 
 * [Delegação total de subdomínio (vídeo)](./subdomain-delegation.md)
-* [Configuração de um novo subdomínio (documentação)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* [Configuração de um novo subdomínio (documentação)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=pt-BR)
 
