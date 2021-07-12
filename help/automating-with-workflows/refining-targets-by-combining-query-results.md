@@ -1,19 +1,19 @@
 ---
 title: Refinar públicos alvo combinando resultados de query
-description: Saiba como refinar seu público-alvo combinando os resultados do query em um fluxo de trabalho usando a interseção ou as atividades de união.
-feature: Fluxos de trabalho, Atividade de direcionamento, Editor de consultas
+description: Saiba como refinar o target combinando os resultados da consulta em um fluxo de trabalho usando a intersecção ou as atividades de união.
+feature: Workflows, Atividade de direcionamento, Editor de consultas
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 37%
+ht-degree: 67%
 
 ---
 
@@ -27,7 +27,7 @@ Saiba como refinar seu público-alvo combinando os resultados da consulta em um 
 
 Documentação:
 
-* [Sobre workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Sobre workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=pt-BR)
 * [Interseção](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
 * [União](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
