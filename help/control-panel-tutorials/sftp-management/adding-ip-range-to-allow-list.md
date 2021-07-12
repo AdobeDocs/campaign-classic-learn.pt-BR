@@ -1,5 +1,5 @@
 ---
-title: 'Adicionar uma intervalo de IP à lista de permissões '
+title: 'Adicionar um intervalo de IP à lista de permissões '
 description: Saiba como adicionar um intervalo de endereços IP à lista de permissões.
 feature: Painel de controle do Campaign
 kt: 6430
@@ -8,17 +8,17 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 20%
 
 ---
 
-# Adicionar uma intervalo de IP à lista de permissões
+# Adicionar um intervalo de IP à lista de permissões
 
 Para se conectar a um servidor, por meio de um aplicativo cliente ou de uma API, é necessário configurar uma chave SSH pública e adicionar o endereço IP que se conecta ao servidor SFTP na lista de permissões.
 
