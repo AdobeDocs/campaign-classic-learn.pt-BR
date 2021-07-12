@@ -1,28 +1,28 @@
 ---
 title: Como configurar campanhas de email recorrentes e contínuas
-description: Saiba como configurar um delivery recorrente e contínuo e compreender as diferenças entre as duas abordagens.
+description: Saiba como configurar uma entrega recorrente e contínua e compreender as diferenças entre as duas abordagens.
 feature: Workflows
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 5fb898eca821c5078393003c41032801f8454fd5
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 67%
+ht-degree: 95%
 
 ---
 
 # Como configurar campanhas de email recorrentes e contínuas
 
-Este tutorial explica como configurar um delivery recorrente e contínuo e as diferenças entre as duas abordagens.
+Este tutorial explica como configurar uma entrega recorrente e contínua e as diferenças entre as duas abordagens.
 
 ## Rastreamento de entrega recorrente e contínua {#recurring-and-continuous-delivery-tracking}
 
-Os deliveries recorrentes e contínuos diferem na maneira como os dados de contato são gerenciados:
+As entregas recorrentes e contínuas diferem na maneira como os dados de contato são gerenciados:
 
 * O **delivery contínuo** permite adicionar novos recipients a um delivery existente, o que evita a criação de um novo delivery cada vez que um novo recipient for adicionado. Você pode atualizar o criativo diretamente no workflow da campanha e ele atualizará o modelo na pasta Recursos do template do delivery.
 
@@ -42,7 +42,7 @@ Este vídeo explica como configurar um delivery recorrente e uma atividade de sc
 
 ## Como configurar uma entrega contínua {#how-to-set-up-a-continuous-delivery}
 
-Este vídeo mostra como configurar um delivery contínuo com um query incremental.
+Este vídeo mostra como configurar uma entrega contínua com um query incremental.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
 
