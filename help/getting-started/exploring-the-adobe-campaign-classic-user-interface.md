@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 521b970a-55eb-498f-9350-3fd7546bf1df
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 77aa26692532bd83d219dc6e83af0704ea35367e
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 100%
+source-wordcount: '69'
+ht-degree: 89%
 
 ---
 
@@ -25,4 +25,4 @@ Esta lição explica a principal interface do usuário do Adobe Campaign Classic
 
 ## Recursos adicionais
 
-* [Área de trabalho do Adobe Campaign](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/starting-with-adobe-campaign/adobe-campaign-workspace.html)
+* [Introdução à interface do usuário do Campaign (documentação)](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=pt-BR)
