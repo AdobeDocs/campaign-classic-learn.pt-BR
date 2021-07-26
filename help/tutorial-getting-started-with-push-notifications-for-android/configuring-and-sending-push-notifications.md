@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: e89f2b239a3d783e7fddbb5c9249524db0018cc5
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 4%
+source-wordcount: '70'
+ht-degree: 7%
 
 ---
 
@@ -29,7 +29,4 @@ Etapa 2: [Configuração de um serviço Android e criação de um aplicativo And
 
 ## Recursos adicionais
 
-* [Introdução ao canal de aplicativo móvel (documentação do produto)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/about-mobile-app-channel.html#about-mobile-app-channel)
-* [Criar notificações por push (documentação do produto)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/creating-notifications.html#sending-messages)
-* [Criar um delivery do Android no Campaign (documentação do produto)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#creating-android-delivery)
-* [Gerenciar quarentenas do Android (documentação do produto)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-quarantine-management.html#android-quarantine)
+* [Criar uma notificação por push para Android (documentação)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/create-a-push-msg/create-notifications-android.html)
