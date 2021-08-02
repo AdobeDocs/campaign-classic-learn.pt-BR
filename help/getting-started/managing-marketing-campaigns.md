@@ -10,15 +10,15 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 0a8f07b1-e663-4c64-9d6e-34dfc5b05517
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: dde42d8f7f43a15062c9644276fa71b1c7757886
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 100%
+source-wordcount: '42'
+ht-degree: 61%
 
 ---
 
 # Gerenciar campanhas de marketing
 
-Entenda os principais conceitos do [!UICONTROL Adobe Campaign] que ajudam a planejar, executar e medir com eficiência as campanhas de marketing entre canais.
+Entenda os principais conceitos do [!UICONTROL Adobe Campaign] que ajudam a planejar, executar e mensurar com eficácia as campanhas de marketing entre canais.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12)
