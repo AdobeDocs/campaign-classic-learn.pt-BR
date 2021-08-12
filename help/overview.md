@@ -6,7 +6,7 @@ feature: Visão geral
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 226eee423845302431044fc0cff44f30651a0791
+source-git-commit: e92815e36c3d611f632768b0082a88ca62e64655
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 80%
@@ -18,7 +18,6 @@ ht-degree: 80%
 O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do Adobe Campaign Classic V7.
 
 >[!INFO]
-> 
 > Você tem perguntas? Gostaria de compartilhar sua experiência ou trocar ideias com seus colegas? Ou você tem feedback sobre o conteúdo de aprendizado da equipe do Adobe?
 Participe da conversa no [thread da comunidade de aprendizagem do Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
 
