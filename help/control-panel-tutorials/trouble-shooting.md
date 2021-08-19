@@ -10,7 +10,7 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
-source-git-commit: 82c423273671b776f9b1e7bdfaaf092ec23a17a9
+source-git-commit: 77e4a26811f7c7b814a7d8060bbb0f84196caed4
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 42%
