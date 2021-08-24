@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 100%
+source-wordcount: '116'
+ht-degree: 67%
 
 ---
 
@@ -29,8 +29,8 @@ Saiba como adicionar conteúdo condicional a um delivery no exemplo de um inform
 
 Documentação:
 
-* [Sobre personalização](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* [Conteúdo condicional](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
+* [Sobre personalização](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+* [Conteúdo condicional](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en)
 
 Tutoriais em vídeo:
 
