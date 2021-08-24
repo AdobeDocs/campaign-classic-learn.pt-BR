@@ -1,8 +1,8 @@
 ---
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 22%
+source-wordcount: '293'
+ht-degree: 14%
 
 ---
 # Contribuição
@@ -29,13 +29,14 @@ consenso sobre a direção do projeto e solução de problemas em processos de p
 ## Contrato de Licença de Colaborador
 
 Todas as contribuições de terceiros para este projeto devem ser acompanhadas por um contribuidor assinado
-contrato de licença. Isso dá à Adobe a permissão de redistribuir suas contribuições como parte do projeto. [Assine nosso CLA](http://opensource.adobe.com/cla.html). Você
+contrato de licença. Isso dá à Adobe a permissão de redistribuir suas contribuições como parte do projeto. [Assine nosso CLA](https://opensource.adobe.com/cla.html). Você
 é necessário enviar um Adobe CLA apenas uma vez, portanto, se você já tiver enviado um anteriormente,
 você é bom para ir!
 
 ## Revisões do código
 
-Todos os envios devem vir na forma de solicitações de envio e precisam ser revisados pelos confirmadores do projeto. Leia a [documentação de solicitação de envio do GitHub](https://help.github.com/pt/github/collaborating-with-issues-and-pull-requests/about-pull-requests) para obter mais informações sobre envio de pull requests.
+Todos os pedidos devem ser apresentados sob a forma de pedidos de pull e devem ser revistos
+por autores do projeto. Leia a [documentação de solicitação de envio do GitHub](https://help.github.com/articles/about-pull-requests) para obter mais informações sobre envio de pull requests.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
