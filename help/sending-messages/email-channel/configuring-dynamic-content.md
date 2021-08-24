@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
@@ -27,7 +27,7 @@ Entenda os diferentes tipos de conteúdo dinâmico e saiba como criar e aplicar 
 
 Documentação do produto:
 
-* [Conteúdo condicional](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
+* [Conteúdo condicional](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en)
 
 Tutoriais em vídeo:
 
