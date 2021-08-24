@@ -1,16 +1,15 @@
 ---
 title: Como personalizar emails usando blocos de conteúdo dinâmico
-description: Este tutorial demonstra como personalizar o conteúdo do delivery, usar o código JavaScript em templates do delivery, padronizar e compartilhar blocos de conteúdo em diferentes templates do delivery.
+description: Este tutorial demonstra como personalizar o conteúdo do delivery, usar o código JavaScript em templates do delivery e padronizar e compartilhar blocos de conteúdo em diferentes templates do delivery.
 feature: Conteúdo dinâmico
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 99%
+source-wordcount: '254'
+ht-degree: 70%
 
 ---
 
@@ -24,11 +23,11 @@ No Adobe Campaign, você pode personalizar o conteúdo ou a aparência das mensa
 3- Inserir campos de personalização dinâmicos\
 4- Criar conteúdo condicional.
 
-Este tutorial demonstra como personalizar o conteúdo do delivery, usar o código JavaScript em templates do delivery, padronizar e compartilhar blocos de conteúdo em diferentes templates do delivery.
+Este tutorial demonstra como personalizar o conteúdo do delivery, usar o código JavaScript em templates do delivery e padronizar e compartilhar blocos de conteúdo em diferentes templates do delivery.
 
 ## Criar e adicionar um bloco de personalização a um delivery
 
-Um bloco de personalização é dinâmico, personalizado e contém um código de renderização específico que pode ser adicionado aos deliveries. Você pode, por exemplo, adicionar imagens, cabeçalhos de email, rodapés de email, links de mirror page, links de unsubscription e muito mais.
+Um bloco de personalização é dinâmico e contém um código de renderização específico que pode ser adicionado aos deliveries. Você pode, por exemplo, adicionar imagens, cabeçalhos de email, rodapés de email, links de mirror page, links de unsubscription e muito mais.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -46,4 +45,4 @@ Ao configurar campos de conteúdo condicional, você pode criar personalização
 
 ## Recursos adicionais
 
-* [Sobre personalização](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [Sobre personalização](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
