@@ -1,5 +1,5 @@
 ---
-title: Criar uma lista de recipients com um fluxo de trabalho
+title: Criar uma lista de recipients com um workflow
 description: Aprenda a criar um público-alvo configurando uma lista de recipients do Explorer.
 feature: Públicos
 kt: 2173
@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 96%
+ht-degree: 88%
 
 ---
 
@@ -27,7 +27,7 @@ Saiba como criar um fluxo de trabalho para direcionar os recipients e como torn�
 
 Documentação:
 
-* [Criação e gerenciamento de listas](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
+* [Criação e gerenciamento de listas](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
 
 Tutoriais:
 
