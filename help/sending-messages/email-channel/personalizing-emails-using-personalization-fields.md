@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 76%
 
 ---
 
@@ -29,8 +29,8 @@ Saiba como adicionar um campo de personalização à linha de assunto e ao conte
 
 Documentação:
 
-* [Sobre personalização](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* [Campos de personalização](https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-fields.html)
+* [Sobre personalização](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+* [Campos de personalização](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-fields.html?lang=en)
 
 Tutoriais:
 
