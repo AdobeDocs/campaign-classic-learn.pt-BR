@@ -9,16 +9,16 @@ team: TM
 role: User, Developer, Admin
 level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 25%
+source-wordcount: '101'
+ht-degree: 42%
 
 ---
 
 # Configuração do gerenciamento de fadiga usando filtros predefinidos
 
-O gerenciamento de fadiga controla a frequência e a quantidade de mensagens para evitar a solicitação excessiva de recipients. Se você não tiver o módulo de otimização de campanha na instância da campanha, poderá configurar um filtro predefinido que irá filtrar o público alvo pelo número de mensagens recebidas.
+O gerenciamento de fadiga controla a frequência e a quantidade de mensagens para evitar a solicitação excessiva de recipients. Se você não tiver o módulo de otimização de campanha na instância da campanha, poderá configurar um filtro predefinido que filtre o público-alvo pelo número de mensagens recebidas.
 
 Este vídeo explica como implementar o gerenciamento de fadiga no Adobe Campaign Classic usando filtros.
 
@@ -26,4 +26,4 @@ Este vídeo explica como implementar o gerenciamento de fadiga no Adobe Campaign
 
 ## Recursos adicionais
 
-* [Sobre tipologias de campanha](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
+* [Sobre tipologias de campanha](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=pt-BR)
