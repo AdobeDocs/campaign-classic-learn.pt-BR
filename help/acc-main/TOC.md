@@ -6,15 +6,15 @@ user-guide-description: O Adobe Campaign Classic permite que os profissionais de
 breadcrumb-title: Tutoriais
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=pt-BR&tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: Tutoriais
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=pt-BR
-getting-started-title: Documentação
-getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-source-git-commit: d7cfbad42f559f87a20c5580e3d7279140bf32e1
+solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
+tutorials-title: Tutorials
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
+getting-started-title: Documentation
+getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
+source-git-commit: 8fead8e1e71f26c87033cc72f5a14e38beb602f7
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -96,3 +96,4 @@ ht-degree: 98%
    + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=pt-BR)
    + Acessar um banco de dados externo (FDA) {#fda}
       + [Gerenciamento de big data no [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
++ [Solução de problemas do Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
