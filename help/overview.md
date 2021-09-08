@@ -2,14 +2,14 @@
 title: Tutoriais do Adobe Campaign Classic – Visão geral
 description: O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 sub-product: Campaign Classic
-feature: Visão geral
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: af19780541ac0f2bc3dbcd37f095ae602b872223
+source-git-commit: 566aeb86b931525137cc1ad5edb766272976390d
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 80%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 80%
 O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do Adobe Campaign Classic V7.
 
 >[!INFO]
-> Você tem perguntas? Gostaria de compartilhar sua experiência ou trocar ideias com seus colegas? Ou você tem feedback sobre o conteúdo de aprendizado da equipe do Adobe? Participe da conversa no [thread da comunidade de aprendizagem do Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
+> Você tem dúvidas? Deseja compartilhar sua experiência ou trocar ideias com colegas? Ou você quer compartilhar seu feedback sobre o conteúdo de aprendizado com a equipe da Adobe? Participe da conversa no [thread da comunidade de aprendizagem do Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096).
 
 ## Novidades
 
