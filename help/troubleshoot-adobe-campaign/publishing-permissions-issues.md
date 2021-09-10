@@ -4,15 +4,15 @@ description: Saiba como corrigir problemas de publicação por usuários não ad
 feature: Email
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8423
-source-git-commit: 548739ef758c91beb68107847bfccebfceee5ac1
+exl-id: 328cdb2a-e889-4bce-ab95-491ad544f060
+source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Corrigir erros de publicação
 

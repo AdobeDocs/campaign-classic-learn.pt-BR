@@ -3,15 +3,15 @@ title: Problemas de balanceador de carga durante a reinicialização da instânc
 description: Saiba como corrigir problemas do balanceador de carga encontrados durante a reinicialização da instância
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8428
-source-git-commit: 548739ef758c91beb68107847bfccebfceee5ac1
+exl-id: 9cce6bfa-26e8-416a-bf98-96cd9b5d02ed
+source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Problemas do balanceador de carga
 
