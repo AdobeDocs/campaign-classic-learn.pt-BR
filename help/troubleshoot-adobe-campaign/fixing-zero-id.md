@@ -1,6 +1,6 @@
 ---
-title: Corrigindo id zero
-description: Saiba como corrigir o problema de id zero usando inserir query
+title: Correção de id zero
+description: Saiba como corrigir o problema de id zero usando a função inserir query
 feature: Query Editor
 role: Admin
 level: Experienced
@@ -8,9 +8,9 @@ type: Troubleshooting
 kt: 8430
 exl-id: 62b8b245-944e-40ce-8cae-a052cf96c99f
 source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '28'
+ht-degree: 100%
 
 ---
 
