@@ -1,7 +1,7 @@
 ---
 title: Definir conteúdo de email interativo com o AMP
 description: Saiba como configurar o conteúdo de email no formato AMP.
-feature: Email, Design de email
+feature: Email, Email Design
 kt: 3475
 thumbnail: 29940.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '104'
+workflow-type: ht
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
