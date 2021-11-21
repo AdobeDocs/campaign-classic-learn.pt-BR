@@ -1,7 +1,7 @@
 ---
 title: Extensão do esquema de subscrição de aplicativo para personalizar notificações por push
 description: Saiba como estender o esquema de subscrição do aplicativo para armazenar valores de personalização que o Campaign recebe de um aplicativo para dispositivos móveis.
-feature: Push, Extensão de esquema
+feature: Push, Schema Extension
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 40%
+source-wordcount: '89'
+ht-degree: 38%
 
 ---
 
-# Extensão do schema [!UICONTROL app subscription] para personalizar notificações por push
+# Extensão do [!UICONTROL app subscription] esquema para personalizar notificações por push
 
-Saiba como estender o schema [!UICONTROL app subscription] para armazenar valores de personalização [!DNL Campaign] recebidos de um aplicativo móvel.
+Saiba como estender o [!UICONTROL app subscription] schema para poder armazenar valores de personalização [!DNL Campaign] O recebe de um aplicativo móvel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 

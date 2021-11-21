@@ -1,9 +1,9 @@
 ---
 title: Adicionar endereços IP à lista de permissões
-seo-title: Adicionar endereços IP à lista de permissões
+seo-title: Adding IP addresses to allow lists
 description: Saiba como adicionar um intervalo IP às listas de permissões das instâncias de Campaign Classic e como removê-las da lista de permissões usando o painel de controle do Campaign.
-seo-description: O vídeo abaixo explica como configurar novas conexões para suas instâncias, permitindo a listagem de intervalos de endereços IP.
-feature: Painel de controle do Campaign
+seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
+feature: Control Panel
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
@@ -15,8 +15,8 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 70%
+source-wordcount: '194'
+ht-degree: 69%
 
 ---
 
@@ -33,7 +33,7 @@ Para acessar o gerenciamento de subdomínio no Painel de controle do Campaign, a
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **Instances Settings** card
 ou
-* Diretamente pelo URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
+* Diretamente do URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
 ## Adicione um intervalo IP à lista de permissões da sua instância
 
@@ -41,4 +41,4 @@ Saiba como adicionar um intervalo IP às listas de permissões das instâncias d
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-Para obter mais informações sobre IP, consulte a [documentação detalhada do produto](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html).
+Para obter mais informações sobre a lista de permissões de IP, consulte a [documentação detalhada do produto](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=pt-BR).

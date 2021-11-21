@@ -1,7 +1,7 @@
 ---
-title: Criar uma lista de recipients com um workflow
+title: Criar uma lista de recipients com um fluxo de trabalho
 description: Aprenda a criar um público-alvo configurando uma lista de recipients do Explorer.
-feature: Públicos
+feature: Audiences
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 88%
 
 ---
 
-# Criar uma lista de recipients com um workflow
+# Criar uma lista de recipients com um fluxo de trabalho
 
 Saiba como criar um fluxo de trabalho para direcionar os recipients e como torná-lo recorrente antes de usar a lista em um target de email.
 

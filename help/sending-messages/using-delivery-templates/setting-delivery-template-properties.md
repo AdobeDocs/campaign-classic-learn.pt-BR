@@ -1,7 +1,7 @@
 ---
 title: Configuração das propriedades do template do delivery no Adobe Campaign Classic
 description: Saiba como configurar as propriedades do template do delivery.
-feature: Modelos de entrega
+feature: Delivery Templates
 kt: 1981
 thumbnail: 24067.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 1da9b462-7cfe-48e2-9a84-6a070e4d305a
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 93%
 
 ---
@@ -27,8 +27,8 @@ O vídeo a seguir mostra como definir as propriedades do template do delivery e 
 
 Vídeos explicativos
 
-* [Configurar um template de delivery](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
-* [Implantar um template do delivery de email ad-hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
+* [Configurar um template do delivery](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
+* [Implantar um template de delivery de email ad-hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
 
 Documentação:
 

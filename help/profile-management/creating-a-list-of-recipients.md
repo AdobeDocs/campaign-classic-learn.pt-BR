@@ -1,7 +1,7 @@
 ---
 title: Criar uma lista de recipients
 description: Aprenda a criar um público-alvo configurando uma lista de recipients do Explorer.
-feature: Públicos
+feature: Audiences
 kt: 2171
 thumbnail: 25602.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 91e3c9ea-9e5f-43bc-8ed4-ab57e6226d2b
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 90%
+source-wordcount: '106'
+ht-degree: 87%
 
 ---
 
@@ -35,4 +35,4 @@ Tutoriais:
 
 * [Criar e gerenciar perfis](/help/profile-management/create-and-manage-profiles.md)
 * [Importar perfis](/help/data-management/importing-profiles.md)
-* [Criar uma lista de recipients com um workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
+* [Criar uma lista de recipients com um fluxo de trabalho](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)

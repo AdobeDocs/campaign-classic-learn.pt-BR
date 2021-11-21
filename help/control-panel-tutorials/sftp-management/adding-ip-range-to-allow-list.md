@@ -1,7 +1,7 @@
 ---
 title: 'Adicionar um intervalo de IP à lista de permissões '
 description: Saiba como adicionar um intervalo de endereços IP à lista de permissões.
-feature: Painel de controle do Campaign
+feature: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
 doc-type: feature video
@@ -13,8 +13,8 @@ level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 20%
+source-wordcount: '94'
+ht-degree: 31%
 
 ---
 
@@ -28,4 +28,4 @@ Saiba como adicionar um intervalo de endereços IP à lista de permissões.
 
 ## Recursos adicionais
 
-* [Lista de permissões de intervalo IP (documentação)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)
+* [Lista de permissões de intervalos IP (documentação)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=pt-BR)

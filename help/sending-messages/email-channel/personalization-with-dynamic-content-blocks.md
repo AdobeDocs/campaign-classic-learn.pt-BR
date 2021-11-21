@@ -1,7 +1,7 @@
 ---
 title: Personalizar emails usando blocos de conteúdo dinâmico
 description: Saiba como criar blocos de conteúdo dinâmico e como usá-los para personalizar o conteúdo de sua entrega de email.
-feature: Conteúdo dinâmico
+feature: Dynamic Content
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '144'
 ht-degree: 88%
 
 ---
@@ -38,5 +38,5 @@ Documentação:
 
 Tutoriais em vídeo:
 
-* [Personalizar emails usando campo de personalização](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+* [Personalizar emails usando o campo de personalização](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
 * [Personalizar emails - Crie um boletim multilíngue usando conteúdo condicional](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)

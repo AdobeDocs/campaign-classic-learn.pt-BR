@@ -12,7 +12,7 @@ level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
 source-git-commit: 6dc03c7b994e4a734e2aae9e66264462d5a9bbd3
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 84%
 
 ---
@@ -25,9 +25,9 @@ Entenda o uso de workflows da campanha e saiba como criar um workflow e perfis d
 
 ## Próximos tutoriais para assistir
 
-* [Refinar públicos alvo combinando resultados de query](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [Refinar públicos alvo excluindo resultados de query](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [Usar a atividade de lista de atualização para criar uma lista com um workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
+* [Refinar alvos combinando resultados de consulta](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [Refinar alvos excluindo resultados de consulta](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [Usar a atividade de lista de atualização para criar uma lista com um fluxo de trabalho](/help/automating-with-workflows/using-the-update-list-activity.md)
 
 ## Recursos adicionais
 

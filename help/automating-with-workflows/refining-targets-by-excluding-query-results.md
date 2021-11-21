@@ -1,7 +1,7 @@
 ---
-title: Refinar públicos alvo excluindo resultados de query
+title: Refinar alvos excluindo resultados de consulta
 description: Saiba como refinar o target aplicando uma exclusão padrão a um fluxo de trabalho. Você também aprenderá a criar filtros predefinidos e solucionar problemas em seu fluxo de trabalho.
-feature: Workflows, Atividade de direcionamento, Editor de consultas
+feature: Workflows, Targeting Activity, Query Editor
 kt: 5548
 thumbnail: 36826.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 4322a36c-9550-4b94-a742-b02f52c523c2
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 77%
+source-wordcount: '129'
+ht-degree: 76%
 
 ---
 
-# Refinar públicos alvo excluindo resultados de query
+# Refinar alvos excluindo resultados de consulta
 
-Saiba como refinar seu público-alvo ao aplicar um **[!UICONTROL standard exclusion]** a um fluxo de trabalho. Você também aprenderá a criar filtros predefinidos e solucionar problemas em seu fluxo de trabalho.
+Saiba como refinar seu público-alvo aplicando um **[!UICONTROL standard exclusion]** para um fluxo de trabalho. Você também aprenderá a criar filtros predefinidos e solucionar problemas em seu fluxo de trabalho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12)
 
@@ -35,5 +35,5 @@ Tutoriais:
 
 * [Direcionar perfis em um workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
 * [Criar um fluxo de trabalho de direcionamento](/help/automating-with-workflows/creating-a-targeting-workflow.md)
-* [Refinar públicos alvo combinando resultados de query](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [Usar a atividade de lista de atualização para criar uma lista com um workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
+* [Refinar alvos combinando resultados de consulta](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [Usar a atividade de lista de atualização para criar uma lista com um fluxo de trabalho](/help/automating-with-workflows/using-the-update-list-activity.md)

@@ -1,7 +1,7 @@
 ---
 title: Gerenciamento de registros TXT do Google
 description: Você pode adicionar o registro de verificação do site Google TXT a todos os subdomínios usados para enviar emails para endereços GMAIL por meio do Painel de controle do Campaign.
-feature: Painel de controle do Campaign
+feature: Control Panel
 kt: 4744
 thumbnail: 32369.jpg
 doc-type: feature video
@@ -13,7 +13,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 0a39dfe3-8f89-406e-b7b2-d8a3a5eabfca
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 90%
 
 ---

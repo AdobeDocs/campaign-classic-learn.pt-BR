@@ -1,14 +1,14 @@
 ---
 title: Como personalizar emails usando blocos de conteúdo dinâmico
 description: Este tutorial demonstra como personalizar o conteúdo do delivery, usar o código JavaScript em templates do delivery e padronizar e compartilhar blocos de conteúdo em diferentes templates do delivery.
-feature: Conteúdo dinâmico
+feature: Dynamic Content
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '252'
 ht-degree: 70%
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Segmentação de dados no Adobe Campaign Classic
 description: 'Entenda o perfil integrado do cliente, como criar e atualizar perfis e como criar segmentos de clientes com base nesses perfis. '
-feature: Perfis, atividade de gerenciamento de dados
+feature: Profiles, Data Management Activity
 kt: 1656
 doc-type: feature video
 activity: use
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
 source-git-commit: 6330e92e4e960d14ced70a04bc7330c56e6ba53a
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 2%
+source-wordcount: '300'
+ht-degree: 5%
 
 ---
 
@@ -43,4 +43,4 @@ Observe: Este vídeo foi gravado no Adobe Campaign Classic V6, a funcionalidade 
 ## Recursos adicionais {#additional-resources}
 
 * [Direcionamento de dados (documentação)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/targeting-data.html)
-* [Práticas recomendadas para fluxo de trabalho](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html)
+* [Práticas recomendadas para fluxo de trabalho](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=pt-BR)

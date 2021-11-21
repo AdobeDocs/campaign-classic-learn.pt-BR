@@ -1,7 +1,7 @@
 ---
 title: Gerenciamento de chaves GPG – Visão geral
 description: Os vídeos a seguir explicam como gerar e instalar um par de chaves públicas/privadas em uma instância do Campaign especificada para a criptografia de dados de saída, bem como importar e instalar uma chave pública em uma instância do Campaign para a descriptografia de dados de entrada.
-feature: Painel de controle do Campaign
+feature: Control Panel
 team: TM
 role: Admin
 level: Experienced
@@ -9,7 +9,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 1a3e8320-f992-428a-8dc8-ba5429042751
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '159'
 ht-degree: 100%
 
 ---

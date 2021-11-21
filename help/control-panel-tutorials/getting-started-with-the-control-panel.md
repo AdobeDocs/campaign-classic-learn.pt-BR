@@ -1,7 +1,7 @@
 ---
 title: Introdução ao Painel de controle do Campaign
-description: Saiba como acessar o Painel de controle do Campaign e quais pré-requisitos podem funcionar com o painel de controle do Campaign.
-feature: Painel de controle do Campaign
+description: Saiba como acessar o Painel de controle do Campaign e quais pré-requisitos podem funcionar com o Painel de controle do Campaign.
+feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Experienced
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 46%
+source-wordcount: '278'
+ht-degree: 75%
 
 ---
 
@@ -21,17 +21,17 @@ ht-degree: 46%
 
 >[!NOTE]
 >
-> O Painel de controle do Campaign é acessível a todos os usuários administradores. As etapas para conceder acesso de Administrador a um usuário estão detalhadas na [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=pt-BR#discover-control-panel).
+> O Painel de controle do Campaign é acessível a todos os usuários administradores. As etapas para conceder acesso de administrador a um usuário são detalhadas na [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=pt-BR#discover-control-panel).
 >
-> Sua instância deve ser hospedada no AWS e atualizada com a build mais recente [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=pt-BR#release-notes) ou a build mais recente [GA (21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Saiba como verificar a versão [nesta seção](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Para verificar se sua instância está hospedada no AWS, siga as etapas detalhadas [nesta página](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=pt-BR).
+> Sua instância deve ser hospedada no AWS e atualizada com a [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=pt-BR#release-notes) build ou o mais recente [Build do GA (21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Saiba como verificar a versão [nesta seção](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Para verificar se sua instância está hospedada no AWS, siga as etapas detalhadas [nesta página](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=pt-BR).
 
-O [!UICONTROL Control Panel] permite que os administradores do Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento [!DNL SFTP] por instância, gerenciar [!DNL GPG] chaves ou [!UICONTROL subdomains] e [!UICONTROL certificates].
+O [!UICONTROL Control Panel] permite que os administradores do Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar a [!DNL SFTP] armazenamento por instância, gerenciamento [!DNL GPG] teclas ou [!UICONTROL subdomains] e [!UICONTROL certificates].
 
-Este artigo explica como acessar o Painel de controle do Campaign e quais pré-requisitos podem funcionar com o painel de controle do Campaign.
+Este artigo explica como acessar o Painel de controle do Campaign e quais pré-requisitos podem funcionar com o Painel de controle do Campaign.
 
 ## Acesso ao [!UICONTROL Control Panel]
 
-Para acessar o Painel de controle do Campaign, vá para a página inicial do Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Para acessar o Painel de controle do Campaign, vá até a página inicial da Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -61,4 +61,4 @@ O vídeo a seguir explica como adicionar um administrador a uma instância do Ca
 
 ## Recursos adicionais
 
-* [Centro de ajuda do Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=pt-BR)
+* [Centro de ajuda do Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)

@@ -12,12 +12,12 @@ level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 26%
+source-wordcount: '139'
+ht-degree: 25%
 
 ---
 
-# Configurar um serviço [!DNL Android] e criar um aplicativo móvel [!DNL Android] no Campaign
+# Configurar uma [!DNL Android] e criar um [!DNL Android] aplicativo móvel no Campaign
 
 Saiba como configurar um serviço [!DNL Android] e criar um aplicativo para dispositivos móveis [!DNL Android] no Campaign. Essa etapa é necessária a fim de definir o aplicativo para dispositivos móveis de destino para a notificação por push.
 
@@ -25,7 +25,7 @@ Saiba como configurar um serviço [!DNL Android] e criar um aplicativo para disp
 
 **Etapa anterior**
 
-Etapa 1: [Estender o esquema de assinatura do aplicativo para personalizar notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+Etapa 1: [Extensão do esquema de assinatura do aplicativo para personalizar notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 
 **Próxima etapa**
 

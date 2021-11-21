@@ -1,7 +1,7 @@
 ---
-title: Refinar públicos alvo combinando resultados de query
+title: Refinar alvos combinando resultados de consulta
 description: Saiba como refinar o target combinando os resultados da consulta em um fluxo de trabalho usando a intersecção ou as atividades de união.
-feature: Workflows, Atividade de direcionamento, Editor de consultas
+feature: Workflows, Targeting Activity, Query Editor
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 67%
+source-wordcount: '105'
+ht-degree: 65%
 
 ---
 
-# Refinar públicos alvo combinando resultados de query
+# Refinar alvos combinando resultados de consulta
 
-Saiba como refinar seu público-alvo combinando os resultados da consulta em um fluxo de trabalho usando as atividades **[!UICONTROL intersection]** ou **[!UICONTROL union]** .
+Saiba como refinar seu público-alvo combinando resultados de query em um fluxo de trabalho usando o **[!UICONTROL intersection]** ou **[!UICONTROL union]** atividades.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 
@@ -34,5 +34,5 @@ Documentação:
 Tutoriais:
 
 * [Direcionar perfis em um workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [Refinar públicos alvo excluindo resultados de query](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [Usar a atividade de lista de atualização para criar uma lista com um workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
+* [Refinar alvos excluindo resultados de consulta](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [Usar a atividade de lista de atualização para criar uma lista com um fluxo de trabalho](/help/automating-with-workflows/using-the-update-list-activity.md)
