@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: f1e71f7d-4af1-4122-ae30-14c9f2ff2a19
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 82%
+source-wordcount: '73'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,4 @@ Saiba como verificar se o canal de Aplicativo para dispositivos móveis está in
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
-## Recursos adicionais
-
-* [Introdução à configuração do aplicativo (documentação)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=en#installing-package-ios)
+Para saber mais sobre a configuração do canal de aplicativo móvel, consulte o [documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=en#installing-package-ios).

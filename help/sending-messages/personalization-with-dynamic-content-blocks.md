@@ -1,15 +1,15 @@
 ---
 title: Como personalizar emails usando blocos de conteúdo dinâmico
 description: Este tutorial demonstra como personalizar o conteúdo do delivery, usar o código JavaScript em templates do delivery e padronizar e compartilhar blocos de conteúdo em diferentes templates do delivery.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 70%
+source-wordcount: '257'
+ht-degree: 67%
 
 ---
 
@@ -43,6 +43,4 @@ Ao configurar campos de conteúdo condicional, você pode criar personalização
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## Recursos adicionais
-
-* [Sobre personalização](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+Para saber mais sobre Personalização, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

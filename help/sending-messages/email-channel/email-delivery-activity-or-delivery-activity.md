@@ -1,14 +1,14 @@
 ---
 title: Atividade de delivery por email × atividade de delivery no Adobe Campaign Classic
 description: Este vídeo explica como configurar e usar um template do delivery.
-feature: Delivery Templates
+feature: Delivery Templates, Email
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '63'
 ht-degree: 100%
 
 ---
@@ -21,10 +21,3 @@ Um [!UICONTROL Delivery-type activity] permite criar uma ação de delivery. Ele
 Este vídeo explica como implantar um template do delivery de email. Ele explica a diferença entre um delivery de email e um workflow de delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
-
-## Recursos adicionais {#additional-resources}
-
-* [Sobre templates](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=pt-BR)
-* [Criar um template de delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=pt-BR)
-* [Seleção de target mapping](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=pt-BR)
-* [Criação de um delivery a partir de um template](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=pt-BR)

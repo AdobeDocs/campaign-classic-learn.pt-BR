@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 21d542e9-c021-4e05-b570-a55cac196c3a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 67%
+source-wordcount: '82'
+ht-degree: 62%
 
 ---
 
@@ -24,6 +24,4 @@ Saiba como configurar aprovações e uma campanha e como diferenciar entre aprov
 
 >[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12)
 
-## Recursos adicionais
-
-*[Definição de aprovações (Documentação do produto)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails)
+Para saber mais sobre como definir aprovações, consulte o [Documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails).

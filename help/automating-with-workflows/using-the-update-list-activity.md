@@ -10,9 +10,9 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '78'
 ht-degree: 69%
 
 ---
@@ -23,15 +23,3 @@ Entenda o conceito de listas no Adobe Campaign Classic e saiba como criar uma li
 
 >[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
 
-## Recursos adicionais
-
-Documentação:
-
-* [Sobre workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=pt-BR)
-* [Atualizar lista](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
-
-Tutoriais:
-
-* [Direcionar perfis em um workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [Refinar alvos combinando resultados de consulta](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [Refinar alvos excluindo resultados de consulta](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)

@@ -5,10 +5,11 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
+recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 566aeb86b931525137cc1ad5edb766272976390d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '264'
 ht-degree: 100%
 
 ---
@@ -33,14 +34,6 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 * **[Enviar e validar provas](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
    *Saiba como enviar e validar uma prova.*
-
-* **[Criar emails para capacidade de delivery](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
-
-   *Saiba como aplicar as práticas recomendadas de capacidade de delivery.*
-
-* **[Criar e projetar deliveries de email](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
-
-   *Entenda o processo de criação de delivery de email e saiba como projetar e personalizar conteúdo de email.*
 
 
 ## Escolha de pessoal

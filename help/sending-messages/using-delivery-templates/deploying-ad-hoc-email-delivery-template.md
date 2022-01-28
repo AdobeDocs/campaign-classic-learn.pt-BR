@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 78%
+source-wordcount: '61'
+ht-degree: 49%
 
 ---
 
@@ -22,16 +22,3 @@ ht-degree: 78%
 Este vídeo explica como implantar um template do delivery de email ad-hoc, bem como a diferença entre um delivery de email e um workflow de delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
-
-## Recursos adicionais {#additional-resources}
-
-Vídeos explicativos
-* [Configurar um template do delivery](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
-* [Configurar as propriedades do template do delivery](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
-
-Documentação:
-
-* [Sobre templates](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=pt-BR)
-* [Criar um template de delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=pt-BR)
-* [Seleção de target mapping](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=pt-BR)
-* [Criação de um delivery a partir de um template](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=pt-BR)

@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
 exl-id: d9f4be99-6e41-4c75-b3dc-bbdae1a63677
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,3 @@ O Painel de controle do Campaign permite descriptografar dados externos que entr
 Saiba como criar uma chave pública, importá-la e instalá-la em uma instância do [!DNL Campaign] para descriptografar dados de entrada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12)
-
-## Recursos adicionais
-
-* [Gerenciamento de chaves GPG (vídeos)](./gpg-key-management-overview.md)
-* [Gerenciamento de chaves GPG (documentação)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=pt-BR)

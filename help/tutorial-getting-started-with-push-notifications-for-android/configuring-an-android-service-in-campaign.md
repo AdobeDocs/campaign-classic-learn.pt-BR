@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 25%
+source-wordcount: '104'
+ht-degree: 32%
 
 ---
 
@@ -30,8 +30,3 @@ Etapa 1: [Extensão do esquema de assinatura do aplicativo para personalizar not
 **Próxima etapa**
 
 Etapa 3: [Configuração e envio de notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
-
-## Recursos adicionais
-
-* [Configurar o serviço Android (documentação do produto)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#configuring-android-service)
-* [Criar um aplicativo Android para dispositivos móveis (documentação do produto)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#creating-android-app)

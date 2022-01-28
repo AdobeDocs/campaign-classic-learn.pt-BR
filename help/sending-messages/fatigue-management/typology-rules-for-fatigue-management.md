@@ -1,7 +1,7 @@
 ---
 title: Como configurar o gerenciamento de fadiga usando regras de tipologia no Adobe Campaign Classic
 description: Saiba como implementar o gerenciamento de fadiga aplicando regras de tipologia.
-feature: Fatigue Management
+feature: Fatigue Management, Typology Rules
 kt: 1564
 doc-type: feature video
 activity: use
@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 58%
+source-wordcount: '143'
+ht-degree: 48%
 
 ---
 
@@ -26,7 +26,4 @@ Este vídeo explica como implementar o gerenciamento de fadiga no Adobe Campaign
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
-## Recursos adicionais
-
-* [Sobre tipologias de campanha](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=pt-BR)
-* [Gerenciamento da fadiga de marketing com regras de pressão](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=pt-BR)
+Visite a documentação do produto para saber mais sobre [tipologias de campanha](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=pt-BR).

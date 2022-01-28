@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 65%
+source-wordcount: '50'
+ht-degree: 64%
 
 ---
 
@@ -22,17 +22,3 @@ ht-degree: 65%
 Saiba como refinar seu público-alvo combinando resultados de query em um fluxo de trabalho usando o **[!UICONTROL intersection]** ou **[!UICONTROL union]** atividades.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
-
-## Recursos adicionais
-
-Documentação:
-
-* [Sobre workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=pt-BR)
-* [Interseção](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
-* [União](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
-
-Tutoriais:
-
-* [Direcionar perfis em um workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [Refinar alvos excluindo resultados de consulta](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [Usar a atividade de lista de atualização para criar uma lista com um fluxo de trabalho](/help/automating-with-workflows/using-the-update-list-activity.md)

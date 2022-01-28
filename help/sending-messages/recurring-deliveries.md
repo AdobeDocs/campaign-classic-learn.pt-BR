@@ -1,7 +1,7 @@
 ---
 title: Como configurar campanhas de email recorrentes e contínuas
 description: Saiba como configurar uma entrega recorrente e contínua e compreender as diferenças entre as duas abordagens.
-feature: Workflows
+feature: Workflows, Campaigns
 kt: 1560
 doc-type: feature video
 activity: use
@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 95%
+source-wordcount: '245'
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,3 @@ Este vídeo explica como configurar um delivery recorrente e uma atividade de sc
 Este vídeo mostra como configurar uma entrega contínua com um query incremental.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
-
-## Recursos adicionais
-
-[Criando um delivery recorrente em um workflow de direcionamento](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/deliveries/sending-a-birthday-email.html?lang=en#creating-a-recurring-delivery-in-a-targeting-workflow)

@@ -11,10 +11,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: eefe2adc-d1f2-4d38-b93b-c38069f4acd4
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 66%
 
 ---
 
@@ -26,6 +26,4 @@ Saiba como monitorar o uso do banco de dados das instâncias com o [!DNL Control
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
-## Recursos adicionais
-
-* [Monitoramento de banco de dados (guia)](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=pt-BR#performance-monitoring)
+Para obter mais informações sobre o monitoramento de banco de dados, consulte [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=pt-BR#performance-monitoring).

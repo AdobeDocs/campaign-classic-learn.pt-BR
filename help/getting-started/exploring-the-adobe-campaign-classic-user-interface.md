@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 521b970a-55eb-498f-9350-3fd7546bf1df
-source-git-commit: 77aa26692532bd83d219dc6e83af0704ea35367e
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 89%
+source-wordcount: '50'
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,3 @@ ht-degree: 89%
 Esta lição explica a principal interface do usuário do Adobe Campaign Classic e mostra como navegar pela funcionalidade principal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
-
-## Recursos adicionais
-
-* [Introdução à interface do usuário do Campaign (documentação)](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=pt-BR)
