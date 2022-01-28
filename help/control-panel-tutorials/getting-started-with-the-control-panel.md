@@ -9,8 +9,9 @@ activity: setup
 team: TM
 role: Admin
 level: Experienced
+recommendations: noDisplay
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
-source-git-commit: d3c8af1a3b6534f93daaa1c0a8223727679cd734
+source-git-commit: 813ef6f94d02c25f7b241eaaf30a7488d06b74b7
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 70%
@@ -23,7 +24,7 @@ ht-degree: 70%
 >
 >O Painel de controle do Campaign é acessível somente para usuários administradores. Saiba mais sobre permissões em [esta seção](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=pt-BR#discover-control-panel).
 >
->Para o Campaign Classic v7, sua instância deve ser hospedada no Amazon Web Services (AWS) e atualizada para a mais recente [Build estável da campanha](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=pt-BR#rn-statuses) (ou para build 9032 ou superior). Saiba como verificar a versão [nesta seção](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=pt-BR#getting-your-campaign-version). Para verificar se sua instância está hospedada no AWS, siga as etapas detalhadas [nesta página](https://experienceleague.corp.adobe.com/docs/control-panel/using/faq.html?lang=en#hosted-aws).
+>Para o Campaign Classic v7, sua instância deve ser hospedada no Amazon Web Services (AWS) e atualizada para a mais recente [Build estável da campanha](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=pt-BR#rn-statuses) (ou para build 9032 ou superior). Saiba como verificar a versão [nesta seção](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=pt-BR#getting-your-campaign-version). Para verificar se sua instância está hospedada no AWS, siga as etapas detalhadas [nesta página](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=en#hosted-aws).
 
 O [!UICONTROL Control Panel] permite que os administradores do Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar a [!DNL SFTP] armazenamento por instância, gerenciamento [!DNL GPG] teclas ou [!UICONTROL subdomains] e [!UICONTROL certificates].
 
