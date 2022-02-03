@@ -4,14 +4,14 @@ user-guide-description: Este tutorial guiará você pelas etapas relativas ao en
 breadcrumb-title: Introdução a notificações por push para Android
 index: true
 source-git-commit: d0fc0f9009f090af6f2bc366d199594026044d18
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
 ---
 
 
-# Introdução a notificações por push para Android {#getting-started-with-push-notifications-for-android}
+# Introdução às notificações por push para Android {#getting-started-with-push-notifications-for-android}
 
 + [Introdução a notificações por push para Android – Introdução](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)
 + [Etapa 1: estender o esquema de subscrição do aplicativo para personalizar notificações por push ](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
