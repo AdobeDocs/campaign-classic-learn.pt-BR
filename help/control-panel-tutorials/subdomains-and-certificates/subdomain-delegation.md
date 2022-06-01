@@ -11,18 +11,14 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 exl-id: 28960c68-860c-4707-8d59-65c3222307dd
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 80d6c06de5f14996daaedeb07b050db81908c370
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 68%
+source-wordcount: '99'
+ht-degree: 79%
 
 ---
 
 # Delegação de subdomínio completa
-
->[!IMPORTANT]
->
-> Delegação de subdomínio do [!UICONTROL Control Panel] está em beta e está sujeita a atualizações e modificações frequentes sem aviso prévio.
 
 O [!UICONTROL Control Panel] do Adobe Campaign permite delegar totalmente um subdomínio ao Adobe Campaign.
 
