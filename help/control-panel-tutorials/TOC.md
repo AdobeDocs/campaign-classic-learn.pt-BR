@@ -6,10 +6,10 @@ index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
+source-git-commit: e36c5a082f5e7bbe9c5996a1ee0dbf9348968c1c
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 100%
+source-wordcount: '120'
+ht-degree: 96%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 100%
    + [Gerar uma chave SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Conectar a um servidor SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Subdomínios e certificados {#subdomains-and-certificates}
-   + [Delegação total de subdomínio (beta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-   + [Delegar subdomínios usando CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+   + [Delegação de subdomínio completa](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Delegar subdomínios usando CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [Adicionar certificados SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Gerenciamento de registros TXT do Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Configurações de instância {#instance-settings}
