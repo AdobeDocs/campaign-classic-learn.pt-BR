@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: ht
-source-wordcount: '269'
-ht-degree: 100%
+source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
+workflow-type: tm+mt
+source-wordcount: '371'
+ht-degree: 59%
 
 ---
 
@@ -23,17 +23,20 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
-* **[Integração com o Adobe Target](/help/integrations/target-integration.md)**
+* **[Introdução ao SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**:
+   *Saiba como o SMS funciona e como o Adobe Campaign envia SMS*
 
-   *Saiba como personalizar uma entrega com conteúdo dinâmico veiculado pelo Adobe Target.*
+* **[Configurar uma conta SMS para um provedor SMPP padrão](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
 
-* **[Criar campanhas entre canais](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+   *Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações do SMS para lidar com limites de conexão, configure a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
 
-   *Saiba como criar e executar uma campanha entre canais.*
+* **[Adapte o conector SMS ao seu provedor SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
 
-* **[Usar grupos de controle](/help/sending-messages/email-channel/use-control-groups.md)**
+   *Saiba como ajustar as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e criptografar com TLS.*
 
-   *Entenda o conceito de grupos de controle e saiba como usar um grupo de controle para o seu delivery.*
+* **[Maximize seu ROI de email e conheça as práticas recomendadas para reengajamento do assinante](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *Saiba como maximizar o ROI do email e saber mais sobre as práticas recomendadas para o reengajamento do assinante. Descubra as estratégias para melhorar o engajamento dos assinantes e entender o sucesso geral de suas campanhas de email.*
 
 ## Escolha de pessoal
 
