@@ -13,9 +13,9 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 recommendations: noDisplay
 exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7
 source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '252'
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ O Painel de controle do Adobe Campaign permite que os administradores do Campaig
 
    *Saiba como configurar e enviar um subdomínio usando CNAMEs no Painel de controle do Campaign.*
 
-Consulte a [Notas de versão](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=pt-BR) para obter mais informações sobre as versões mais recentes do produto.
+Consulte as [Notas de versão](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=pt-BR) para obter mais informações sobre as versões mais recentes do produto.
 
 ## Escolha de pessoal
 
