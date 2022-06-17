@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '371'
+ht-degree: 100%
 
 ---
 
@@ -23,21 +23,21 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
-* **[Introdução ao SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
+* **[Introdução ao SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=pt-BR)**
 
    *Saiba como o SMS funciona e como o Adobe Campaign envia SMS*
 
-* **[Configurar uma conta SMS para um provedor SMPP padrão](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
+* **[Configurar uma conta SMS para um provedor SMPP padrão](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=pt-BR)**
 
-   *Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações do SMS para lidar com limites de conexão, configure a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
+   *Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações de SMS para lidar com limites de conexão, configure a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
 
-* **[Adapte o conector SMS ao seu provedor SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
+* **[Adapte o conector SMS ao seu provedor SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=pt-BR)**
 
-   *Saiba como ajustar as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e criptografar com TLS.*
+   *Saiba como ajustar as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
 
-* **[Maximize seu ROI de email e conheça as práticas recomendadas para reengajamento do assinante](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+* **[Maximize o ROI do seu email e conheça as práticas recomendadas para reengajamento do assinante](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=pt-BR)**
 
-   *Saiba como maximizar o ROI do email e saber mais sobre as práticas recomendadas para o reengajamento do assinante. Descubra as estratégias para melhorar o engajamento dos assinantes e entender o sucesso geral de suas campanhas de email.*
+   *Saiba como maximizar o ROI do email e aprenda as práticas recomendadas para o reengajamento do assinante. Descubra as estratégias para melhorar o engajamento dos assinantes e entender o sucesso geral de suas campanhas de email.*
 
 ## Escolha de pessoal
 
