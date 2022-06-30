@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Tutoriais do Adobe Campaign Classic
 user-guide-description: O Adobe Campaign Classic permite que os profissionais de marketing criem experiências de clientes em vários canais e fornece um ambiente para a orquestração visual de campanhas, o gerenciamento de interação em tempo real e a execução em vários canais.
 breadcrumb-title: Tutoriais
-source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
-workflow-type: ht
-source-wordcount: '404'
-ht-degree: 100%
+source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 100%
    + [Integração com o Adobe Target](/help/integrations/target-integration.md)
    + [Integração com o Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administrar {#administrating}
-   + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=pt-BR)
+   + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;}
    + Acessar um banco de dados externo (FDA) {#fda}
       + [Gerenciamento de big data no  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Solução de problemas do Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=pt-BR)
