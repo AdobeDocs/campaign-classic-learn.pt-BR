@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7e0296bfd4b22a8ef913a50fa594cff08ff783ed
+source-git-commit: 1e10b9b29fb7c10f5754c3fdd300c68e27448da6
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -23,11 +23,11 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
-* **[Monitorar workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html)**
+* **[Painel de controle do Campaign - Monitorar workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
 
    *Saiba como monitorar o uso de armazenamento temporário dos workflows e onde definir as configurações do workflow para evitar problemas no banco de dados ou no workflow na sua instância.*
 
-* **[Monitorar throughput e latência](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+* **[Painel de controle do Campaign - Monitorar throughput e latência](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
 
    *Saiba como monitorar os resultados do delivery e as latências de mensagem transacional da instância do Campaign.*
 
