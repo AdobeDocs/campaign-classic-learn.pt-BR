@@ -6,8 +6,8 @@ user-guide-description: O Adobe Campaign Classic permite que os profissionais de
 breadcrumb-title: Tutoriais
 source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '406'
+ht-degree: 99%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 0%
    + [Integração com o Adobe Target](/help/integrations/target-integration.md)
    + [Integração com o Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administrar {#administrating}
-   + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;}
+   + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=pt-BR){target=&quot;_blank&quot;}
    + Acessar um banco de dados externo (FDA) {#fda}
       + [Gerenciamento de big data no  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Solução de problemas do Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=pt-BR)
