@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 3341541a9d21a8006da1b910315b2e21efbc5e87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '384'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -23,17 +23,17 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
-* **[Painel de controle do Campaign para modelos de hospedagem híbrida](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)**
+* **[Painel de controle do Campaign para modelos de hospedagem híbrida](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html?lang=pt-BR)**
 
-   *Saiba como ativar o Painel de controle do Campaign para modelos de hospedagem híbrida Adobe Campaign, acessar o Painel de controle e desbloquear recursos principais.*
+   *Saiba como ativar o Painel de controle para modelos de hospedagem híbrida do Adobe Campaign, acessar o Painel de controle e desbloquear os principais recursos.*
 
-* **[Painel de controle do Campaign - Monitorar workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+* **[Painel de controle do Campaign - Monitorar workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=pt-BR){target=&quot;_blank&quot;}**
 
    *Saiba como monitorar o uso de armazenamento temporário dos workflows e onde definir as configurações do workflow para evitar problemas no banco de dados ou no workflow na sua instância.*
 
-* **[Painel de controle do Campaign - Monitorar throughput e latência](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
+* **[Painel de controle do Campaign - Monitorar taxas de transferência e latência](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=pt-BR){target=&quot;_blank&quot;}**
 
-   *Saiba como monitorar os resultados do delivery e as latências de mensagem transacional da instância do Campaign.*
+   *Saiba como monitorar as taxas de transferência de entrega e as latências de mensagem transacional da instância do Campaign.*
 
 * **[Introdução ao SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=pt-BR)**
 
