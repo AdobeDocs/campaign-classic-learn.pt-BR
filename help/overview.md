@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: e9b7b7e76e026227bd8c44a854bde98d1adf1428
+source-git-commit: 10be650f7a5e001d7afb74dcab1edb7dbfc0ec96
 workflow-type: ht
-source-wordcount: '420'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,8 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 >[!INFO]
 > Você tem dúvidas? Deseja compartilhar sua experiência ou trocar ideias com colegas? Ou você quer compartilhar seu feedback sobre o conteúdo de aprendizado com a equipe da Adobe? Participe da conversa no [thread da comunidade de aprendizagem do Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096).
+
+<div id="whats-new-section">
 
 ## Novidades
 
@@ -46,6 +48,17 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 * **[Configurar uma conta SMS para um provedor SMPP padrão](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=pt-BR)**
 
    *Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações do SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Escolha de pessoal
 
@@ -92,6 +105,8 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Recursos adicionais
 
