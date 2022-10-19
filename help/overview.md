@@ -15,7 +15,7 @@ ht-degree: 98%
 
 # Tutoriais do Adobe Campaign Classic V7
 
-O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do Adobe Campaign Classic V7.
+O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a orquestração visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do Adobe Campaign Classic V7.
 
 >[!INFO]
 > Você tem dúvidas? Deseja compartilhar sua experiência ou trocar ideias com colegas? Ou você quer compartilhar seu feedback sobre o conteúdo de aprendizado com a equipe da Adobe? Participe da conversa no [thread da comunidade de aprendizagem do Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096).

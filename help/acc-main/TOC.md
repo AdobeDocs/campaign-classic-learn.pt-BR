@@ -5,7 +5,7 @@ user-guide-title: Tutoriais do Adobe Campaign Classic
 user-guide-description: O Adobe Campaign Classic permite que os profissionais de marketing criem experiências de clientes em vários canais e fornece um ambiente para a orquestração visual de campanhas, o gerenciamento de interação em tempo real e a execução em vários canais.
 breadcrumb-title: Tutoriais
 source-git-commit: 5ea94a7e00a2c9fdc9fbadb563aa61f43479cb24
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 100%
 
@@ -51,10 +51,10 @@ ht-degree: 100%
       + [Introdução a notificações por push para Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=pt-BR)
    + Correspondência direta {#direct-mail}
       + [Criar entregas de correspondência direta](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
-   + Usar templates de delivery{#using-delivery-templates}
-      + [Configurar um template do delivery](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
-      + [Configurar as propriedades do template do delivery](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
-      + [Implantar um template de delivery de email ad-hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
+   + Usar modelos de entrega{#using-delivery-templates}
+      + [Configurar um modelo de entrega](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
+      + [Configurar as propriedades do modelo de entrega](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
+      + [Implantar um modelo de entrega de email ad-hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
    + Gerenciamento de fadiga{#fatigue-management}
       + [Usar regras de tipologia](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Usar filtros predefinidos](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
@@ -78,7 +78,7 @@ ht-degree: 100%
    + [Segmentação de dados](/help/data-management/data-segmentation.md)
    + [Gerenciar aprovações](/help/automating-with-workflows/managing-approvals.md)
 + Criação de conteúdo{#designing-content}
-   + [Configurar páginas de aterrissagem](/help/designing-content/configure-landingpages.md)
+   + [Configurar páginas de destino](/help/designing-content/configure-landingpages.md)
 + Monitorar {#monitoring}
    + [Workflow Heatmap](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Trilha de auditoria](/help/monitoring-campaign-classic/audit-trail.md)
