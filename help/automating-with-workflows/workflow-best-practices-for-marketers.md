@@ -3,20 +3,20 @@ title: 5 principais práticas recomendadas de fluxo de trabalho para profissiona
 description: Saiba e aplique cinco práticas recomendadas essenciais de fluxo de trabalho para profissionais de marketing de Adam Wilson, Associate Director of Marketing, no LoyaltyOne.
 feature: Workflows
 kt: 11423
-thumbnail: 3410837
+thumbnail: 3410837.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: User
 level: Beginner
 last-substantial-update: 2022-11-03T00:00:00Z
-source-git-commit: fb7715c77031570e421b8830a3aac6a7c307b341
+exl-id: 451b1e5d-6c03-454f-904a-65e3e0bce26f
+source-git-commit: 7bf9cad5909046d8fa77a8cf08f5d1e3acd6e428
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
-
 
 # 5 principais práticas recomendadas de fluxo de trabalho para profissionais de marketing do LoyaltyOne
 
