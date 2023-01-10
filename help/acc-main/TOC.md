@@ -7,7 +7,7 @@ breadcrumb-title: Tutoriais
 source-git-commit: 4be021933b4124a19282a235fc364b663c9028bf
 workflow-type: tm+mt
 source-wordcount: '413'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 97%
    + [Configurar atividades de enriquecimento](/help/automating-with-workflows/enrichment-activity.md)
    + [Segmentação de dados](/help/data-management/data-segmentation.md)
    + [Gerenciar aprovações](/help/automating-with-workflows/managing-approvals.md)
-   + [Saiba mais sobre seus pares - Práticas recomendadas de fluxo de trabalho](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
+   + [Aprenda com seus colegas - Práticas recomendadas de fluxos de trabalho](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + Criação de conteúdo{#designing-content}
    + [Configurar páginas de destino](/help/designing-content/configure-landingpages.md)
 + Monitorar {#monitoring}
