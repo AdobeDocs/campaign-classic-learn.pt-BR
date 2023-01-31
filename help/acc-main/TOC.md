@@ -4,9 +4,9 @@ sub-product: Campaign Classic
 user-guide-title: Tutoriais do Adobe Campaign Classic
 user-guide-description: O Adobe Campaign Classic permite que os profissionais de marketing criem experiências de clientes em vários canais e fornece um ambiente para a orquestração visual de campanhas, o gerenciamento de interação em tempo real e a execução em vários canais.
 breadcrumb-title: Tutoriais
-source-git-commit: 3e39c4972106f6343bec6f1417c3d2ae5371833f
+source-git-commit: 4439abdb7ea767951bb2469835f4f60b0804477f
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '420'
 ht-degree: 97%
 
 ---
@@ -93,6 +93,6 @@ ht-degree: 97%
       + [Gerenciamento de big data no  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Solução de problemas do Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=pt-BR)
 + Estratégia e liderança de pensamento{#strategy}
-   + [10 Práticas recomendadas para o sucesso do Adobe Campaign para profissionais de marketing](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
+   + [Dez práticas recomendadas para o sucesso do Adobe Campaign para profissionais de marketing](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [Maximizar o ROI do email e práticas recomendadas para reengajamento do assinante](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=pt-BR)
    + [Manual de práticas recomendadas para capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
