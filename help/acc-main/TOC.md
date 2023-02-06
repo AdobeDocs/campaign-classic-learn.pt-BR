@@ -5,9 +5,9 @@ user-guide-title: Tutoriais do Adobe Campaign Classic
 user-guide-description: O Adobe Campaign Classic permite que os profissionais de marketing criem experiências de clientes em vários canais e fornece um ambiente para a orquestração visual de campanhas, o gerenciamento de interação em tempo real e a execução em vários canais.
 breadcrumb-title: Tutoriais
 source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -87,12 +87,12 @@ ht-degree: 97%
    + [Integração com o Adobe Target](/help/integrations/target-integration.md)
    + [Integração com o Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administrar {#administrating}
-   + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=pt-BR){target="_blank"}
+   + [Painel de controle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=pt-BR){target="_blank"}
    + [Configurar SMS para o Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=pt-BR)
    + Acessar um banco de dados externo (FDA) {#fda}
       + [Gerenciamento de big data no  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Solução de problemas do Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=pt-BR)
 + Estratégia e liderança de pensamento{#strategy}
-   + [Dez práticas recomendadas para o sucesso do Adobe Campaign para profissionais de marketing](/help/strategy/10-best-practices-for-marketers.md)
+   + [Dez práticas recomendadas para o sucesso de profissionais de marketing no Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
    + [Maximizar o ROI do email e práticas recomendadas para reengajamento do assinante](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=pt-BR)
    + [Manual de práticas recomendadas para capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
