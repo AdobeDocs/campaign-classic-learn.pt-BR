@@ -35,7 +35,7 @@ ht-degree: 96%
       + [Gerenciar seeds e provas em um email](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Enviar e validar provas](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Usar grupos de controle](/help/sending-messages/email-channel/use-control-groups.md)
-      + [Configurar deliveries para teste A/B](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
+      + [Configurar deliveries para testes A/B](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
       + [Configurar conteúdo dinâmico](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalizar emails usando blocos de conteúdo dinâmico](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personalizar emails usando o campo de personalização](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -81,8 +81,8 @@ ht-degree: 96%
    + [Segmentação de dados](/help/data-management/data-segmentation.md)
    + [Gerenciar aprovações](/help/automating-with-workflows/managing-approvals.md)
    + [Aprenda com seus colegas - Práticas recomendadas de fluxos de trabalho](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
-+ Configurar páginas de destino {#landing-pages}
-   + [Configurar páginas de destino](/help/designing-content/configure-landingpages.md)
++ Configurar landing pages {#landing-pages}
+   + [Configurar landing pages](/help/designing-content/configure-landingpages.md)
    + [Criar uma central de preferências](/help/designing-content/create-a-preference-center.md)
 + Monitorar {#monitoring}
    + [Workflow Heatmap](/help/monitoring-campaign-classic/workflow-heatmap.md)
