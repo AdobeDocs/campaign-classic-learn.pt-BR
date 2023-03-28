@@ -5,9 +5,9 @@ user-guide-title: Tutoriais do Adobe Campaign Classic
 user-guide-description: O Adobe Campaign Classic permite que os profissionais de marketing criem experiências de clientes em vários canais e fornece um ambiente para a orquestração visual de campanhas, o gerenciamento de interação em tempo real e a execução em vários canais.
 breadcrumb-title: Tutoriais
 source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 96%
    + [Gerenciar campanhas de marketing](/help/getting-started/managing-marketing-campaigns.md)
    + [Criar planos de marketing, programas e campanhas](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Criar uma campanha e um email](/help/getting-started/creating-a-campaign-and-an-email.md)
-   + [Direcionar perfis em um fluxo de trabalho](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Perfil de público alvo em um fluxo de trabalho](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [Criar campanhas acionadas por evento](/help/getting-started/create-event-triggered-campaigns.md)
 + Gerenciamento de perfil {#profile-management}
    + [Criar e gerenciar perfis](/help/profile-management/create-and-manage-profiles.md)
@@ -35,7 +35,7 @@ ht-degree: 96%
       + [Gerenciar seeds e provas em um email](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Enviar e validar provas](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Usar grupos de controle](/help/sending-messages/email-channel/use-control-groups.md)
-      + [Configurar deliveries para testes A/B](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
+      + [Configurar entregas para testes A/B](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
       + [Configurar conteúdo dinâmico](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalizar emails usando blocos de conteúdo dinâmico](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personalizar emails usando o campo de personalização](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -81,14 +81,14 @@ ht-degree: 96%
    + [Segmentação de dados](/help/data-management/data-segmentation.md)
    + [Gerenciar aprovações](/help/automating-with-workflows/managing-approvals.md)
    + [Aprenda com seus colegas - Práticas recomendadas de fluxos de trabalho](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
-+ Configurar landing pages {#landing-pages}
-   + [Configurar landing pages](/help/designing-content/configure-landingpages.md)
++ Configurar Landing Pages {#landing-pages}
+   + [Configurar Landing Pages](/help/designing-content/configure-landingpages.md)
    + [Criar uma central de preferências](/help/designing-content/create-a-preference-center.md)
 + Monitorar {#monitoring}
    + [Workflow Heatmap](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Trilha de auditoria](/help/monitoring-campaign-classic/audit-trail.md)
 + Gerenciamento de dados {#data-management}
-   + [Consultar dados](/help/data-management/query-data.md)
+   + [Dados de consulta](/help/data-management/query-data.md)
 + Integrar {#integrating}
    + [Integração com o Adobe Target](/help/integrations/target-integration.md)
    + [Integração com o Dynamics 365](/help/integrations/dynamics365-integration.md)
