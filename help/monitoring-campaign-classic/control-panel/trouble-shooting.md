@@ -1,12 +1,12 @@
 ---
-title: Solução de problemas do Painel de controle do Campaign
+title: Solução de problemas do Painel de controle
 description: O Painel de controle do Campaign permite monitorar e gerenciar o armazenamento SFTP por instância e lista de permissões endereços IP de .
 feature: Control Panel
 kt: 2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 80%
@@ -41,18 +41,18 @@ o administrador precisa adicionar o usuário ao Perfil de produto _Campaign-xxx-
 
 ### Vídeos úteis
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on)
 
 *Verificar IMS Org ID (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on)
 
 *Como adicionar um administrador aos administradores do perfil do produto para utilizar o [!UICONTROL Control panel] (01:03 min)*
 
 ### Documentação útil
 
-* [Conheça o Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)
-* [Gerenciamento de permissões para o [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [Conheça o Painel de controle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)
+* [Gerenciamento de permissões para o [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)
 
 ## Estabelecer conexão com o servidor SFTP (cliente ou API)
 
@@ -64,5 +64,5 @@ A conexão com servidores SFTP requer:
 
 ### Documentação útil {#helpful-docs}
 
-* [Fazer logon no servidor SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [Fazer logon no servidor SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)
 

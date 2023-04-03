@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 0a8f07b1-e663-4c64-9d6e-34dfc5b05517
-source-git-commit: 32ec5c28ea0bb3947b30dd78341e144f6ce273a4
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 15%
@@ -21,4 +21,4 @@ ht-degree: 15%
 
 Entender os principais conceitos do [!UICONTROL Adobe Campaign] que ajudam a planejar, executar e mensurar com eficácia as campanhas de marketing entre canais.
 
->[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&learn=on)

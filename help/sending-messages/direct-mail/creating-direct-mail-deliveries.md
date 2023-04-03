@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 82119bde-daf1-4233-96dc-d6ce235e0934
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '33'
 ht-degree: 57%
@@ -21,4 +21,4 @@ ht-degree: 57%
 
 Entender como [!UICONTROL direct mail] funciona em [!UICONTROL Adobe Campaign] e saiba como criar, formatar e executar um [!UICONTROL direct mail ]delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12&learn=on)

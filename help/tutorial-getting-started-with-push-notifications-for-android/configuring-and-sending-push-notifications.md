@@ -1,5 +1,5 @@
 ---
-title: 'Configuração e envio de notificações por push '
+title: Configuração e envio de notificações por push
 description: Saiba como configurar e enviar uma notificação por push para usuários de aplicativos Android.
 feature: Push
 kt: 6579
@@ -10,7 +10,7 @@ team: TM
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 3%
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 Saiba como configurar e enviar um [!DNL push] notificação aos usuários de uma [!DNL Android] aplicativos.
 
->[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on)
 
 **Etapa anterior**
 

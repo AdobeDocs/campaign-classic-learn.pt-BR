@@ -9,10 +9,10 @@ team: TM
 role: User, Developer, Admin
 level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
-source-git-commit: 813ef6f94d02c25f7b241eaaf30a7488d06b74b7
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 34%
 
 ---
 
@@ -22,6 +22,6 @@ O gerenciamento de fadiga controla a frequência e a quantidade de mensagens par
 
 Este vídeo explica como implementar o gerenciamento de fadiga no Adobe Campaign Classic usando filtros.
 
->[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12&learn=on)
 
 Visite a documentação do produto para saber mais sobre [tipologias de campanha](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=pt-BR).

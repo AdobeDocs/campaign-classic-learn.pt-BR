@@ -1,6 +1,6 @@
 ---
 title: Segmentação de dados no Adobe Campaign Classic
-description: 'Entenda o perfil integrado do cliente, como criar e atualizar perfis e como criar segmentos de clientes com base nesses perfis. '
+description: Entenda o perfil integrado do cliente, como criar e atualizar perfis e como criar segmentos de clientes com base nesses perfis.
 feature: Profiles, Data Management Activity
 kt: 1656
 doc-type: feature video
@@ -9,7 +9,7 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -26,11 +26,11 @@ Os clientes estão gerando dados com todos os canais com as pontas dos dedos, co
 
 O perfil de cliente integrado da Adobe Campaign permite que os profissionais de marketing capturem e gerenciem esses dados em grande escala; tudo, desde atributos de perfil, como detalhes demográficos, &quot;CEP&quot;, &quot;endereço&quot;, &quot;gênero&quot; etc, até dados de interação, &quot;abertura de uma mensagem&quot;, &quot;clique em um email&quot;, &quot;visita ao site&quot;, até dados de conversão e até mesmo dados offline.
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
 
 ## Criação e atualização do perfil do cliente {#customer-profile-creation-and-update}
 
->[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on)
 
 ## Segmentação do cliente  {#customer-segmentation}
 
@@ -38,5 +38,5 @@ Depois de entender os perfis, você estará pronto para fazer a segmentação av
 
 Observe: Este vídeo foi gravado no Adobe Campaign Classic V6, a funcionalidade é exatamente a mesma, no entanto, os ícones do fluxo de trabalho foram alterados.
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
 

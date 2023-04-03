@@ -6,7 +6,7 @@ kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 67%
@@ -29,18 +29,18 @@ Este tutorial demonstra como personalizar o conteúdo do delivery, usar o códig
 
 Um bloco de personalização é dinâmico e contém um código de renderização específico que pode ser adicionado aos deliveries. Você pode, por exemplo, adicionar imagens, cabeçalhos de email, rodapés de email, links de mirror page, links de unsubscription e muito mais.
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on)
 
 ## Adicionar um campo de personalização a um delivery
 
 Os campos de personalização são usados para personalização de primeiro nível do conteúdo das mensagens de delivery. Os campos que você insere em um conteúdo principal mostram onde inserir os dados da fonte de dados selecionada.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on)
 
 ## Adicionar conteúdo condicional a um delivery
 
 Ao configurar campos de conteúdo condicional, você pode criar personalização avançada. Quando uma determinada condição é atendida, blocos de texto e/ou imagens completas são substituídos. Este vídeo demonstrou como adicionar conteúdo condicional a um delivery no exemplo de um informativo multilíngue.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
 
 Para saber mais sobre Personalização, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).
