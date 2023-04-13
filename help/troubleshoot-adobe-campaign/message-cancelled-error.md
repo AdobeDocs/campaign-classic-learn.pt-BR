@@ -1,6 +1,6 @@
 ---
-title: Erro de depuração de mensagem cancelada em um delivery
-description: Saiba como resolver o erro de mensagem cancelada (representação indisponível) em um delivery.
+title: Erro de depuração de mensagem cancelada em uma entrega
+description: Saiba como resolver o erro de mensagem cancelada (representação indisponível) em uma entrega.
 feature: Email
 role: Admin
 level: Experienced
@@ -14,8 +14,8 @@ ht-degree: 100%
 
 ---
 
-# Erro de depuração de mensagem cancelada em um delivery
+# Erro de depuração de mensagem cancelada em uma entrega
 
-Saiba como resolver o erro de mensagem cancelada (representação indisponível) em um delivery.
+Saiba como resolver o erro de mensagem cancelada (representação indisponível) em uma entrega.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335895?quality=12&learn=on)
