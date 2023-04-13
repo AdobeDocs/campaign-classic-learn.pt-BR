@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ---
 
-# Criar emails para capacidade de delivery
+# Criar emails para capacidade de entrega
 
 Saiba como aplicar as práticas recomendadas de capacidade de delivery ao Campaign.
 
