@@ -1,6 +1,6 @@
 ---
 title: Como usar grupos de controle
-description: Entenda o conceito de grupos de controle e saiba como usar um grupo de controle no seu delivery.
+description: Entenda o conceito de grupos de controle e saiba como usar um grupo de controle no sua entrega.
 feature: Control Groups
 kt: 5085
 thumbnail: 330955.jpg
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 # Usar grupos de controle
 
-Entenda o conceito de grupos de controle e saiba como usar um grupo de controle no seu delivery.
+Entenda o conceito de grupos de controle e saiba como usar um grupo de controle no sua entrega.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on)
