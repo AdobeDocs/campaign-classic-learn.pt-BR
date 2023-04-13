@@ -1,6 +1,6 @@
 ---
-title: Buscar dados xml do delivery
-description: Saiba como buscar dados xml do delivery de um fluxo de trabalho
+title: Buscar dados xml da entrega
+description: Saiba como buscar dados xml da entrega de um fluxo de trabalho
 feature: Task Management
 role: Admin
 level: Experienced
@@ -14,8 +14,8 @@ ht-degree: 100%
 
 ---
 
-# Busca de dados XML do delivery
+# Busca de dados XML da entrega
 
-Saiba como buscar dados XML do delivery
+Saiba como buscar dados XML da entrega
 
 >[!VIDEO](https://video.tv.adobe.com/v/335949?quality=12&learn=on)
