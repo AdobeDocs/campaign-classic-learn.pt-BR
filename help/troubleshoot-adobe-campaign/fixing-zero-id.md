@@ -1,6 +1,6 @@
 ---
 title: Correção de id zero
-description: Saiba como corrigir o problema de id zero usando a função inserir query
+description: Saiba como corrigir o problema de id zero usando a função inserir consulta
 feature: Query Editor
 role: Admin
 level: Experienced
