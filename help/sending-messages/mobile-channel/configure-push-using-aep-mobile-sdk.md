@@ -22,4 +22,4 @@ Este vídeo explica como configurar e instalar o SDK do Adobe Experience Platfor
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on)
 
-Para saber mais sobre como configurar a extensão do Campaign Classic no SDK móvel, consulte o [documentação do produto](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic).
+Para saber mais sobre como configurar a extensão Campaign Classic no SDK móvel, consulte a [documentação do produto](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic).

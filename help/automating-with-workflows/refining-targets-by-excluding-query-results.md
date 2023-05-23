@@ -19,6 +19,6 @@ ht-degree: 82%
 
 # Refinar alvos excluindo resultados de consulta
 
-Saiba como refinar seu público-alvo aplicando um **[!UICONTROL standard exclusion]** para um fluxo de trabalho. Você também aprenderá a criar filtros predefinidos e solucionar problemas em seu fluxo de trabalho.
+Saiba como refinar o target aplicando um **[!UICONTROL standard exclusion]** para um workflow. Você também aprenderá a criar filtros predefinidos e solucionar problemas em seu fluxo de trabalho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on)

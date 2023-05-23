@@ -19,7 +19,7 @@ ht-degree: 77%
 
 # Criar campanhas com vários canais
 
-Em uma campanha multicanal, uma única comunicação de marketing usa vários canais para alcançar um público-alvo mais amplo. Os canais são usados de forma independente sem nenhuma conexão entre eles, o que significa que os clientes permanecem em um canal dentro de um fluxo de trabalho.
+Em uma campanha multicanal, uma única comunicação de marketing usa vários canais para alcançar um público-alvo mais amplo. Os canais são usados de maneira independente sem nenhuma conexão entre eles, o que significa que os clientes permanecem em um canal em um fluxo de trabalho.
 
 Saiba como criar uma campanha multicanal usando email, SMS e uma entrega de correspondência direta, com base no canal preferido pelo destinatário.
 

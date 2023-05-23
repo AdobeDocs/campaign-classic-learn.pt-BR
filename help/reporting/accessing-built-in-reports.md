@@ -19,6 +19,6 @@ ht-degree: 54%
 
 # Acesso aos relatórios internos
 
-Entenda os relatórios e análises integrados no Campaign Classic e saiba como gerar um relatório de delivery.
+Entenda os relatórios e análises integrados no Campaign Classic e saiba como gerar um relatório de entrega.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on)

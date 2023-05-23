@@ -1,6 +1,6 @@
 ---
-title: Configuração de um serviço Android e criação de um aplicativo Android para dispositivos móveis no Campaign
-description: Saiba como configurar um Android Services e criar um aplicativo Android para dispositivos móveis no Campaign. Isso é necessário para definirmos o aplicativo Neotrip como o destino da notificação por push.
+title: Configurar um serviço Android e criar um aplicativo Android para dispositivos móveis no Campaign
+description: Saiba como configurar um Android Services e criar um aplicativo Android para dispositivos móveis no Campaign. Isso é necessário para definirmos o aplicativo Neotrip como o público alvo para a notificação por push.
 feature: Push
 kt: 6554
 thumbnail: 327788.jpg
@@ -17,7 +17,7 @@ ht-degree: 32%
 
 ---
 
-# Configurar uma [!DNL Android] e criar um [!DNL Android] aplicativo móvel no Campaign
+# Configurar um [!DNL Android] serviço e criação de um [!DNL Android] aplicativo móvel no Campaign
 
 Saiba como configurar um serviço [!DNL Android] e criar um aplicativo para dispositivos móveis [!DNL Android] no Campaign. Essa etapa é necessária a fim de definir o aplicativo para dispositivos móveis de destino para a notificação por push.
 
@@ -25,8 +25,8 @@ Saiba como configurar um serviço [!DNL Android] e criar um aplicativo para disp
 
 **Etapa anterior**
 
-Etapa 1: [Extensão do esquema de assinatura do aplicativo para personalizar notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+Etapa 1: [Extensão do esquema de subscrição de aplicativo para personalizar notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 
 **Próxima etapa**
 
-Etapa 3: [Configuração e envio de notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
+Etapa 3: [Configurar e enviar notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)

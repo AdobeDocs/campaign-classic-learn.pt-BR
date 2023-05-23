@@ -1,6 +1,6 @@
 ---
 title: Solução de problemas do Painel de controle
-description: O Painel de controle do Campaign permite monitorar e gerenciar o armazenamento SFTP por instância e lista de permissões endereços IP de .
+description: O Painel de controle do Campaign permite monitorar e gerenciar o armazenamento SFTP por instância e incluir na lista de permissões endereços IP.
 feature: Control Panel
 kt: 2938
 doc-type: article
@@ -29,12 +29,12 @@ o usuário precisa localizar a ID organizacional IMS (xxx). O administrador prec
 Os usuários não verão os links até que sejam adicionados como usuários ao Perfil do produto _Campanha-xxx-Administradores/Admin_.
 
 **O que fazer:**
-o administrador precisa adicionar o usuário ao perfil do produto _Campaign-xxx-Admins_ para cada instância que deseja gerenciar. Se o usuário for um administrador de todas as instâncias, ele deverá se adicionar como &quot;usuários&quot;.
+o administrador precisa adicionar o usuário ao perfil do produto _Campaign-xxx-Admins_ para cada instância que deseja gerenciar. Se o usuário for um administrador de todas as instâncias, será necessário adicioná-lo como &quot;usuário&quot;.
 
 ### Sintoma: uma instância não está listada no [!UICONTROL Control Panel]
 
 **Causa:**
-Provavelmente, o usuário deve ser adicionado como um Perfil de produto &quot;usuário&quot; _Campaign-xxx-Administrators/Admin_ para a instância que está ausente
+O mais provável é que o usuário precise ser adicionado como um Perfil de produto &quot;usuário&quot; _Campaign-xxx-Administrators/Admin_ para a instância ausente
 
 **O que fazer:**
 o administrador precisa adicionar o usuário ao Perfil de produto _Campaign-xxx-Admins_ para cada instância que deseja gerenciar. Se o usuário for um administrador de todas as instâncias, será necessário adicioná-lo como &quot;usuário&quot;.
@@ -60,7 +60,7 @@ A conexão com servidores SFTP requer:
 
 * [!UICONTROL Allow listing] o endereço IP a partir do qual você está se conectando ao servidor SFTP
 * Par de chave privada/pública que precisa ser registrado com o Adobe Campaign
-* Se você se conectar diretamente ao servidor SFTP, precisará de software cliente SFTP
+* Se você se conectar diretamente ao servidor SFTP, precisará do software cliente SFTP
 
 ### Documentação útil {#helpful-docs}
 

@@ -24,4 +24,4 @@ Saiba como configurar aprovações e uma campanha e como diferenciar entre aprov
 
 >[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on)
 
-Para saber mais sobre como definir aprovações, consulte o [Documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails).
+Para saber mais sobre definição de aprovações, consulte a [Documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails).

@@ -28,7 +28,7 @@ Um modelo pode incluir sistematicamente:
 * Endereços de remetente e de resposta
 * Blocos de personalização básicos
 * Links para mirror pages e unsubscription
-* Conteúdo, um logotipo ou assinatura da empresa
+* Conteúdo, um logotipo ou uma assinatura da empresa
 * Outras propriedades de entrega, como validade de recursos, quantidades em lote etc.
 
 O vídeo a seguir mostra como configurar um modelo para uma entrega ad hoc.

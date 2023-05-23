@@ -1,5 +1,5 @@
 ---
-title: Configuração e envio de notificações por push
+title: Configurar e enviar notificações por push
 description: Saiba como configurar e enviar uma notificação por push para usuários de aplicativos Android.
 feature: Push
 kt: 6579
@@ -17,13 +17,13 @@ ht-degree: 3%
 
 ---
 
-# Configuração e envio de notificações por push
+# Configurar e enviar notificações por push
 
-Saiba como configurar e enviar um [!DNL push] notificação aos usuários de uma [!DNL Android] aplicativos.
+Saiba como configurar e enviar um [!DNL push] notificação aos usuários de um [!DNL Android] aplicativos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on)
 
 **Etapa anterior**
 
-Etapa 2: [Configuração de um serviço Android e criação de um aplicativo Android para dispositivos móveis no Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
+Etapa 2: [Configurar um serviço Android e criar um aplicativo Android para dispositivos móveis no Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 

@@ -19,6 +19,6 @@ ht-degree: 57%
 
 # Criar entregas de correspondência direta
 
-Entender como [!UICONTROL direct mail] funciona em [!UICONTROL Adobe Campaign] e saiba como criar, formatar e executar um [!UICONTROL direct mail ]delivery.
+Entenda como [!UICONTROL direct mail] funciona no [!UICONTROL Adobe Campaign] e saiba como criar, formatar e executar uma [!UICONTROL direct mail ]entrega.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12&learn=on)

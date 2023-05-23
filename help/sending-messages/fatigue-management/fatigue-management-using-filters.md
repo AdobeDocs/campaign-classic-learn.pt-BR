@@ -18,7 +18,7 @@ ht-degree: 34%
 
 # Configuração do gerenciamento de fadiga usando filtros predefinidos
 
-O gerenciamento de fadiga controla a frequência e a quantidade de mensagens para evitar a solicitação excessiva de recipients. Se você não tiver o módulo de otimização de campanha na instância da campanha, poderá configurar um filtro predefinido que filtre o público-alvo pelo número de mensagens recebidas.
+O gerenciamento de fadiga controla a frequência e a quantidade de mensagens para evitar a solicitação excessiva de recipients. Se você não tiver o módulo de otimização de campanha na instância da campanha, poderá configurar um filtro predefinido que filtre a população alvo pelo número de mensagens recebidas.
 
 Este vídeo explica como implementar o gerenciamento de fadiga no Adobe Campaign Classic usando filtros.
 

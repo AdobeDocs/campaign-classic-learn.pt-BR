@@ -1,6 +1,6 @@
 ---
 title: Gerenciar campanhas de marketing
-description: Entenda os principais conceitos do Adobe Campaign que ajudam a planejar, executar e mensurar com eficácia as campanhas de marketing entre canais.
+description: Entenda os principais conceitos do Adobe Campaign que ajudam você a planejar, executar e medir com eficiência as campanhas de marketing entre canais.
 feature: Campaigns
 kt: 5077
 thumbnail: 35131.jpg
@@ -19,6 +19,6 @@ ht-degree: 15%
 
 # Gerenciar campanhas de marketing
 
-Entender os principais conceitos do [!UICONTROL Adobe Campaign] que ajudam a planejar, executar e mensurar com eficácia as campanhas de marketing entre canais.
+Entenda os principais conceitos do [!UICONTROL Adobe Campaign] que ajudam você a planejar, executar e medir com eficiência as campanhas de marketing entre canais.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&learn=on)

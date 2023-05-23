@@ -1,6 +1,6 @@
 ---
-title: Configurar landing pages
-description: Saiba como criar e configurar landing pages.
+title: Configurar páginas de destino
+description: Saiba como criar e configurar páginas de destino.
 feature: Landing Pages
 kt: 11918
 thumbnail: 3415819
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# Configurar landing pages
+# Configurar páginas de destino
 
-Saiba como criar e configurar landing pages.
+Saiba como criar e configurar páginas de destino.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on)
 

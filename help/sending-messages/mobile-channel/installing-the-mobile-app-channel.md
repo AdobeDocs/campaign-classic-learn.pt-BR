@@ -23,4 +23,4 @@ Saiba como verificar se o canal de Aplicativo para dispositivos móveis está in
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on)
 
-Para saber mais sobre a configuração do canal de aplicativo móvel, consulte o [documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=en#installing-package-ios).
+Para saber mais sobre a configuração do canal de aplicativo móvel, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=en#installing-package-ios).

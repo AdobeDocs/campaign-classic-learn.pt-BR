@@ -19,6 +19,6 @@ ht-degree: 64%
 
 # Refinar alvos combinando resultados de consulta
 
-Saiba como refinar seu público-alvo combinando resultados de query em um fluxo de trabalho usando o **[!UICONTROL intersection]** ou **[!UICONTROL union]** atividades.
+Saiba como refinar o target combinando resultados da consulta em um fluxo de trabalho usando o **[!UICONTROL intersection]** ou o **[!UICONTROL union]** atividades.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on)

@@ -1,5 +1,5 @@
 ---
-title: Como configurar fluxos de trabalho de validação no Adobe Campaign Classic
+title: Como configurar workflows de validação no Adobe Campaign Classic
 description: Saiba como configurar diferentes workflows de validação e aprovação.
 feature: Workflows, Approvals
 kt: 1566

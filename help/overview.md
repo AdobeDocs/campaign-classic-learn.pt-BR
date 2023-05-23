@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 24ef8cdb92d45d24fc15f23045deae137d018b10
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
    *Saiba como as conexões SMPP são estabelecidas e como o SMPP troca dados por meio de PDUs. Saiba como solucionar problemas de conexão.*
 
-* **[Painel de controle do Campaign para modelos de hospedagem híbrida](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=pt-BR)**
+* **[Painel de controle para modelos de hospedagem híbrida](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=pt-BR)**
 
    *Saiba como ativar o Painel de controle para modelos de hospedagem híbrida do Adobe Campaign, acessar o Painel de controle e desbloquear os principais recursos.*
 
