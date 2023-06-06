@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
-source-git-commit: 087a7836a7ab748f8bad797c748cab3c2440fd91
+source-git-commit: e58718f17703d220281089e940413b762479fb7e
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 50%
+source-wordcount: '74'
+ht-degree: 44%
 
 ---
 
@@ -22,4 +22,4 @@ Este vídeo explica como configurar e instalar o SDK do Adobe Experience Platfor
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on)
 
-Para saber mais sobre como configurar a extensão Campaign Classic no SDK móvel, consulte a [documentação do produto](hhttps://github.com/Adobe-Marketing-Cloud/aep-sdks-documentation/blob/master/using-mobile-extensions/adobe-campaignclassic/README.md).
+Para saber mais sobre como configurar a extensão Campaign Classic no SDK móvel, consulte a [documentação do produto](https://github.com/Adobe-Marketing-Cloud/aep-sdks-documentation/blob/master/using-mobile-extensions/adobe-campaignclassic/README.md).
