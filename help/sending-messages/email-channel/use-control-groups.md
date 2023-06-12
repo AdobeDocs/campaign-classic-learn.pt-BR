@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
-source-git-commit: e54154e5785b1688ee4a157f05ff91207ee75663
+source-git-commit: d56ae485ffdd3ccaf75a0cf76652f2ade7f61fed
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 48%
@@ -25,6 +25,6 @@ Entenda o conceito de grupos de controle e saiba como usar um grupo de controle 
 
 Consulte a documentação do produto para obter mais informações sobre:
 
-* [Como definir grupos de controle](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group)
-* [Como definir a população do público-alvo do delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en)
+* [Como definir grupos de controle](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"}
+* [Como definir a população do público-alvo do delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
 
