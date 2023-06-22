@@ -4,11 +4,11 @@ description: Conheça as dez práticas recomendadas para ajudar os profissionais
 doc-type: article
 role: User
 level: Beginner
-kt: 11772
+jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
-source-git-commit: 4655ed710e38c0d3cbb3eb5566ab5d13dc26ed44
-workflow-type: tm+mt
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+workflow-type: ht
 source-wordcount: '1279'
 ht-degree: 100%
 
