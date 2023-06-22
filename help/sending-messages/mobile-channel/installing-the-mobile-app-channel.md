@@ -2,7 +2,7 @@
 title: Instalação do canal do aplicativo para dispositivos móveis
 description: Saiba como verificar se o canal de Aplicativo para dispositivos móveis está instalado em sua instância e como instalá-lo.
 feature: Push
-kt: 6438
+jira: KT-6438
 thumbnail: 326544.jpg
 doc-type: feature video
 activity: setup
@@ -10,7 +10,7 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: f1e71f7d-4af1-4122-ae30-14c9f2ff2a19
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 65%

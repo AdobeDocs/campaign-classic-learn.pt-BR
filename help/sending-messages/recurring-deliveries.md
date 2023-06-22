@@ -2,14 +2,14 @@
 title: Configurar campanhas de email recorrentes e contínuas
 description: Saiba como configurar uma entrega recorrente e contínua e compreender as diferenças entre as duas abordagens.
 feature: Workflows, Campaigns
-kt: 1560
+jira: KT-1560
 doc-type: feature video
 activity: use
 team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 100%
@@ -26,13 +26,13 @@ As entregas recorrentes e contínuas diferem na maneira como os dados de contato
 
 * O **delivery contínuo** permite adicionar novos recipients a um delivery existente, o que evita a criação de um novo delivery cada vez que um novo recipient for adicionado. Você pode atualizar o criativo diretamente no workflow da campanha e ele atualizará o modelo na pasta Recursos do template do delivery.
 
-   Um delivery contínuo criará um ÚNICO delivery. Logs do delivery (broadLog) e logs de rastreamento que fazem referência a um delivery serão adicionados a cada execução.
+  Um delivery contínuo criará um ÚNICO delivery. Logs do delivery (broadLog) e logs de rastreamento que fazem referência a um delivery serão adicionados a cada execução.
 
-   ![Delivery contínuo](/help/assets/delivery_continuous.jpg)
+  ![Delivery contínuo](/help/assets/delivery_continuous.jpg)
 
 * Um **delivery recorrente** criará uma nova instância de delivery toda vez que for executado. Por exemplo, se o workflow estiver programado para ser executado uma vez por semana, o resultado será 52 deliveries em um ano. Também significa que o log abrangente e os logs de rastreamento serão separados por cada instância do delivery.
 
-   ![Delivery recorrente](/help/assets/delivery_recurring.jpg)
+  ![Delivery recorrente](/help/assets/delivery_recurring.jpg)
 
 ## Como configurar uma entrega recorrente {#how-to-set-up-a-recurring-delivery}
 
