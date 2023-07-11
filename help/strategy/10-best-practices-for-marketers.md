@@ -2,15 +2,16 @@
 title: Dez práticas recomendadas para o sucesso de profissionais de marketing no Adobe Campaign
 description: Conheça as dez práticas recomendadas para ajudar os profissionais do Adobe Campaign a desbloquear e acelerar a transformação digital do consumidor e fornecer uma melhor experiência para seus clientes.
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
-workflow-type: ht
+source-git-commit: eae208987b8430773421cba7aec2f77d5441b618
+workflow-type: tm+mt
 source-wordcount: '1279'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -49,7 +50,7 @@ Assim como seus clientes, você tem uma rotina diária. O envio e a orquestraç�
 
 Por exemplo, se os seus clientes verificam o telefone pela manhã em busca das melhores ofertas, considere enviar a eles uma mensagem de texto com uma promoção. Se eles estiverem navegando à noite em busca da próxima tendência, considere enviar um email de acompanhamento com um código promocional de frete grátis. Também é importante usar a ferramenta de mapa de calor no [!DNL Campaign] para rastrear quando os fluxos de trabalho e envios estão sendo executados. Coordenar e facilitar as comunicações entre várias marcas pode ser um desafio. [Permanecer atento e conhecer o ritmo, a cadência e o momento certo para enviar seus emails](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=pt) é de extrema importância para a estabilidade e força geral da sua mensagem e instância do Campaign.
 
-## 4. Use a personalização onde for necessário
+## 4. Use a personalização onde for importante
 
 Hoje em dia, os consumidores esperam ver algum nível de personalização nas mensagens que recebem. [80% dos clientes têm maior probabilidade de comprar de uma marca que oferece experiências personalizadas](https://us.epsilon.com/power-of-me). Usar o nome deles na linha de assunto é uma excelente opção. No entanto, a personalização pode ir muito além disso. É possível incluir os produtos que eles procuraram, conectá-los a produtos semelhantes ou continuar a reforçar a experiência coesa e a aparência de sua marca. Cada detalhe importa e aumenta o engajamento e as taxas de abertura de suas mensagens.
 
