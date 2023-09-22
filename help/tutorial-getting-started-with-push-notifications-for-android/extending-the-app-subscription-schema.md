@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 45%
+source-wordcount: '72'
+ht-degree: 44%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 45%
 
 Saiba como estender o [!UICONTROL app subscription] esquema para poder armazenar valores de personalização [!DNL Campaign] O recebe de um aplicativo móvel.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
 
 **Próxima etapa**
 

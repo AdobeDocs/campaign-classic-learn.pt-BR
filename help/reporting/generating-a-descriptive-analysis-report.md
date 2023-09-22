@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '33'
-ht-degree: 75%
+source-wordcount: '35'
+ht-degree: 71%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 75%
 
 Saiba como gerar uma [!UICONTROL descriptive analysis report] de um workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12&learn=on){transcript=true}
