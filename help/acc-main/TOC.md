@@ -1,19 +1,19 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: Tutorials do Adobe Campaign Classic v7
+user-guide-title: Tutoriais do Adobe Campaign Classic v7
 user-guide-description: Vídeos e tutoriais do Adobe Campaign Classic v7.
-breadcrumb-title: Tutorials do Campaign Classic v7
+breadcrumb-title: Tutoriais do Campaign Classic v7
 auto-video-transcripts: true
 source-git-commit: 1dc9c2423e3643e8d73719f5813ea99e14414f9c
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
 
-# Tutorials do Adobe Campaign Classic v7 {#tutorials}
+# Tutoriais do Adobe Campaign Classic v7 {#tutorials}
 
 + [Adobe Campaign Classic V7 - Tutoriais](/help/overview.md)
 + Introdução {#getting-started}
