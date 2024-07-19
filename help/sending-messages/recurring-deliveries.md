@@ -11,8 +11,8 @@ level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 98%
+source-wordcount: '244'
+ht-degree: 100%
 
 ---
 
@@ -24,19 +24,19 @@ Este tutorial explica como configurar uma entrega recorrente e contínua e as di
 
 As entregas recorrentes e contínuas diferem na maneira como os dados de contato são gerenciados:
 
-* O **delivery contínuo** permite adicionar novos recipients a um delivery existente, o que evita a criação de um novo delivery cada vez que um novo recipient for adicionado. Você pode atualizar o criativo diretamente no workflow da campanha e ele atualizará o modelo na pasta Recursos do template do delivery.
+* A **entrega contínua** permite adicionar novos destinatários a uma entrega existente, o que evita a criação de uma nova entrega cada vez que um novo destinatário for adicionado. Você pode atualizar o criativo diretamente no workflow da campanha e ele atualizará o modelo na pasta Recursos do template da entrega.
 
-  Um delivery contínuo criará um ÚNICO delivery. Logs do delivery (broadLog) e logs de rastreamento que fazem referência a um delivery serão adicionados a cada execução.
+  Uma entrega contínua criará uma ÚNICA entrega. Logs da entrega (broadLog) e logs de rastreamento que fazem referência a uma entrega serão adicionados a cada execução.
 
   ![Delivery contínuo](/help/assets/delivery_continuous.jpg)
 
-* Um **delivery recorrente** criará uma nova instância de delivery toda vez que for executado. Por exemplo, se o workflow estiver programado para ser executado uma vez por semana, o resultado será 52 deliveries em um ano. Também significa que o log abrangente e os logs de rastreamento serão separados por cada instância do delivery.
+* Uma **entrega recorrente** criará uma nova instância de entrega toda vez que for executada. Por exemplo, se o workflow estiver programado para ser executado uma vez por semana, o resultado será 52 entregas em um ano. Também significa que o log abrangente e os logs de rastreamento serão separados por cada instância da entrega.
 
-  ![Delivery recorrente](/help/assets/delivery_recurring.jpg)
+  ![Entrega recorrente](/help/assets/delivery_recurring.jpg)
 
 ## Como configurar uma entrega recorrente {#how-to-set-up-a-recurring-delivery}
 
-Este vídeo explica como configurar um delivery recorrente e uma atividade de scheduler.
+Este vídeo explica como configurar uma entrega recorrente e uma atividade de scheduler.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&learn=on){transcript=true}
 

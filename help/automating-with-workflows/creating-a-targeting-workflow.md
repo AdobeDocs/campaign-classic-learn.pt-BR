@@ -1,6 +1,6 @@
 ---
 title: Criar um fluxo de trabalho de direcionamento
-description: Saiba como definir vários direcionamentos de delivery usando workflows para construção do target.
+description: Saiba como definir vários targets de entrega usando workflows para construção do target.
 feature: Workflows, Targeting Activity, Query Editor
 jira: KT-2174
 doc-type: feature video
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 63%
+source-wordcount: '70'
+ht-degree: 28%
 
 ---
 
@@ -22,5 +22,5 @@ O Adobe Campaign usa workflows para realizar campanhas de direcionamento, criar 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
 
-Consulte a documentação [sobre Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=pt-BR)
-e [sobre as atividades de direcionamento](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) para obter mais informações.
+Consulte a documentação [sobre fluxos de trabalho](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=pt-BR)
+e [sobre atividades de direcionamento](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) para obter mais informações.

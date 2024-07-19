@@ -22,16 +22,16 @@ ht-degree: 100%
    + [Correção de erros de logon no console](/help/troubleshoot-adobe-campaign/console-login-errors.md)
    + [Correção de Id Zero](/help/troubleshoot-adobe-campaign/fixing-zero-id.md)
 + Workflows {#workflows}
-   + [Impedir que uma conta de usuário desativada interrompa um fluxo de trabalho em execução](/help/troubleshoot-adobe-campaign/prevent-disabled-accounts-from-stopping-workflow.md)
+   + [Impedir que uma conta de usuário desabilitada interrompa um fluxo de trabalho em execução](/help/troubleshoot-adobe-campaign/prevent-disabled-accounts-from-stopping-workflow.md)
    + [Aumentar o número de workflows em execução paralela](/help/troubleshoot-adobe-campaign/increase-parallel-workflows.md)
    + [Filtrar workflows com a condição manter resultado](/help/troubleshoot-adobe-campaign/keep-result-workflow.md)
-   + [Nomes de saída do delivery de consulta](/help/troubleshoot-adobe-campaign/query-delivery-output-names.md)
+   + [Nomes de saída da entrega de consulta](/help/troubleshoot-adobe-campaign/query-delivery-output-names.md)
    + [A sessão expira ao aprovar uma oferta](/help/troubleshoot-adobe-campaign/session-expired-approving-offer.md)
    + [Interrupção incondicional no fluxo de trabalho do Adobe Campaign.](/help/troubleshoot-adobe-campaign/unconditional-stop-workflow.md)
-+ Deliveries e canais {#deliveries-and-channels}
-   + [Impedir que mensagens desativadas enviem emails](/help/troubleshoot-adobe-campaign/disabled-messages-sending-emails.md)
-   + [Erro de depuração de mensagem cancelada em um delivery](/help/troubleshoot-adobe-campaign/message-cancelled-error.md)
-   + [Delivery de SMS em estado pendente](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
++ Entregas e canais {#deliveries-and-channels}
+   + [Impedir que mensagens desabilitadas enviem emails](/help/troubleshoot-adobe-campaign/disabled-messages-sending-emails.md)
+   + [Erro de depuração de mensagem cancelada em uma entrega](/help/troubleshoot-adobe-campaign/message-cancelled-error.md)
+   + [Entrega de SMS em estado pendente](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
    + [Status de Broad log incorreto quando um SMS é enviado para um número incorreto](/help/troubleshoot-adobe-campaign/sms-broad-log.md)
    + [Problemas de permissão ao publicar](/help/troubleshoot-adobe-campaign/publishing-permissions-issues.md)
 + Integrações {#integrations}

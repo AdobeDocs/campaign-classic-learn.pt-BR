@@ -8,7 +8,7 @@ activity: use
 team: PM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '315'
 ht-degree: 79%
 
 ---
@@ -34,7 +34,7 @@ o administrador precisa adicionar o usuário ao perfil do produto _Campaign-xxx-
 ### Sintoma: uma instância não está listada no [!UICONTROL Control Panel]
 
 **Causa:**
-O mais provável é que o usuário precise ser adicionado como um Perfil de produto &quot;usuário&quot; _Campaign-xxx-Administrators/Admin_ para a instância ausente
+O mais provável é que o usuário precise ser adicionado como um Perfil de Produto &quot;usuário&quot; _Campaign-xxx-Administrators/Admin_ para a instância que estiver ausente
 
 **O que fazer:**
 o administrador precisa adicionar o usuário ao Perfil de produto _Campaign-xxx-Admins_ para cada instância que deseja gerenciar. Se o usuário for um administrador de todas as instâncias, será necessário adicioná-lo como &quot;usuário&quot;.

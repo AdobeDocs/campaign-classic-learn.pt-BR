@@ -1,6 +1,6 @@
 ---
 title: Personalizar emails - Crie um boletim multilíngue usando conteúdo condicional
-description: Saiba como adicionar conteúdo condicional a um delivery no exemplo de um informativo multilingue.
+description: Saiba como adicionar conteúdo condicional a uma entrega no exemplo de um informativo multilingue.
 feature: Personalization
 jira: KT-5922
 thumbnail: 24926.jpg
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 78%
+source-wordcount: '86'
+ht-degree: 79%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 78%
 
 Ao configurar campos de conteúdo condicional, você pode criar personalização avançada. Quando uma determinada condição é atendida, blocos de texto e/ou imagens completas são substituídas.
 
-Saiba como adicionar conteúdo condicional a um delivery no exemplo de um informativo multilingue.
+Saiba como adicionar conteúdo condicional a uma entrega no exemplo de um informativo multilingue.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 

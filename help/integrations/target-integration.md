@@ -1,6 +1,6 @@
 ---
 title: Integração do Campaign Classic V7 ao Adobe Target
-description: Saiba como personalizar um delivery com conteúdo dinâmico veiculado pelo Adobe Target.
+description: Saiba como personalizar uma entrega com conteúdo dinâmico veiculado pelo Adobe Target.
 feature: Target Integration
 role: User
 level: Beginner, Intermediate, Experienced
@@ -11,13 +11,13 @@ badgeIntegration: label="Integração" type="positive"
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 42%
+ht-degree: 45%
 
 ---
 
 # Integração do Campaign Classic V7 ao Adobe Target
 
-Saiba como personalizar um delivery com conteúdo dinâmico veiculado pelo Adobe Target.
+Saiba como personalizar uma entrega com conteúdo dinâmico veiculado pelo Adobe Target.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
 

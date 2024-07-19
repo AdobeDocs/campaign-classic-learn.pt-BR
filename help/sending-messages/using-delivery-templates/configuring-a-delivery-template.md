@@ -14,13 +14,13 @@ exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 83%
+ht-degree: 85%
 
 ---
 
 # Configurar um modelo de entrega
 
-Os departamentos de marketing produzem templates do delivery para padronizar a aparência criativa, a fim de serem mais rápidos na execução e na inicialização de campanhas.
+Os departamentos de marketing produzem templates da entrega para padronizar a aparência criativa, a fim de serem mais rápidos na execução e na inicialização de campanhas.
 
 Um modelo pode incluir sistematicamente:
 

@@ -28,8 +28,8 @@ ht-degree: 100%
 + Gerenciamento de perfil {#profile-management}
    + [Criar e gerenciar perfis](/help/profile-management/create-and-manage-profiles.md)
    + [Importar perfis](/help/data-management/importing-profiles.md)
-   + [Criar uma lista de recipients](/help/profile-management/creating-a-list-of-recipients.md)
-   + [Criar uma lista de recipients com um fluxo de trabalho](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
+   + [Criar uma lista de destinatários](/help/profile-management/creating-a-list-of-recipients.md)
+   + [Criar uma lista de destinatários com um fluxo de trabalho](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Enviar mensagens{#sending-messages}
    + Canal de email{#email-channel}
       + [Criar e projetar entregas de email](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)

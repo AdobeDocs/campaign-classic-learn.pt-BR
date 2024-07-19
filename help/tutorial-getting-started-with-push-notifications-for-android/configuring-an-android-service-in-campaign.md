@@ -1,5 +1,5 @@
 ---
-title: Configurar um serviço Android e criar um aplicativo Android para dispositivos móveis no Campaign
+title: Configurar um serviço do Android e criar um aplicativo Android para dispositivos móveis no Campaign
 description: Saiba como configurar um Android Services e criar um aplicativo Android para dispositivos móveis no Campaign. Isso é necessário para definirmos o aplicativo Neotrip como o público alvo para a notificação por push.
 feature: Push
 jira: KT-6554
@@ -12,12 +12,12 @@ level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 32%
+source-wordcount: '108'
+ht-degree: 33%
 
 ---
 
-# Configurar um [!DNL Android] serviço e criação de um [!DNL Android] aplicativo móvel no Campaign
+# Configurar um serviço [!DNL Android] e criar um aplicativo para dispositivos móveis [!DNL Android] no Campaign
 
 Saiba como configurar um serviço [!DNL Android] e criar um aplicativo para dispositivos móveis [!DNL Android] no Campaign. Essa etapa é necessária a fim de definir o aplicativo para dispositivos móveis de destino para a notificação por push.
 
@@ -25,7 +25,7 @@ Saiba como configurar um serviço [!DNL Android] e criar um aplicativo para disp
 
 **Etapa anterior**
 
-Etapa 1: [Extensão do esquema de subscrição de aplicativo para personalizar notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+Etapa 1: [Estender o esquema de assinatura do aplicativo para personalizar notificações por push](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 
 **Próxima etapa**
 

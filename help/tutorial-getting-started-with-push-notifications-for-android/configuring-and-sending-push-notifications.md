@@ -12,14 +12,14 @@ level: Beginner, Intermediate, Experienced
 exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 3%
+source-wordcount: '54'
+ht-degree: 7%
 
 ---
 
 # Configurar e enviar notificações por push
 
-Saiba como configurar e enviar um [!DNL push] notificação aos usuários de um [!DNL Android] aplicativos.
+Saiba como configurar e enviar uma notificação [!DNL push] para usuários de aplicativos [!DNL Android].
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on){transcript=true}
 
