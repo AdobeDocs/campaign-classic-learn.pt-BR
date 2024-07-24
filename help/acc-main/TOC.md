@@ -5,10 +5,10 @@ user-guide-title: Tutoriais do Adobe Campaign Classic v7
 user-guide-description: Vídeos e tutoriais do Adobe Campaign Classic v7.
 breadcrumb-title: Tutoriais do Campaign Classic v7
 auto-video-transcripts: true
-source-git-commit: 1dc9c2423e3643e8d73719f5813ea99e14414f9c
+source-git-commit: c87b64213114f35d01e0edd8b13b0bab483ec346
 workflow-type: tm+mt
-source-wordcount: '415'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -47,6 +47,8 @@ ht-degree: 100%
       + [Solução de problemas de entrega de email](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Adicionar anexos a uma entrega de email](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
       + [Criar emails para capacidade de entrega](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Maximizar o ROI do email e práticas recomendadas para reengajamento do assinante](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=pt-BR)
+      + [Manual de práticas recomendadas para capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
    + Canal de SMS {#sms-channel}
       + [Criar uma entrega de SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canal por push {#push-channel}
@@ -106,5 +108,4 @@ ht-degree: 100%
 + [Solução de problemas do Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=pt-BR)
 + Estratégia e liderança de pensamento{#strategy}
    + [Dez práticas recomendadas para o sucesso de profissionais de marketing no Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
-   + [Maximizar o ROI do email e práticas recomendadas para reengajamento do assinante](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=pt-BR)
-   + [Manual de práticas recomendadas para capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
+   + 
