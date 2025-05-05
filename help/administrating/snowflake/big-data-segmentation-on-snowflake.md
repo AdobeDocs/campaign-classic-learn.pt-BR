@@ -30,6 +30,6 @@ Você aprenderá a
 * Pesquisar e relatar os dados
 * Como exportar dados em listas e criar filtros de direcionamento em tempo real
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36073?quality=12&learn=on&captions=por_br){transcript=true}
 
 Para obter mais informações sobre como configurar o acesso ao Snowflake, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=pt-BR#installing-campaign-classic).

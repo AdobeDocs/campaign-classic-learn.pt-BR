@@ -19,7 +19,7 @@ ht-degree: 43%
 
 Saiba como personalizar uma entrega com conteúdo dinâmico veiculado pelo Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453262?quality=12&learn=on&captions=por_br){transcript=true}
 
 >[!NOTE]
 > O vídeo foi gravado no Campaign V8 e a funcionalidade é a mesma para o Campaign Classic V7 e o Campaign V8.

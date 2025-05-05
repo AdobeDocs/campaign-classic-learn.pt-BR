@@ -21,4 +21,4 @@ ht-degree: 65%
 
 Saiba como refinar o público-alvo combinando os resultados da consulta em um fluxo de trabalho usando as atividades **[!UICONTROL intersection]** ou **[!UICONTROL union]**.
 
->[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326552?quality=12&learn=on&captions=por_br){transcript=true}

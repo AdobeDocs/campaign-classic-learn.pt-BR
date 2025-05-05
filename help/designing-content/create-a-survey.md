@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como criar uma pesquisa no Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448078/?learn=on&captions=por_br){transcript=true}

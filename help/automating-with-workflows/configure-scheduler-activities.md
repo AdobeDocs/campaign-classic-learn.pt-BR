@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Saiba como configurar uma atividade do scheduler em um fluxo de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416037?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447113?quality=12&learn=on&captions=por_br){transcript=true}

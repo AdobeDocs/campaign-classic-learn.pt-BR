@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Saiba como corrigir o problema de rótulo de campanha ausente no Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/335983?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436811?quality=12&learn=on&captions=por_br){transcript=true}

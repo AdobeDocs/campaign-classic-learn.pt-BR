@@ -22,4 +22,4 @@ O Adobe Campaign inclui um módulo de workflow que possibilita orquestrar a gama
 
 Este vídeo explica como criar um workflow no Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31834?quality=12&learn=on&captions=por_br){transcript=true}

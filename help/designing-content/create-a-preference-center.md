@@ -22,6 +22,6 @@ ht-degree: 20%
 
 Saiba como criar uma central de preferências usando o editor de aplicativo Web do Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31847?quality=12&learn=on&captions=por_br){transcript=true}
 
 Para obter mais informações, consulte a documentação detalhada em [Criação de uma página de aterrissagem](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=pt-BR).

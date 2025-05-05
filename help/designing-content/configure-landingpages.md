@@ -21,6 +21,6 @@ ht-degree: 5%
 
 Saiba como criar e configurar páginas de destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448911/?quality=12&learn=on&captions=por_br){transcript=true}
 
 Para obter mais informações, consulte a documentação detalhada em [Criação de uma página de aterrissagem](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=pt-BR).

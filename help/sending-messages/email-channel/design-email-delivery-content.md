@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como configurar, personalizar e testar o conteúdo de entrega de email. Entenda como usar templates, fazer upload de imagens, adicionar emoticons e incorporar códigos de barra e QR.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419047?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453867?learn=on&captions=por_br){transcript=true}

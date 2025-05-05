@@ -23,6 +23,6 @@ Ao configurar campos de conteúdo condicional, você pode criar personalização
 
 Saiba como adicionar conteúdo condicional a uma entrega no exemplo de um informativo multilingue.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31844?quality=12&learn=on&captions=por_br){transcript=true}
 
 Para saber mais sobre personalização, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=pt-BR).

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 O Heatmap de fluxos de trabalho do Adobe Campaign consiste em uma representação gráfica colorida de todos os fluxos de trabalho que estão sendo executados no momento. Ao fornecer um rápido panorama do número de fluxos de trabalho simultâneos, o heatmap de fluxos de trabalho permite que os administradores da plataforma do Adobe Campaign monitorem a carga da instância e planejem os fluxos de trabalho de modo apropriado.
 
->[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31839?quality=12&learn=on&captions=por_br){transcript=true}

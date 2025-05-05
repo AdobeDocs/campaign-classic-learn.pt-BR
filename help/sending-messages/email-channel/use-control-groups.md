@@ -21,7 +21,7 @@ ht-degree: 77%
 
 Entenda o conceito de grupos de controle e saiba como usar um grupo de controle no sua entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449975?quality=12&learn=on&captions=por_br){transcript=true}
 
 >[!IMPORTANT]
 >Se houver várias entregas no workflow de direcionamento, será necessário habilitar as configurações do grupo de controle no nível de entrega, bem como nas configurações da campanha.

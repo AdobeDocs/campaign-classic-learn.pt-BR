@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba como corrigir erros encontrados durante o logon no console
 
->[!VIDEO](https://video.tv.adobe.com/v/335896?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437771?quality=12&learn=on&captions=por_br){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como criar um fluxo de trabalho para direcionar os destinatários e como torná-lo recorrente antes de usar a lista em um target de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31836?quality=12&learn=on&captions=por_br){transcript=true}

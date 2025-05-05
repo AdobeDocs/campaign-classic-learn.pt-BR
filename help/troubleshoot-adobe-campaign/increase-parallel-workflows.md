@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba como aumentar o número de workflows de campanha que podem ser executados em paralelo na instância.
 
->[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436579?quality=12&learn=on&captions=por_br){transcript=true}

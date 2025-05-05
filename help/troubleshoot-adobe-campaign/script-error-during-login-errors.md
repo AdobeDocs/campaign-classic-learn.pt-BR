@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba como corrigir os erros ou avisos exibidos durante o processo de logon no Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/335975?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436219?quality=12&learn=on&captions=por_br){transcript=true}

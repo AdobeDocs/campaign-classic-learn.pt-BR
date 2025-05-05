@@ -21,4 +21,4 @@ ht-degree: 83%
 
 Saiba como refinar o público-alvo aplicando um **[!UICONTROL standard exclusion]** a um fluxo de trabalho. Você também aprenderá a criar filtros predefinidos e solucionar problemas em seu fluxo de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326457?quality=12&learn=on&captions=por_br){transcript=true}

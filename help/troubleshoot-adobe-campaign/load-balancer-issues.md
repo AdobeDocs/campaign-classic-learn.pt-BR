@@ -16,4 +16,4 @@ ht-degree: 100%
 # Problemas do balanceador de carga
 
 Saiba como corrigir problemas do balanceador de carga na reinicialização da instância
->[!VIDEO](https://video.tv.adobe.com/v/335984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437496?quality=12&learn=on&captions=por_br){transcript=true}

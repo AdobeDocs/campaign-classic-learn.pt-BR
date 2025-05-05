@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Saiba como aplicar as práticas recomendadas de capacidade de entrega ao Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452563?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## Recursos adicionais
 

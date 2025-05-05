@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como adicionar anexos a uma entrega de email e como configurar diferentes tipos de anexos de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452994?quality=12&learn=on&captions=por_br){transcript=true}

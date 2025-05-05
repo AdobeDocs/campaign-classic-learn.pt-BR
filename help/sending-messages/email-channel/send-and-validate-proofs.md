@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como enviar e validar uma prova.
 
->[!VIDEO](https://video.tv.adobe.com/v/330945?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448922?learn=on&captions=por_br){transcript=true}

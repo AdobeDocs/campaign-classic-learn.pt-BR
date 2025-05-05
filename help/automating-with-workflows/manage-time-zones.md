@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Saiba como aplicar fusos horários a atividades de fluxo de trabalho agendadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416040?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443852?quality=12&learn=on&captions=por_br){transcript=true}

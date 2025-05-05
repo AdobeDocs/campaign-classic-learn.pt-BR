@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como adicionar seeds e provas a um email existente e como enviá-lo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35801?quality=12&learn=on&captions=por_br){transcript=true}

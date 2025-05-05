@@ -24,6 +24,6 @@ As regras de tipologia permitem que os profissionais de marketing padronizem pr�
 
 Este vídeo explica como implementar o gerenciamento de fadiga no Adobe Campaign Classic aplicando regras de tipologia.
 
->[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31848?quality=12&learn=on&captions=por_br){transcript=true}
 
 Visite a documentação do produto para saber mais sobre [tipologias de campanha](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=pt-BR).

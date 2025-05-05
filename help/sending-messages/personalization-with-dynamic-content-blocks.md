@@ -30,18 +30,18 @@ Este tutorial demonstrou como personalizar o conteúdo do delivery, usar o códi
 
 Um bloco de personalização é dinâmico e contém um código de renderização específico que pode ser adicionado aos deliveries. Você pode, por exemplo, adicionar imagens, cabeçalhos de email, rodapés de email, links de mirror page, links de unsubscription e muito mais.
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340472?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## Adicionar um campo de personalização a uma entrega
 
 Os campos de personalização são usados para personalização de primeiro nível do conteúdo das mensagens de entrega. Os campos que você insere em um conteúdo principal mostram onde inserir os dados da fonte de dados selecionada.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31843?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## Adicionar conteúdo condicional a uma entrega
 
 Ao configurar campos de conteúdo condicional, você pode criar personalização avançada. Quando uma determinada condição é atendida, blocos de texto e/ou imagens completas são substituídos. Este vídeo demonstrou como adicionar conteúdo condicional a uma entrega no exemplo de um informativo multilíngue.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31844?quality=12&learn=on&captions=por_br){transcript=true}
 
 Para saber mais sobre o Personalization, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=pt-BR).

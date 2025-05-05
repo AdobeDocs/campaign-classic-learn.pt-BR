@@ -21,4 +21,4 @@ ht-degree: 18%
 
 Saiba como consultar dados usando o editor de consultas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447875?quality=12&learn=on&captions=por_br){transcript=true}

@@ -22,6 +22,6 @@ A atividade de enriquecimento é um objeto de fluxo de trabalho que adiciona dad
 
 Saiba como configurar uma atividade de enriquecimento com base nas informações de log da entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33212?quality=12&learn=on&captions=por_br){transcript=true}
 
 Para obter mais informações sobre o enriquecimento, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=pt-BR)

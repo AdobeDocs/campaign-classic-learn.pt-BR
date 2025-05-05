@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba como executar corretamente uma interrupção incondicional no fluxo de trabalho
 
->[!VIDEO](https://video.tv.adobe.com/v/335887?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437452?quality=12&learn=on&captions=por_br){transcript=true}

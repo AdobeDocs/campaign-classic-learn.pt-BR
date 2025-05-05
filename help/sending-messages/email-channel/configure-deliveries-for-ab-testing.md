@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como configurar uma entrega para testes A/B.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415929?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446292?quality=12&learn=on&captions=por_br){transcript=true}

@@ -23,4 +23,4 @@ Em uma campanha entre canais, uma única comunicação de marketing usa canais d
 
 Saiba como criar uma campanha entre canais usando entregas de email e de correspondência direta com base na interação do cliente com a primeira entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453526?quality=12&learn=on&captions=por_br){transcript=true}
