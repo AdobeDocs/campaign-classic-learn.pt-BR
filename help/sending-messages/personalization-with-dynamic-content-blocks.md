@@ -44,4 +44,4 @@ Ao configurar campos de conteúdo condicional, você pode criar personalização
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
-Para saber mais sobre o Personalization, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).
+Para saber mais sobre o Personalization, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=pt-BR).

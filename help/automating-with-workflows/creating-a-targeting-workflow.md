@@ -23,4 +23,4 @@ O Adobe Campaign usa workflows para realizar campanhas de direcionamento, criar 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
 
 Consulte a documentação [sobre fluxos de trabalho](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=pt-BR)
-e [sobre atividades de direcionamento](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) para obter mais informações.
+e [sobre atividades de direcionamento](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=pt-BR) para obter mais informações.
