@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
    + [Criar uma campanha e um email](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [Perfil de público alvo em um fluxo de trabalho](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [Criar campanhas acionadas por evento](/help/getting-started/create-event-triggered-campaigns.md)
-+ Gerenciamento de perfil {#profile-management}
++ Gerenciamento de perfis {#profile-management}
    + [Criar e gerenciar perfis](/help/profile-management/create-and-manage-profiles.md)
    + [Importar perfis](/help/data-management/importing-profiles.md)
    + [Criar uma lista de destinatários](/help/profile-management/creating-a-list-of-recipients.md)
@@ -67,13 +67,13 @@ ht-degree: 100%
    + Monitoramento de mensagens {#monitoring-messages}
       + [Entender o gerenciamento de quarentena](/help/sending-messages/quarantine-management.md)
    + [Configuração e gerenciamento de serviços de assinatura](/help/sending-messages/configuring-and-managing-subscription-services.md)
-+ Orquestrar campanhas {#orchestration}
++ Organizar campanhas {#orchestration}
    + [Executar uma campanha](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [Introdução a campanhas com vários canais e entre canais](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Criar campanhas multicanais](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [Criar campanhas entre canais](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + Relatórios {#reporting}
-   + [Acesso aos relatórios internos](/help/reporting/accessing-built-in-reports.md)
+   + [Acesso aos relatórios integrados](/help/reporting/accessing-built-in-reports.md)
    + [Gerar um relatório de análise descritiva](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatizar com um fluxo de trabalho{#automating-with-workflows}
    + [Criar um fluxo de trabalho](/help/automating-with-workflows/creating-a-workflow.md)
@@ -103,7 +103,7 @@ ht-degree: 100%
 + Administrar {#administrating}
    + [Painel de controle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=pt-BR){target="_blank"}
    + [Configurar SMS para o Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=pt-BR)
-   + Acessar um banco de dados externo (FDA) {#fda}
+   + Acesso a um banco de dados externo (FDA) {#fda}
       + [Gerenciamento de big data no  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Solução de problemas do Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=pt-BR)
 + Estratégia e liderança de pensamento{#strategy}
