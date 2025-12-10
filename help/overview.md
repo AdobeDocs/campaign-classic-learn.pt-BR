@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 303705cfde82c630dbf603ab40b7df1c73113449
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '197'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 <tr>
   <td>
     <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-      <img alt="Heatmaps do workflow (vídeo)" src="./assets/workflow-heatmap.png"/>
+      <img alt="Workflow Heatmaps (vídeo)" src="./assets/workflow-heatmap.png"/>
     </a>
     <div>
       <a href="./monitoring-campaign-classic/workflow-heatmap.md">
@@ -43,7 +43,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
     </a>
     </div>
     <p>
-    <em>Obtenha uma visão geral sobre o número de workflows simultâneos.</em>
+    <em>Obtenha uma visão geral sobre o número de fluxos de trabalho simultâneos.</em>
     <p>
   </td>
    <td>

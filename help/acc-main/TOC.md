@@ -6,16 +6,16 @@ user-guide-description: Vídeos e tutoriais do Adobe Campaign Classic v7.
 breadcrumb-title: Tutoriais do Campaign Classic v7
 auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '415'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
 # Tutoriais do Adobe Campaign Classic v7 {#tutorials}
 
-+ [Adobe Campaign Classic V7 - Tutoriais](/help/overview.md)
++ [Adobe Campaign Classic V7 – Tutoriais](/help/overview.md)
 + Introdução {#getting-started}
    + [Introdução ao Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Instalar e configurar o Adobe Campaign client](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -25,7 +25,7 @@ ht-degree: 95%
    + [Criar uma campanha e um email](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [Perfil de público alvo em um fluxo de trabalho](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [Criar campanhas acionadas por evento](/help/getting-started/create-event-triggered-campaigns.md)
-+ Gerenciamento de perfis {#profile-management}
++ Gerenciamento de perfil {#profile-management}
    + [Criar e gerenciar perfis](/help/profile-management/create-and-manage-profiles.md)
    + [Importar perfis](/help/data-management/importing-profiles.md)
    + [Criar uma lista de destinatários](/help/profile-management/creating-a-list-of-recipients.md)
@@ -64,7 +64,7 @@ ht-degree: 95%
    + Gerenciamento de fadiga{#fatigue-management}
       + [Usar regras de tipologia](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Usar filtros predefinidos](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + Monitoramento de mensagens {#monitoring-messages}
+   + Monitorar mensagens {#monitoring-messages}
       + [Entender o gerenciamento de quarentena](/help/sending-messages/quarantine-management.md)
    + [Configuração e gerenciamento de serviços de assinatura](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Organizar campanhas {#orchestration}
@@ -75,7 +75,7 @@ ht-degree: 95%
 + Relatórios {#reporting}
    + [Acesso aos relatórios integrados](/help/reporting/accessing-built-in-reports.md)
    + [Gerar um relatório de análise descritiva](/help/reporting/generating-a-descriptive-analysis-report.md)
-+ Automatizar com um fluxo de trabalho{#automating-with-workflows}
++ Automatizar com fluxo de trabalho{#automating-with-workflows}
    + [Criar um fluxo de trabalho](/help/automating-with-workflows/creating-a-workflow.md)
    + [Criar um fluxo de trabalho de direcionamento](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Refinar alvos combinando resultados de consulta](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
@@ -88,8 +88,8 @@ ht-degree: 95%
    + [Segmentação de dados](/help/data-management/data-segmentation.md)
    + [Gerenciar aprovações](/help/automating-with-workflows/managing-approvals.md)
    + [Aprenda com seus colegas - Práticas recomendadas de fluxos de trabalho](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
-+ Configurar Landing Pages {#landing-pages}
-   + [Configurar Landing Pages](/help/designing-content/configure-landingpages.md)
++ Configurar páginas de destino {#landing-pages}
+   + [Configurar páginas de destino](/help/designing-content/configure-landingpages.md)
    + [Criar uma central de preferências](/help/designing-content/create-a-preference-center.md)
 + [Criar uma pesquisa](/help/designing-content/create-a-survey.md)
 + Monitorar {#monitoring}
@@ -105,6 +105,6 @@ ht-degree: 95%
    + [Configurar SMS para o Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=pt-BR)
    + Acesso a um banco de dados externo (FDA) {#fda}
       + [Gerenciamento de big data no  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-+ [Solução de problemas do Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=pt-BR)
++ [Solução de problemas do Adobe Campaign](https://experienceleague.adobe.com/pt-br/docs/campaign-classic-learn/troubleshooting/overview)
 + Estratégia e liderança de pensamento{#strategy}
    + [Dez práticas recomendadas para o sucesso de profissionais de marketing no Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
