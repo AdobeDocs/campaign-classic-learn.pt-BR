@@ -20,4 +20,4 @@ ht-degree: 32%
 
 O Adobe Campaign usa workflows para realizar campanhas de direcionamento, criar campanhas ou executar processos técnicos do Adobe Campaign. Neste vídeo, focamos em workflows para construção do target. Os workflows para construção do target permitem que você crie vários targets de delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31835?captions=por_br&quality=12&learn=on){transcript=true}
