@@ -6,10 +6,10 @@ index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: d0fc0f9009f090af6f2bc366d199594026044d18
+source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 100%
+source-wordcount: '166'
+ht-degree: 94%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 100%
    + [Exibição de avisos ou erros de script durante o logon](/help/troubleshoot-adobe-campaign/script-error-during-login-errors.md)
    + [Correção de erros de logon no console](/help/troubleshoot-adobe-campaign/console-login-errors.md)
    + [Correção de Id Zero](/help/troubleshoot-adobe-campaign/fixing-zero-id.md)
-+ Workflows {#workflows}
++ Fluxos de trabalho {#workflows}
    + [Impedir que uma conta de usuário desabilitada interrompa um fluxo de trabalho em execução](/help/troubleshoot-adobe-campaign/prevent-disabled-accounts-from-stopping-workflow.md)
-   + [Aumentar o número de workflows em execução paralela](/help/troubleshoot-adobe-campaign/increase-parallel-workflows.md)
-   + [Filtrar workflows com a condição manter resultado](/help/troubleshoot-adobe-campaign/keep-result-workflow.md)
+   + [Aumentar o número de fluxos de trabalho em execução paralela](/help/troubleshoot-adobe-campaign/increase-parallel-workflows.md)
+   + [Filtrar fluxos de trabalho com a condição manter resultado](/help/troubleshoot-adobe-campaign/keep-result-workflow.md)
    + [Nomes de saída da entrega de consulta](/help/troubleshoot-adobe-campaign/query-delivery-output-names.md)
    + [A sessão expira ao aprovar uma oferta](/help/troubleshoot-adobe-campaign/session-expired-approving-offer.md)
    + [Interrupção incondicional no fluxo de trabalho do Adobe Campaign.](/help/troubleshoot-adobe-campaign/unconditional-stop-workflow.md)
-+ Entregas e canais {#deliveries-and-channels}
++ Deliveries e canais {#deliveries-and-channels}
    + [Impedir que mensagens desabilitadas enviem emails](/help/troubleshoot-adobe-campaign/disabled-messages-sending-emails.md)
    + [Erro de depuração de mensagem cancelada em uma entrega](/help/troubleshoot-adobe-campaign/message-cancelled-error.md)
    + [Entrega de SMS em estado pendente](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
