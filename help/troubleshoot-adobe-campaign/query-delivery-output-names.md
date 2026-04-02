@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba como buscar dados XML da entrega
 
->[!VIDEO](https://video.tv.adobe.com/v/335949?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436723?captions=por_br&quality=12&learn=on){transcript=true}

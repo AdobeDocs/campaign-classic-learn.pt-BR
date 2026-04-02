@@ -17,4 +17,4 @@ ht-degree: 100%
 # Mensagens desabilitadas que acionam emails
 
 Saiba como parar emails de mensagens desabilitadas
->[!VIDEO](https://video.tv.adobe.com/v/335981?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437116?captions=por_br&quality=12&learn=on){transcript=true}
