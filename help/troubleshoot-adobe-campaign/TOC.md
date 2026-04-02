@@ -7,9 +7,9 @@ feature: Overview
 role: Admin
 level: Experienced
 source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '166'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 94%
    + [Nomes de saída da entrega de consulta](/help/troubleshoot-adobe-campaign/query-delivery-output-names.md)
    + [A sessão expira ao aprovar uma oferta](/help/troubleshoot-adobe-campaign/session-expired-approving-offer.md)
    + [Interrupção incondicional no fluxo de trabalho do Adobe Campaign.](/help/troubleshoot-adobe-campaign/unconditional-stop-workflow.md)
-+ Deliveries e canais {#deliveries-and-channels}
++ Entregas e canais {#deliveries-and-channels}
    + [Impedir que mensagens desabilitadas enviem emails](/help/troubleshoot-adobe-campaign/disabled-messages-sending-emails.md)
    + [Erro de depuração de mensagem cancelada em uma entrega](/help/troubleshoot-adobe-campaign/message-cancelled-error.md)
    + [Entrega de SMS em estado pendente](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)

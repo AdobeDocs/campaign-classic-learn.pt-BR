@@ -7,7 +7,7 @@ breadcrumb-title: Tutoriais do Campaign Classic v7
 auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: ht
-source-wordcount: '415'
+source-wordcount: '485'
 ht-degree: 100%
 
 ---
@@ -46,15 +46,15 @@ ht-degree: 100%
       + [Definir conteúdo de email interativo com o AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Solução de problemas de entrega de email](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Adicionar anexos a uma entrega de email](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
-      + [Criar emails para capacidade de entrega](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [Maximizar o ROI do email e práticas recomendadas para reengajamento do assinante](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=pt-BR)
-      + [Manual de práticas recomendadas para capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
+      + [Projetar emails para capacidade de entrega](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Maximizar o ROI do email e práticas recomendadas para reengajamento do assinante](https://experienceleague.adobe.com/pt-br/docs/campaign-learn/tutorials/sending-messages/email/campaign-maximize-email-best-practices)
+      + [Guia de práticas recomendadas de capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
    + Canal de SMS {#sms-channel}
       + [Criar uma entrega de SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canal por push {#push-channel}
       + [Instalação do canal do aplicativo para dispositivos móveis](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configurar o canal por push usando o SDK móvel da Experience Platform](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-      + [Introdução a notificações por push para Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=pt-BR)
+      + [Introdução a notificações push para Android (tutorial)](https://experienceleague.adobe.com/pt-br/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction)
    + Correspondência direta {#direct-mail}
       + [Criar entregas de correspondência direta](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Usar modelos de entrega{#using-delivery-templates}
@@ -101,8 +101,8 @@ ht-degree: 100%
    + [Integração com o Adobe Target](/help/integrations/target-integration.md)
    + [Integração com o Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administrar {#administrating}
-   + [Painel de controle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=pt-BR){target="_blank"}
-   + [Configurar SMS para o Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=pt-BR)
+   + [Painel de controle](https://experienceleague.adobe.com/pt-br/docs/control-panel-learn/tutorials/control-panel-overview){target="_blank"}
+   + [Configurar SMS para o Adobe Campaign](https://experienceleague.adobe.com/pt-br/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview)
    + Acesso a um banco de dados externo (FDA) {#fda}
       + [Gerenciamento de big data no  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Solução de problemas do Adobe Campaign](https://experienceleague.adobe.com/pt-br/docs/campaign-classic-learn/troubleshooting/overview)

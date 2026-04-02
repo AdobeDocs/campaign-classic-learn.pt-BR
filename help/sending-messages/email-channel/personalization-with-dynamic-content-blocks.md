@@ -12,7 +12,7 @@ level: Experienced
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: ht
-source-wordcount: '115'
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
@@ -26,6 +26,6 @@ Um bloco de personalização é dinâmico, personalizado e contém um código de
 
 Saiba como criar blocos de conteúdo dinâmico e como usá-los para personalizar o conteúdo de sua entrega de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/340472?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
 
 Para saber mais sobre personalização, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=pt-BR).

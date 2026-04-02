@@ -9,9 +9,9 @@ jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
 source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1354'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -22,11 +22,11 @@ Christian Klimczyk se autodescreve como um “nerd em Adobe”, e possui sete an
 Neste artigo, Christian compartilha suas práticas recomendadas para ajudar os profissionais do Adobe Campaign a desbloquear e acelerar a transformação digital do consumidor e oferecer uma melhor experiência para seus clientes.
 
 
-## &#x200B;1. Formar um plano abrangente de marketing e delivery coesos
+## &#x200B;1. Elabore um plano abrangente e coeso de marketing e entrega
 
 O primeiro passo para garantir seu sucesso com o [!DNL Adobe Campaign] é entender sobre as ferramentas e as expectativas dos clientes — e isso vale para qualquer tipo de marketing. Defina e entenda claramente os canais usados para entrar em contato com seus consumidores e saiba quando usar esses canais e por quê.
 
-O Adobe Campaign é uma ferramenta flexível que permite executar e orquestrar comunicações de várias maneiras. [Metade dos clientes interagem com três a cinco canais durante cada jornada de compra](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Portanto, entender e ter um plano de como usar esses canais antecipadamente é fundamental para aproveitar todo o potencial da sua plataforma e se conectar com seus clientes.
+O Adobe Campaign é uma ferramenta flexível que permite executar e orquestrar comunicações de diversas maneiras. [Metade dos clientes interage com três a cinco canais durante cada jornada de compra](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Portanto, entender e ter um plano de como usar esses canais antecipadamente é fundamental para aproveitar todo o potencial da sua plataforma e se conectar com seus clientes.
 
 ## &#x200B;2. Documente e entenda os dados do cliente
 
@@ -46,45 +46,45 @@ No Adobe Campaign, você pode orquestrar a segmentação de forma rápida e fác
 
 A qualidade de suas campanhas está diretamente relacionada à qualidade das estruturas de dados subjacentes que as sustentam. Conhecer e documentar essa estrutura de dados também ajuda caso surjam problemas ao integrar plataformas ou migrar para uma plataforma de dados do consumidor
 
-## &#x200B;3. Planeje o tempo de suas campanhas
+## &#x200B;3. Planeje o momento certo das suas campanhas
 
 Assim como seus clientes, você tem uma rotina diária. O envio e a orquestração de suas campanhas devem corresponder a esse ritmo. Caso contrário, você pode não alcançar seus clientes, já que [85% dos emails enviados não são abertos e 98% dos emails enviados não recebem um click-through](https://www.validity.com/resource-center/state-of-email-2021/).
 
-Por exemplo, se os seus clientes verificam o telefone pela manhã em busca das melhores ofertas, considere enviar a eles uma mensagem de texto com uma promoção. Se eles estiverem navegando à noite em busca da próxima tendência, considere enviar um email de acompanhamento com um código promocional de envio grátis. Também é importante usar a ferramenta de mapa de calor no [!DNL Campaign] para rastrear quando os fluxos de trabalho e envios estão sendo executados. Coordenar e facilitar as comunicações em várias marcas pode ser um desafio. [Acompanhar e conhecer o ritmo, a cadência e o tempo de seus emails](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=pt) são inestimáveis para a estabilidade e a força geral de sua mensagem e instância do Campaign.
+Por exemplo, se os seus clientes verificam o telefone pela manhã em busca das melhores ofertas, considere enviar a eles uma mensagem de texto com uma promoção. Se eles estiverem navegando à noite em busca da próxima tendência, considere enviar um email de acompanhamento com um código promocional de envio grátis. Também é importante usar a ferramenta de mapa de calor no [!DNL Campaign] para rastrear quando os fluxos de trabalho e envios estão sendo executados. Coordenar e facilitar a comunicação entre várias marcas pode ser um desafio. [Acompanhar e conhecer o ritmo, a cadência e o momento dos seus emails](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=pt) é fundamental para a estabilidade e a força geral da sua mensagem e da sua campanha.
 
-## &#x200B;4. Use a personalização onde for importante
+## &#x200B;4. Use a personalização onde ela faz diferença
 
-Atualmente, os consumidores esperam algum nível de personalização nas mensagens que recebem. [80% dos clientes têm mais probabilidade de comprar de uma marca que fornece experiências personalizadas](https://us.epsilon.com/power-of-me). Usar o nome deles na linha de assunto é uma excelente opção. No entanto, a personalização pode ir muito além disso. É possível incluir os produtos que eles procuraram, conectá-los a produtos semelhantes ou continuar a reforçar a experiência coesa e a aparência de sua marca. Cada detalhe importa e aumenta o engajamento e as taxas de abertura de suas mensagens.
+Atualmente, os consumidores esperam algum nível de personalização nas mensagens que recebem. [80% dos clientes têm maior probabilidade de comprar de uma marca que oferece experiências personalizadas](https://us.epsilon.com/power-of-me). Usar o nome deles na linha de assunto é uma excelente opção. No entanto, a personalização pode ir muito além disso. É possível incluir os produtos que eles procuraram, conectá-los a produtos semelhantes ou continuar a reforçar a experiência coesa e a aparência de sua marca. Cada detalhe importa e aumenta o engajamento e as taxas de abertura de suas mensagens.
 
-## &#x200B;5. Ter um inventário íntegro de ativos criativos
+## &#x200B;5. Tenha um bom inventário de ativos criativos
 
 Os ativos criativos são o combustível que ajuda a abastecer seu motor de entrega de campanha bem regulado. Quanto mais bem-sucedido você for em alcançar seus consumidores e quanto mais você expandir e amadurecer seus processos de marketing, de mais conteúdo criativo você precisará. Os consumidores esperam isso.
 
-Você só é tão rápido quanto a próximo entrega que sua equipe pode configurar. Geralmente, isso requer conteúdo novo e interessante. [!DNL Adobe Campaign] O facilita a configuração de templates e o recebimento e a preparação desses deliveries. No entanto, ter um bom pipeline de ativos criativos é essencial, pois, de acordo com um [relatório da Litmus](https://www.litmus.com/resources/state-of-email/), 58% dos profissionais de marketing observaram que são necessárias duas semanas ou mais para criar uma única campanha de email.
+Você só é tão rápido quanto a próximo entrega que sua equipe pode configurar. Muitas vezes, isso exige conteúdo novo e empolgante. [!DNL Adobe Campaign]facilita a configuração de modelos, o recebimento e o preparo dessas entregas. No entanto, ter um bom pipeline de ativos criativos é essencial, pois, de acordo com um [relatório da Litmus](https://www.litmus.com/resources/state-of-email/), 58% dos profissionais de marketing observaram que são necessárias duas semanas ou mais para criar uma única campanha de email.
 
-## &#x200B;6. Entender e gerenciar assinaturas e preferências
+## &#x200B;6. Entenda e gerencie assinaturas e preferências
 
 A gestão e manutenção das preferências de assinatura podem rapidamente se tornar um processo confuso, gerando vários níveis de risco. Assim como enviar ao cliente a mensagem errada por meio de um canal ao qual ele não responde, nove em cada dez consumidores afirmam que ter uma experiência negativa os torna menos propensos a fazer compras com uma marca no futuro. Em maior escala, você pode se expor a riscos e multas regulatórias e de conformidade.
 
 Tenha uma estratégia inicial para gerenciar a aceitação e cultivar esse ecossistema em constante evolução por meio do uso especializado do [!DNL Adobe Campaign] e de outras ferramentas de tecnologia de marketing. Geralmente, essa é uma das maiores métricas de sucesso de campanha. Portanto, um planejamento cuidadoso oferece resultados inestimáveis à medida que sua estratégia de campanha cresce e amadurece.
 
-## &#x200B;7. Entender e planejar a capacidade de entrega
+## &#x200B;7. Entenda e planeje a capacidade de entrega
 
 _A capacidade de entrega_ geralmente parece um conceito enigmático e complicado. Uma importante regra básica da capacidade de entrega é o planejamento estratégico. Aquecer endereços IP e criar uma boa reputação leva tempo. Porém, uma queda de reputação pode ocorrer rapidamente, tornando difícil reparar qualquer dano que tenha ocorrido. Na verdade, **um em cada seis emails não chega até a caixa de entrada**.
 
 Problemas de capacidade de entrega podem ocorrer devido a vários problemas, sejam técnicos ou baseados em como os consumidores respondem ao seu marketing. Manter a [capacidade de entrega](https://business.adobe.com/br/products/campaign/email-deliverability.html) em mente ao criar e executar campanhas, e durante o processo de retrospectiva, pode garantir que você mantenha um ambiente saudável e estável e continue a fornecer experiências positivas para os clientes.
 
-## &#x200B;8. Planejar e desenvolver um processo retrospectivo de campanha
+## &#x200B;8. Planeje e desenvolva um processo retrospectivo de campanha
 
 Por mais ocupado que você possa estar com a entrega e a orquestração de campanhas, algo tão importante quanto isso, se não mais, é revisar o que você alcançou e reavaliar os seus processos e a segmentação das suas campanhas. Realize retrospectivas de campanha a cada duas ou quatro semanas, dependendo da escala e da velocidade das execuções de campanha.
 
 Criar um conjunto de perguntas padronizadas pode ajudar a nortear conversas profundas e ponderadas sobre como melhorar os tempos de lead da campanha, a criatividade ou a segmentação, entre muitos outros tópicos. Às vezes, você só pode melhorar e tornar-se mais rápido se aprender com as suas experiências passadas.
 
-## &#x200B;9. Testar e iterar
+## &#x200B;9. Teste e ajuste
 
 Ao tentar coisas novas, você nem sempre acerta na primeira vez. Portanto, é crucial testar e repetir seus processos e táticas. Teste um grupo de clientes que pode ser um tiro no escuro ou uma boa opção. Ative sua criatividade. Experimente uma nova abordagem. Mudar só por mudar não é algo produtivo, mas muitos experimentos pequenos e precisos ao longo do tempo podem resultar em possíveis grandes ganhos futuros para você e seus clientes.
 
-## &#x200B;10. Permaneça o mais ágil possível
+## &#x200B;10. Seja o mais ágil possível
 
 O mercado continua a mudar e a mover-se a um ritmo cada vez maior. Encorajar suas equipes de campanha a permanecerem o mais leves e ágeis possível é fundamental para competir e continuar atendendo às crescentes expectativas dos clientes.
 
