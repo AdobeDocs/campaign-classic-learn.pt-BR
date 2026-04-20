@@ -5,13 +5,15 @@ type: Tutorial
 solution: Campaign, Campaign Classic v7
 version: Campaign Classic v7
 feature-set: Campaign
+landing-page-name: campaign
+landing-page-breadcrumb-title: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-classic-learn.pt-BR
+git-repo: https://github.com/AdobeDocs/campaign-classic-learn.en
 index: true
-source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
-workflow-type: ht
+source-git-commit: 72d10799b685f0925d5e6dd8b8df5cf0ff38ed98
+workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -20,7 +22,7 @@ ht-degree: 100%
 
 O arquivo metadata.md inclui metadados de nível de repositório que passam para os arquivos TOC.md do guia do usuário no repositório. Se quiser alterar o conteúdo metadata.md para qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
 
-| metadados | o que isso significa |
+| metadados | O que isso significa |
 |--- |--- |
 | solution-title | Usado no cabeçalho do artigo como link |
 | solution-hub-url | Abre a página helpx hub |
@@ -32,7 +34,7 @@ O arquivo metadata.md inclui metadados de nível de repositório que passam para
 
 No arquivo TOC.md
 
-| metadados | o que isso significa |
+| metadados | O que isso significa |
 |--- |--- |
 | user-guide-title | Usado no cabeçalho do artigo como link |
 | user-guide-url | Abre a página helpx hub |
