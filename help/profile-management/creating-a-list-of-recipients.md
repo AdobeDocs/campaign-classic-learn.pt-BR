@@ -10,9 +10,13 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 91e3c9ea-9e5f-43bc-8ed4-ab57e6226d2b
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/0ZPKA4YgJ2G0Ake3ar6xwT7fflfip14IvUN38NCSnIU
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: 74
 ht-degree: 100%
 
 ---
@@ -23,4 +27,4 @@ Uma lista é um conjunto estático de destinatários que pode ser focada em aç�
 
 Aprenda a criar um público-alvo configurando uma lista de destinatários do Explorer.
 
->[!VIDEO](https://video.tv.adobe.com/v/31866?learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25602?learn=on){transcript=true}
