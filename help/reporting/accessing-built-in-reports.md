@@ -32,4 +32,4 @@ ht-degree: 56%
 
 Entenda os relatórios e análises integrados no Campaign Classic e saiba como gerar um relatório de entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449491?captions=por_br&quality=12&learn=on){transcript=true}

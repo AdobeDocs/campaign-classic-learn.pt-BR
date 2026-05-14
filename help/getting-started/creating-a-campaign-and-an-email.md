@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Saiba como criar uma entrega de email diretamente de uma campanha.
 
->[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31837?captions=por_br&quality=12&learn=on){transcript=true}

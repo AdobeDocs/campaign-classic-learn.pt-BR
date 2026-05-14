@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Saiba como configurar e gerenciar assinaturas e direcionar assinantes.
 
->[!VIDEO](https://video.tv.adobe.com/v/329941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452442?captions=por_br&quality=12&learn=on){transcript=true}

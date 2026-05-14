@@ -29,6 +29,6 @@ ht-degree: 57%
 As aprovações permitem que os operadores tomem decisões que regem um fluxo de trabalho ou confirmem sua execução contínua.
 Saiba como configurar aprovações e uma campanha e como diferenciar entre aprovações de entrega e fluxo de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452616?captions=por_br&quality=12&learn=on){transcript=true}
 
 Para saber mais sobre definição de aprovações, consulte a [Documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=pt-BR#sending-emails).

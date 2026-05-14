@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Saiba como solucionar problemas de entrega de email no Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/329920?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/343092?captions=por_br&quality=12&learn=on){transcript=true}

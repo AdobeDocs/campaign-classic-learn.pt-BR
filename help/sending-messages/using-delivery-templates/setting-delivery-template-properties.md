@@ -28,4 +28,4 @@ ht-degree: 78%
 
 O vídeo a seguir mostra como definir as propriedades do modelo de entrega e explica em detalhes cada propriedade.
 
->[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34572?captions=por_br&quality=12&learn=on){transcript=true}

@@ -44,4 +44,4 @@ Um modelo pode incluir sistematicamente:
 
 O vídeo a seguir mostra como configurar um modelo para uma entrega ad hoc.
 
->[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31864?captions=por_br&quality=12&learn=on){transcript=true}

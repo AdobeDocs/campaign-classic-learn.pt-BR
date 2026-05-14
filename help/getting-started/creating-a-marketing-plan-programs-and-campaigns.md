@@ -31,4 +31,4 @@ ht-degree: 100%
 Descubra como criar um plano de marketing, programa e campanha; além disso, aprenda a definir as propriedades de uma campanha e saiba utilizar o cronograma.
 O vídeo o conduzirá por um exercício que poderá ser seguido.
 
->[!VIDEO](https://video.tv.adobe.com/v/35132?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326560?captions=por_br&quality=12&learn=on){transcript=true}

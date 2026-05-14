@@ -30,7 +30,7 @@ ht-degree: 100%
 
 Entenda o uso de workflows da campanha e saiba como criar um workflow e perfis de público alvo em um fluxo de trabalho usando as condições de filtragem.
 
->[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327085?captions=por_br&quality=12&learn=on){transcript=true}
 
 ## Próximos tutoriais para assistir
 

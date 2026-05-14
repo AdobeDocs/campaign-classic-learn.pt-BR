@@ -29,4 +29,4 @@ ht-degree: 64%
 
 O Adobe Campaign usa fluxos de trabalho para realizar campanhas de segmentação, criar campanhas ou executar processos técnicos do Adobe Campaign. Neste vídeo, focamos em workflows para construção do target. Os fluxos de trabalho de segmentação permitem que você crie vários targets de entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31835?captions=por_br&quality=12&learn=on){transcript=true}

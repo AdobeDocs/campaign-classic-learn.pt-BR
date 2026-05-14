@@ -31,4 +31,4 @@ O Adobe Campaign inclui um módulo de fluxo de trabalho que possibilita orquestr
 
 Este vídeo explica como criar um workflow no Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31834?captions=por_br&quality=12&learn=on){transcript=true}
