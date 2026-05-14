@@ -10,9 +10,16 @@ team: WWFRE
 role: User, Admin, Developer
 level: Experienced
 exl-id: 99b8acff-0105-4764-82ec-7c2dfe75f0f9
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/C8aNyq0HypHqvOY4loQpea0Yfm3sKg-2YNP3iAdEGYU
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: 30
 ht-degree: 100%
 
 ---
@@ -21,4 +28,4 @@ ht-degree: 100%
 
 Saiba como configurar e gerenciar assinaturas e direcionar assinantes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452442?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452442?captions=por_br&quality=12&learn=on){transcript=true}
