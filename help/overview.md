@@ -32,9 +32,9 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 83%
+ht-degree: 100%
 ---
 # Tutoriais do Adobe Campaign Classic v7
 
@@ -62,7 +62,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
     </a>
     <div>
       <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-    <strong>Heatmaps do fluxo de trabalho</strong>
+    <strong>Workflow Heatmaps</strong>
     </a>
     </div>
     <p>
@@ -88,7 +88,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-    <strong>Definindo Conteúdo de Email Interativo com AMP</strong>
+    <strong>Definir conteúdo de email interativo com o AMP</strong>
     </a>
     </div>
     <p>

@@ -32,7 +32,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
 ht-degree: 100%
 ---
@@ -40,4 +40,4 @@ ht-degree: 100%
 
 Fluxos de trabalho, um poderoso recurso do Adobe Campaign, ajudam você a gerenciar campanhas e alcançar clientes com mais facilidade. Aprenda e aplique as cinco práticas essenciais de fluxo de trabalho para profissionais de marketing com Adam Wilson, sócio diretor de marketing da LoyaltyOne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448132?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}

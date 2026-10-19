@@ -28,7 +28,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '168'
 ht-degree: 100%
 ---
@@ -57,6 +57,6 @@ A [!UICONTROL Audit Trail] registra e lista as ações do operador, como criaç�
 
 O vídeo abaixo descreve onde acessar os registros de trilha de auditoria e quais configurações podem ser definidas.
 
->[!VIDEO](https://video.tv.adobe.com/v/33966?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on){transcript=true}
 
 Mais informações podem ser encontradas na [Documentação da trilha de auditoria](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=pt-BR).
