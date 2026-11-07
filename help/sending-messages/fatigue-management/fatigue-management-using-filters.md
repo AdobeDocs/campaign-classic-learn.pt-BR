@@ -51,6 +51,6 @@ O gerenciamento de fadiga controla a frequência e a quantidade de mensagens par
 
 Este vídeo explica como implementar o gerenciamento de fadiga no Adobe Campaign Classic usando filtros.
 
->[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507476?captions=por_br&quality=12&learn=on){transcript=true}
 
 Visite a documentação do produto para saber mais sobre [tipologias de campanha](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=pt-BR).
